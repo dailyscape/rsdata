@@ -19,7 +19,7 @@ if test "$curl_status" == "0"; then
     for row in $(jq -cr '.[]' <<< ${curl_response}); do
         itemid=$(jq -r '.id' <<< ${row})
         itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemjson})
-        itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item)' <<< $(echo "${row} ${itemdata}"))
+        itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del( .id, .timestamp, .volume)' <<< $(echo "${row} ${itemdata}"))
         new_data+="\"${itemid}\":${itemmerged},\n"
     done
     new_data="${new_data:0:-3}\n}"
