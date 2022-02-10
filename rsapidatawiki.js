@@ -73,6 +73,7 @@ var rsapidata = {
 "21626":{"price":14265,"name":"Grimy fellstalk"},
 "23191":{"price":17963,"name":"Potion flask"},
 "24116":{"price":2580,"name":"Bakriminel bolts"},
+"24382":{"price":9922,"name":"Royal dragonhide body"},
 "32092":{"price":19430,"name":"Vis wax"},
 "32843":{"price":4668,"name":"Crystal flask"},
 "36390":{"price":64144,"name":"Divine charge"},
