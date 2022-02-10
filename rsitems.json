@@ -75,5 +75,11 @@
     "5304": {"name": "Torstol seed"},
     "14870": {"name": "Wergali seed"},
     "43966": {"name": "Ultracompost"},
-    "20011": {"name": "Juju farming potion (4)"}
+    "20011": {"name": "Juju farming potion (4)"},
+    "11115": {"name": "Dragonstone bracelet"},
+    "11126": {"name": "Combat bracelet"},
+    "1683": {"name" : "Dragonstone amulet (u)"},
+    "11113": {"name": "Skills necklace"},
+    "1645": {"name": "Dragonstone ring"},
+    "1664": {"name": "Dragonstone necklace"}
 }
