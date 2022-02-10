@@ -6,17 +6,50 @@ starttime=$(date +%s)
 API_DATA_FILE=${API_DATA_FILE:="./rsapidatawiki.js"}
 ITEMS_DATA_FILE=${ITEMS_DATA_FILE:="./rsitems.json"}
 
-# @todo Each request is limited to 100 items, upgrade to request 100 at a time
 itemjson=$(<${ITEMS_DATA_FILE})
-itemstring=$(jq -r '. | keys[] as $k | "\($k)|"' <<< ${itemjson} | tr -d '[:space:]')
 
-curl_response=$(curl -Ssf https://api.weirdgloop.org/exchange/history/rs/latest?id=${itemstring:0:-1})
-curl_status=$?
+curl_response=""
+curl_status=0
+testjson=0
 
+itemcount=0
+itemstring=""
+
+getItemsAPI ()
+{
+    local itemstring=$1
+    curl_response+=$(curl -Ssf https://api.weirdgloop.org/exchange/history/rs/latest?id=${itemstring:0:-1})
+    curl_status=$?
+}
+
+for itemid in $(jq -rS '. | keys[]' <<< ${itemjson}); do
+    (( itemcount++ ))
+    itemstring+="${itemid}|"
+
+    # API allows 100 item ids at a time
+    if (( $itemcount % 100 == 0 )); then
+        getItemsAPI ${itemstring}
+
+        if (( $curl_status > 0 )); then
+            break
+        fi
+
+        itemstring=""
+        sleep 1
+    fi
+done
+
+# @todo Kludgy way of handling the last batch of items
+if (( $curl_status == 0 )) && (( $itemcount > 100 )); then
+    getItemsAPI ${itemstring}
+fi
+
+#merge local items file with incoming data
 if test "$curl_status" == "0"; then
-    #merge local items file with incoming data
+    combined_response=$(jq -s 'reduce .[] as $item ({}; . * $item)' <<< ${curl_response})
+
     new_data="{\n"
-    for row in $(jq -cr '.[]' <<< ${curl_response}); do
+    for row in $(jq -cr '.[]' <<< ${combined_response}); do
         itemid=$(jq -r '.id' <<< ${row})
         itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemjson})
         itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del( .id, .timestamp, .volume)' <<< $(echo "${row} ${itemdata}"))
