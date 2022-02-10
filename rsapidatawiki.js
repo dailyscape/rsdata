@@ -75,6 +75,7 @@ var rsapidata = {
 "24116":{"price":2580,"name":"Bakriminel bolts"},
 "32092":{"price":19430,"name":"Vis wax"},
 "32843":{"price":4668,"name":"Crystal flask"},
+"36390":{"price":64144,"name":"Divine charge"},
 "37952":{"price":115253,"name":"Bloodweed seeds"},
 "37975":{"price":28806,"name":"Grimy bloodweed"},
 "40303":{"price":1977,"name":"Feather of Ma'at"},
