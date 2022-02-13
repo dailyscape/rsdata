@@ -4,6 +4,7 @@
 starttime=$(date +%s)
 
 API_DATA_FILE=${API_DATA_FILE:="./rsapidatawiki.js"}
+API_UPDATED_FILE=${API_UPDATED_FILE:="./rsapiupdated.js"}
 ITEMS_DATA_FILE=${ITEMS_DATA_FILE:="./rsitems.json"}
 
 itemjson=$(<${ITEMS_DATA_FILE})
@@ -76,5 +77,6 @@ elif (( $testjson > 0 )); then
     exit 1
 else
     echo -e "var rsapidata = ${new_data};" > ${API_DATA_FILE}
+    echo -e "var rsapiupdated = ${endtime};" > ${API_UPDATED_FILE}
     echo "data saved"
 fi
