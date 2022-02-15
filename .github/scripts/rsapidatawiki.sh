@@ -8,6 +8,7 @@ API_UPDATED_FILE=${API_UPDATED_FILE:="./rsapiupdated.json"}
 ITEMS_DATA_FILE=${ITEMS_DATA_FILE:="./rsitems.json"}
 
 itemjson=$(<${ITEMS_DATA_FILE})
+oldapidata=$(<${API_DATA_FILE})
 
 curl_response=""
 curl_status=0
@@ -77,6 +78,11 @@ elif (( $testjson > 0 )); then
     exit 1
 else
     echo -e "var rsapidata = ${new_data};" > ${API_DATA_FILE}
-    echo -e "{\"updated\":${endtime}}" > ${API_UPDATED_FILE}
+
+    newapidata=$(<${API_DATA_FILE})
+    if [[ ${newapidata} != ${oldapidata} ]]; then
+        echo -e "{\"updated\":${endtime}}" > ${API_UPDATED_FILE}
+    fi
+
     echo "data saved"
 fi
