@@ -30,7 +30,6 @@ var rsapidata = {
 "564":{"price":228,"name":"Cosmic rune"},
 "565":{"price":975,"name":"Blood rune"},
 "566":{"price":3773,"name":"Soul rune"},
-"960":{"price":2056,"name":"Plank"},
 "1513":{"price":489,"name":"Magic logs"},
 "1515":{"price":311,"name":"Yew logs"},
 "1517":{"price":228,"name":"Maple logs"},
@@ -71,7 +70,6 @@ var rsapidata = {
 "5304":{"price":1539,"name":"Torstol seed"},
 "6332":{"price":910,"name":"Mahogany logs"},
 "7936":{"price":91,"name":"Pure essence"},
-"9075":{"price":653,"name":"Astral rune"},
 "10818":{"price":181,"name":"Yak-hide"},
 "11113":{"price":10457,"name":"Skills necklace"},
 "11115":{"price":9097,"name":"Dragonstone bracelet"},
@@ -88,6 +86,8 @@ var rsapidata = {
 "23191":{"price":18769,"name":"Potion flask"},
 "24116":{"price":2122,"name":"Bakriminel bolts"},
 "24382":{"price":9755,"name":"Royal dragonhide body"},
+"25798":{"price":7420,"name":"Red dragonhide shield"},
+"25800":{"price":9150,"name":"Black dragonhide shield"},
 "29556":{"price":9153,"name":"Elder logs"},
 "32092":{"price":20222,"name":"Vis wax"},
 "32843":{"price":3319,"name":"Crystal flask"},
@@ -99,5 +99,7 @@ var rsapidata = {
 "48201":{"price":61203,"name":"Arbuck seed"},
 "48243":{"price":16965,"name":"Grimy arbuck"},
 "48961":{"price":1428,"name":"Bomb vial"},
+"960":{"price":2056,"name":"Plank"},
+"9075":{"price":653,"name":"Astral rune"},
 "9978":{"price":748,"name":"Raw bird meat"}
 };
