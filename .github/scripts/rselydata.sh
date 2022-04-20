@@ -16,9 +16,7 @@ oldapidata=$(<${ELY_DATA_FILE})
 curl_response=""
 curl_status=0
 testjson=0
-
-itemcount=0
-itemstring=""
+items_success=1
 
 getItemAPI ()
 {
@@ -66,17 +64,24 @@ for itemrow in $(jq -crS '.[] | @base64' <<< ${itemjson}); do
     testjson=$?
     if (( $testjson > 0 )) || (( $curl_status > 0 )); then
         echo "Error on item id: ${itemid} - ${testjson} - ${curl_status}"
+        items_success=0
         break
     fi
-    pricedata=$(jq -cr . <<< ${curl_response})
+
+    #we want to get just data in the past 2 month and just the last 5 prices of those
+    datefilter=$(date -d "$today -2 month" "+%Y-%m-%d")
+    pricedata=$(jq -cr --arg datefilter "${datefilter}" '[.items[] | select(.date>=$datefilter)][:5]' <<< ${curl_response})
+    testjson=$?
+    if (( $testjson > 0 )); then
+        pricedata="[]"
+    fi
 
     #remap to rsid
-    new_data+="\"${rsitemid}\":{\"name\": \"${itemname}\", \"elyid\": \"${itemid}\", ${pricedata:1:-1}},\n"
+    new_data+="\"${rsitemid}\":{\"name\": \"${itemname}\", \"elyid\": \"${itemid}\", \"prices\": ${pricedata}},\n"
 
     sleep 0.5
 done
 new_data="${new_data:0:-3}\n}"
-echo -e "var rselydata = ${new_data};" > ${ELY_DATA_FILE}
 
 test_data=$(echo -e "${new_data}")
 jq -e . >/dev/null 2>&1 <<< $test_data
@@ -90,7 +95,7 @@ echo "Runtime: ${runtime}s"
 if (( $curl_status > 0 )); then
     echo "curl error"
     exit ${curl_status}
-elif (( $testjson > 0 )); then
+elif (( $testjson > 0 )) || (( $items_success < 1 )); then
     echo "json invalid"
     exit 1
 else
