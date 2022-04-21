@@ -104,7 +104,7 @@ var rselydata = {
 "43323":{"elyname": "Hot Sand Walk Override Token", "elyid": "8", "elyprices": [{"date":"2022-03-22","price":2295000}]},
 "47572":{"elyname": "Bone Master Outfit Token", "elyid": "112", "elyprices": []},
 "50633":{"elyname": "Earhart the penguin token", "elyid": "114", "elyprices": [{"date":"2022-03-28","price":632291},{"date":"2022-03-14","price":760000},{"date":"2022-03-08","price":787997},{"date":"2022-03-08","price":500000},{"date":"2022-03-07","price":750000}]},
-"39160":{"elyname": "Rainbow Cape", "elyid": "115", "elyprices": [{"date":"2022-03-29","price":2500000},{"date":"2022-03-18","price":3250000},{"date":"2022-03-07","price":3250000},{"date":"2022-03-01","price":2802000},{"date":"2022-02-28","price":2350000}]},
+"39160":{"elyname": "Rainbow Cape", "elyid": "115", "elyprices": [{"date":"2022-04-21","price":1000000},{"date":"2022-03-29","price":2500000},{"date":"2022-03-18","price":3250000},{"date":"2022-03-07","price":3250000},{"date":"2022-03-01","price":2802000}]},
 "42936":{"elyname": "Tomb Gorilla Pet Token", "elyid": "116", "elyprices": [{"date":"2022-04-14","price":2500000}]},
 "43319":{"elyname": "Arthur Pet Token", "elyid": "117", "elyprices": []},
 "47571":{"elyname": "Skeletal Bear Pet Token", "elyid": "118", "elyprices": []},
