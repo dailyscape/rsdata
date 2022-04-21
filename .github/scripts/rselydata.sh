@@ -48,7 +48,7 @@ new_data="{\n"
 for itemrow in $(jq -crS '.[] | @base64' <<< ${itemjson}); do
     itemrow=$(base64 --decode <<< ${itemrow})
     itemid=$(jq -cr '.id' <<< ${itemrow})
-    itemname=$(jq -cr '.name' <<< ${itemrow} | sed "s/[^A-Za-z0-9 ]//g" | xargs )
+    itemname=$(jq -cr '.name' <<< ${itemrow} | sed "s/[^A-Za-z0-9() ]//g" | xargs )
     itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemmap})
     rsitemid=$(jq -cr .rsid <<< ${itemdata})
 
@@ -68,11 +68,18 @@ for itemrow in $(jq -crS '.[] | @base64' <<< ${itemjson}); do
         break
     fi
 
-    #we want to get just data in the past 2 month and just the last 5 prices of those
+    #get last 5 prices in the past 2 months
     datefilter=$(date -d "$today -2 month" "+%Y-%m-%d")
     pricedata=$(jq -cr --arg datefilter "${datefilter}" '[.items[] | select(.date>=$datefilter)][:5]' <<< ${curl_response})
     testjson=$?
-    if (( $testjson > 0 )); then
+
+    #if no data then get just the last known price
+    if [[ $pricedata == "null" ]] || [[ $pricedata == "[]" ]] || (( $testjson > 0 )); then
+        pricedata=$(jq -cr '.items[:1]' <<< ${curl_response})
+        testjson=$?
+    fi
+
+    if [[ $pricedata == "null" ]] || [[ -z $pricedata ]] || (( $testjson > 0 )); then
         pricedata="[]"
     fi
 
