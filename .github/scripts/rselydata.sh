@@ -48,7 +48,7 @@ new_data="{\n"
 for itemrow in $(jq -crS '.[] | @base64' <<< ${itemjson}); do
     itemrow=$(base64 --decode <<< ${itemrow})
     itemid=$(jq -cr '.id' <<< ${itemrow})
-    itemname=$(jq -cr '.name | ltrimstr(" ") | rtrimstr(" ") | rtrimstr("\n")' <<< ${itemrow})
+    itemname=$(jq -cr '.name' <<< ${itemrow} | sed "s/[^A-Za-z0-9 ]//g" | xargs )
     itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemmap})
     rsitemid=$(jq -cr .rsid <<< ${itemdata})
 
@@ -77,7 +77,7 @@ for itemrow in $(jq -crS '.[] | @base64' <<< ${itemjson}); do
     fi
 
     #remap to rsid
-    new_data+="\"${rsitemid}\":{\"name\": \"${itemname}\", \"elyid\": \"${itemid}\", \"prices\": ${pricedata}},\n"
+    new_data+="\"${rsitemid}\":{\"elyname\": \"${itemname}\", \"elyid\": \"${itemid}\", \"elyprices\": ${pricedata}},\n"
 
     sleep 0.5
 done
