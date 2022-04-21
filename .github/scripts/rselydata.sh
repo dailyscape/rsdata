@@ -48,7 +48,7 @@ new_data="{\n"
 for itemrow in $(jq -crS '.[] | @base64' <<< ${itemjson}); do
     itemrow=$(base64 --decode <<< ${itemrow})
     itemid=$(jq -cr '.id' <<< ${itemrow})
-    itemname=$(jq -cr '.name' <<< ${itemrow} | sed "s/[^A-Za-z0-9()'- ]//g" | sed "s/'/%27/g" | xargs )
+    itemname=$(jq -cr '.name' <<< ${itemrow} | sed "s/[^ A-Za-z0-9()'-]//g" | sed "s/'/%27/g" | xargs )
 
     #@todo if we don't have a map of id's how can we still display the new info particularly with the rsitemid property
     itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemmap})
