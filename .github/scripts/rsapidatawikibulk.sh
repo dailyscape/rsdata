@@ -20,6 +20,7 @@ curl_response=""
 curl_status=0
 testjson=0
 newremotedata=0
+totalitems=0
 
 curl_response+=$(curl -Ssf https://chisel.weirdgloop.org/gazproj/gazbot/rs_dump.json)
 curl_status=$?
@@ -57,6 +58,8 @@ if test "$curl_status" == "0"; then
                         fi
 
                         echo $item > "${API_ITEM_DIRECTORY}${itemid}.json"
+
+                        (( totalitems++ ))
                     fi
                 fi
             done
@@ -88,7 +91,7 @@ elif (( $newremotedata > 0 )); then
     echo -e "var rsapidata = ${new_data};" > ${API_DATA_FILE}
     echo -e "var rssearchdata = ${search_data};" > ${API_SEARCH_FILE}
     echo -e "{\"updated\":${endtime}}" > ${API_UPDATED_FILE}
-    echo "data saved"
+    echo "data saved - ${totalitems} items"
 else
     echo "no new data"
     exit 0
