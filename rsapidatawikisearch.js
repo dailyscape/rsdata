@@ -3989,6 +3989,8 @@ var rssearchdata = {
 "1865":"Pitta bread",
 "1863":"Pitta dough",
 "2283":"Pizza base",
+"53313":"Plague doctor rest override token",
+"53314":"Plague doctor teleport override token",
 "44343":"Plague doctor walk override token",
 "20362":"Plain cooking urn (nr)",
 "40782":"Plain divination urn (nr)",
