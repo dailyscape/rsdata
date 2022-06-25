@@ -6,7 +6,7 @@ starttime=$(date +%s)
 
 API_DATA_FILE=${API_DATA_FILE:="./rsapidatawikibulk.js"}
 API_SEARCH_FILE=${API_SEARCH_FILE:="./rsapidatawikisearch.js"}
-API_UPDATED_FILE=${API_UPDATED_FILE:="./rsbulkupdated.json"}
+API_UPDATED_FILE=${API_UPDATED_FILE:="./rsapiupdated.json"}
 API_ITEM_DIRECTORY=${API_ITEM_DIRECTORY:="./items/"}
 ITEMS_DATA_FILE=${ITEMS_DATA_FILE:="./rsitems.json"}
 IMAGE_OUTPUT_DIR=${IMAGE_OUTPUT_DIR:="./images"}
