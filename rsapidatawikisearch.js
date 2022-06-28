@@ -5295,7 +5295,7 @@ var rssearchdata = {
 "45451":"Steel warhammer",
 "46993":"Steel warhammer + 1",
 "41177":"Stein weapon token",
-"51726":"Stephanie token",
+"51726":"Stephanie companion pet token",
 "2003":"Stew",
 "48957":"Sticky bomb",
 "12590":"Stinkbloom",
