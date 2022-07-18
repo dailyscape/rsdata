@@ -61,7 +61,7 @@ if test "$curl_status" == "0"; then
 
                         itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemjson})
                         if [[ "${itemdata}" != "null" ]]; then
-                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del(.id, .timestamp, .volume, .value, .lowalch, .name_pt)' <<< $(echo "${item} ${itemdata}"))
+                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del(.id, .timestamp, .volume, .value, .highalch, .lowalch, .name_pt)' <<< $(echo "${item} ${itemdata}"))
                             new_data+="\"${itemid}\":${itemmerged},\n"
                         fi
 
