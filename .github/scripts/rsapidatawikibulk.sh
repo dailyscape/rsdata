@@ -4,14 +4,20 @@
 
 starttime=$(date +%s)
 
-API_DATA_FILE=${API_DATA_FILE:="./rsapidatawikibulk.js"}
+API_DATA_FILE=${API_DATA_FILE:="./rsdata.js"}
+API_DATA_ALCH_FILE=${API_DATA_ALCH_FILE:="./rsdataalch.js"}
+API_DATA_WATCH_FILE=${API_DATA_WATCH_FILE:="./rsdatawatch.js"}
 API_SEARCH_FILE=${API_SEARCH_FILE:="./rsapidatawikisearch.js"}
 API_UPDATED_FILE=${API_UPDATED_FILE:="./rsapiupdated.json"}
 API_ITEM_DIRECTORY=${API_ITEM_DIRECTORY:="./items/"}
 ITEMS_DATA_FILE=${ITEMS_DATA_FILE:="./rsitems.json"}
+ALCH_DATA_FILE=${ALCH_DATA_FILE:="./rsitemsalch.json"}
+WATCH_DATA_FILE=${WATCH_DATA_FILE:="./rsitemswatch.json"}
 IMAGE_OUTPUT_DIR=${IMAGE_OUTPUT_DIR:="./images"}
 
 itemjson=$(<${ITEMS_DATA_FILE})
+alchjson=$(<${ALCH_DATA_FILE})
+watchjson=$(<${WATCH_DATA_FILE})
 oldapidata=$(<${API_DATA_FILE})
 lastupdated=$(<${API_UPDATED_FILE})
 lastupdated=$(jq -r '.updated' <<< ${lastupdated})
@@ -36,6 +42,8 @@ if test "$curl_status" == "0"; then
         remoteupdated=$(jq -r '."%UPDATE_DETECTED%"' <<< ${curl_response})
         if (( $remoteupdated > $lastupdated )); then
             new_data="{\n"
+            alch_data="{\n"
+            watch_data="{\n"
             search_data="{\n"
 
             for item in $(jq -cr '.[] | @base64' <<< ${curl_response}); do
@@ -53,8 +61,20 @@ if test "$curl_status" == "0"; then
 
                         itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemjson})
                         if [[ "${itemdata}" != "null" ]]; then
-                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del(.id, .timestamp, .volume, .name_pt)' <<< $(echo "${item} ${itemdata}"))
+                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del(.id, .timestamp, .volume, .value, .lowalch, .name_pt)' <<< $(echo "${item} ${itemdata}"))
                             new_data+="\"${itemid}\":${itemmerged},\n"
+                        fi
+
+                        itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${alchjson})
+                        if [[ "${itemdata}" != "null" ]]; then
+                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del(.id, .timestamp, .volume, .value, .lowalch, .name_pt)' <<< $(echo "${item} ${itemdata}"))
+                            alch_data+="\"${itemid}\":${itemmerged},\n"
+                        fi
+
+                        itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${watchjson})
+                        if [[ "${itemdata}" != "null" ]]; then
+                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del(.id, .timestamp, .volume, .value, .lowalch, .name_pt)' <<< $(echo "${item} ${itemdata}"))
+                            watch_data+="\"${itemid}\":${itemmerged},\n"
                         fi
 
                         echo $item > "${API_ITEM_DIRECTORY}${itemid}.json"
@@ -65,6 +85,8 @@ if test "$curl_status" == "0"; then
             done
 
             new_data="${new_data:0:-3}\n}"
+            alch_data="${alch_data:0:-3}\n}"
+            watch_data="${watch_data:0:-3}\n}"
             search_data="${search_data:0:-3}\n}"
             newremotedata=1
 
@@ -89,6 +111,8 @@ elif (( $testjson > 0 )); then
     exit 1
 elif (( $newremotedata > 0 )); then
     echo -e "var rsapidata = ${new_data};" > ${API_DATA_FILE}
+    echo -e "var rsapidata = ${alch_data};" > ${API_DATA_ALCH_FILE}
+    echo -e "var rsapidata = ${watch_data};" > ${API_DATA_WATCH_FILE}
     echo -e "var rssearchdata = ${search_data};" > ${API_SEARCH_FILE}
     echo -e "{\"updated\":${endtime}}" > ${API_UPDATED_FILE}
     echo "data saved - ${totalitems} items"

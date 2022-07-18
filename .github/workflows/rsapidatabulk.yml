@@ -12,17 +12,22 @@ jobs:
     - uses: actions/checkout@v2
     - shell: bash
       env:
-        API_DATA_FILE: ./rsapidatawikibulk.js
+        API_DATA_FILE: ./rsdata.js
+        API_DATA_ALCH_FILE: ./rsdataalch.js
+        API_DATA_WATCH_FILE: ./rsdatawatch.js
         API_ITEM_DIRECTORY: ./items/
         API_SEARCH_FILE: ./rsapidatawikisearch.js
         API_UPDATED_FILE: ./rsapiupdated.json
         ITEMS_DATA_FILE: ./rsitems.json
+        ALCH_DATA_FILE: ./rsitemsalch.json
+        WATCH_DATA_FILE: ./rsitemswatch.json
         IMAGE_OUTPUT_DIR: ./images
       run: |
         bash ./.github/scripts/rsapidatawikibulk.sh
         if [[ `git status --porcelain` ]]; then
         git config --global user.name 'RS3 Data Bot'
         git config --global user.email '20735294+607ch00@users.noreply.github.com'
-        git commit -am "[RS3 Data Bot] API Data fetch"
+        git add -A
+        git commit -m "[RS3 Data Bot] API Data fetch"
         git push
         fi
