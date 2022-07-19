@@ -1,6 +1,5 @@
 #!/bin/bash
 # @see https://runescape.wiki/w/User:Gaz_Lloyd/using_gemw#Exchange_API
-# @todo slim down main page data file more (e.g. doesn't need watchlist items)
 
 starttime=$(date +%s)
 
