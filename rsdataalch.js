@@ -1,5 +1,6 @@
 var rsapidata = {
 "1397":{"limit":1000,"name":"Air battlestaff","highalch":9300,"price":6733,"last":6951},
+"31868":{"limit":10000,"name":"Ascendri bolts","highalch":10200,"price":7734,"last":7734},
 "31881":{"limit":10000,"name":"Ascendri bolts (e)","highalch":10800,"price":7886,"last":7886},
 "25800":{"limit":5000,"name":"Black dragonhide shield","highalch":10783,"price":8789,"last":8789},
 "11126":{"limit":500,"name":"Combat bracelet","highalch":12624,"price":10280,"last":10280},
