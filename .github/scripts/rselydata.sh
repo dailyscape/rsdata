@@ -36,8 +36,14 @@ fi
 #test for valid json
 jq -e . >/dev/null 2>&1 <<< $curl_response
 testjson=$?
-if (( $testjson > 0 )) && [[ "${curl_response}" != "${olditemjson}" ]]; then
-    echo ${curl_response} > ${ELY_ITEMS_FILE}
+if (( $testjson > 0 )); then
+    if [[ "${curl_response}" != "${olditemjson}" ]]; then
+        echo "new items json file recorded"
+        echo ${curl_response} > ${ELY_ITEMS_FILE}
+    fi
+else
+    echo "invalid all/itemlist json"
+    exit 1
 fi
 
 # Start getting individual item data
