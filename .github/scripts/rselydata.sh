@@ -37,13 +37,11 @@ fi
 jq -e . >/dev/null 2>&1 <<< $curl_response
 testjson=$?
 if (( $testjson > 0 )); then
-    if [[ "${curl_response}" != "${olditemjson}" ]]; then
-        echo "new items json file recorded"
-        echo ${curl_response} > ${ELY_ITEMS_FILE}
-    fi
-else
     echo "invalid all/itemlist json"
-    exit 1
+    exit $testjson
+elif [[ "${curl_response}" != "${olditemjson}" ]]; then
+    echo "new items json file recorded"
+    echo ${curl_response} > ${ELY_ITEMS_FILE}
 fi
 
 # Start getting individual item data
@@ -56,14 +54,15 @@ for itemrow in $(jq -crS '.[] | @base64' <<< ${itemjson}); do
     itemid=$(jq -cr '.id' <<< ${itemrow})
     itemname=$(jq -cr '.name' <<< ${itemrow} | sed "s/[^ A-Za-z0-9()'-]//g" | sed "s/'/%27/g" | xargs )
 
-    #@todo if we don't have a map of id's how can we still display the new info particularly with the rsitemid property
     itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemmap})
     rsitemid=$(jq -cr .rsid <<< ${itemdata})
 
-    echo "$itemid - $itemname"
+    echo "$itemid - $itemname - $rsitemid"
 
     if [[ "${rsitemid}" == "-1" ]]; then
         continue
+    elif [[ "${rsitemid}" == "null" ]]; then
+        rsitemid="ely-${itemid}"
     fi
 
     getItemAPI ${itemid}
