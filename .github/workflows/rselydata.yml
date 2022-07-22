@@ -15,7 +15,7 @@ jobs:
         ELY_UPDATED_FILE: ./rselyupdated.json
         ELY_DATA_FILE: ./rselydata.js
         ELY_ITEMS_FILE: ./rselyitems.json
-        ELY_MAP_FILE: ./rselymap.json
+        ELY_MAP_FILE: ./rsitemswatch.json
       run: |
         bash ./.github/scripts/rselydata.sh
         if [[ `git status --porcelain` ]]; then

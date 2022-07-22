@@ -9,13 +9,15 @@ API_DATA_WATCH_FILE=${API_DATA_WATCH_FILE:="./rsdatawatch.js"}
 API_SEARCH_FILE=${API_SEARCH_FILE:="./rsapidatawikisearch.js"}
 API_UPDATED_FILE=${API_UPDATED_FILE:="./rsapiupdated.json"}
 API_ITEM_DIRECTORY=${API_ITEM_DIRECTORY:="./items/"}
-ITEMS_DATA_FILE=${ITEMS_DATA_FILE:="./rsitems.json"}
-ALCH_DATA_FILE=${ALCH_DATA_FILE:="./rsitemsalch.json"}
+ITEMS_DATA_FILE=${ITEMS_DATA_FILE:="./rsitems.sh"}
+ALCH_DATA_FILE=${ALCH_DATA_FILE:="./rsitemsalch.sh"}
 WATCH_DATA_FILE=${WATCH_DATA_FILE:="./rsitemswatch.json"}
 IMAGE_OUTPUT_DIR=${IMAGE_OUTPUT_DIR:="./images"}
 
-itemjson=$(<${ITEMS_DATA_FILE})
-alchjson=$(<${ALCH_DATA_FILE})
+# itemjson=$(<${ITEMS_DATA_FILE})
+source ${ITEMS_DATA_FILE}
+# alchjson=$(<${ALCH_DATA_FILE})
+source ${ALCH_DATA_FILE}
 watchjson=$(<${WATCH_DATA_FILE})
 oldapidata=$(<${API_DATA_FILE})
 lastupdated=$(<${API_UPDATED_FILE})
@@ -58,25 +60,22 @@ if test "$curl_status" == "0"; then
                             wget -nd -r -O "${IMAGE_OUTPUT_DIR}/${itemid}.gif" -A jpeg,jpg,bmp,gif,png https://secure.runescape.com/m=itemdb_rs/obj_sprite.gif?id=${itemid}
                         fi
 
-                        itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemjson})
-                        if [[ "${itemdata}" != "null" ]]; then
-                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del(.id, .timestamp, .volume, .value, .highalch, .lowalch, .name_pt)' <<< $(echo "${item} ${itemdata}"))
-                            new_data+="\"${itemid}\":${itemmerged},\n"
+                        itemdata=$(jq -cr '. | del(.value, .id, .lowalch, .name_pt, .volume)' <<< ${item})
+                        if [[ " ${rsitemsalch[*]} " =~ " ${itemid} " ]]; then
+                            alch_data+="\"${itemid}\":${itemdata},\n"
                         fi
 
-                        itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${alchjson})
-                        if [[ "${itemdata}" != "null" ]]; then
-                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del(.id, .timestamp, .volume, .value, .lowalch, .name_pt)' <<< $(echo "${item} ${itemdata}"))
-                            alch_data+="\"${itemid}\":${itemmerged},\n"
+                        if [[ " ${rsitems[*]} " =~ " ${itemid} " ]]; then
+                            new_data+="\"${itemid}\":${itemdata},\n"
                         fi
 
-                        itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${watchjson})
-                        if [[ "${itemdata}" != "null" ]]; then
-                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item) | del(.id, .timestamp, .volume, .value, .highalch, .lowalch, .name_pt)' <<< $(echo "${item} ${itemdata}"))
+                        itemmerge=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${watchjson})
+                        if [[ "${itemmerge}" != "null" ]]; then
+                            itemmerged=$(jq -crs 'reduce .[] as $item ({}; . * $item)' <<< $(echo "${itemdata} ${itemmerge}"))
                             watch_data+="\"${itemid}\":${itemmerged},\n"
                         fi
 
-                        echo $item > "${API_ITEM_DIRECTORY}${itemid}.json"
+                        echo ${item} > "${API_ITEM_DIRECTORY}${itemid}.json"
 
                         (( totalitems++ ))
                     fi

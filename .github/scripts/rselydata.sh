@@ -8,7 +8,7 @@ starttime=$(date +%s)
 ELY_DATA_FILE=${ELY_DATA_FILE:="./rselydata.js"}
 ELY_UPDATED_FILE=${ELY_UPDATED_FILE:="./rselyupdated.json"}
 ELY_ITEMS_FILE=${ELY_ITEMS_FILE:="./rselyitems.json"}
-ELY_MAP_FILE=${ELY_MAP_FILE:="./rselymap.json"}
+ELY_MAP_FILE=${ELY_MAP_FILE:="./rsitemswatch.json"}
 
 olditemjson=$(<${ELY_ITEMS_FILE})
 oldapidata=$(<${ELY_DATA_FILE})
@@ -17,6 +17,7 @@ curl_response=""
 curl_status=0
 testjson=0
 items_success=1
+totalitems=0
 
 getItemAPI ()
 {
@@ -54,14 +55,17 @@ for itemrow in $(jq -crS '.[] | @base64' <<< ${itemjson}); do
     itemid=$(jq -cr '.id' <<< ${itemrow})
     itemname=$(jq -cr '.name' <<< ${itemrow} | sed "s/[^ A-Za-z0-9()'-]//g" | sed "s/'/%27/g" | xargs )
 
-    itemdata=$(jq -cr --arg itemid "$itemid" .[\"$itemid\"] <<< ${itemmap})
+    itemdata=$(jq -cr --arg itemid "$itemid" 'to_entries[] | select(.value.elyid == $itemid) | {"rsid": .key, "elyskip": .value.elyskip, "skip": .value.skip}' <<< ${itemmap})
     rsitemid=$(jq -cr .rsid <<< ${itemdata})
+    skip=$(jq -cr .skip <<< ${itemdata})
+    elyskip=$(jq -cr .elyskip <<< ${itemdata})
 
-    echo "$itemid - $itemname - $rsitemid"
+    echo "$itemid - $itemname - $rsitemid - $elyskip - $skip"
 
-    if [[ "${rsitemid}" == "-1" ]]; then
+    if [[ "${elyskip}" == "1" || "${skip}" == "1" || "${rsitemid}" == "-1" || "${itemname}" == "Deleted Item"* ]]; then
+        echo "skipping ${itemname}"
         continue
-    elif [[ "${rsitemid}" == "null" ]]; then
+    elif [[ "${rsitemid}" == "null" || "${rsitemid}" == "" ]]; then
         rsitemid="ely-${itemid}"
     fi
 
@@ -93,6 +97,7 @@ for itemrow in $(jq -crS '.[] | @base64' <<< ${itemjson}); do
     #remap to rsid
     new_data+="\"${rsitemid}\":{\"elyname\": \"${itemname}\", \"elyid\": \"${itemid}\", \"elyprices\": ${pricedata}},\n"
 
+    (( totalitems++ ))
     sleep 0.5
 done
 new_data="${new_data:0:-3}\n}"
@@ -120,5 +125,5 @@ else
         echo -e "{\"updated\":${endtime}}" > ${ELY_UPDATED_FILE}
     fi
 
-    echo "data saved"
+    echo "data saved - ${totalitems} items"
 fi
