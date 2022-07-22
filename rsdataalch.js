@@ -5,7 +5,7 @@ var rsapidata = {
 "25800":{"limit":5000,"name":"Black dragonhide shield","highalch":10783,"price":8768,"last":8768},
 "11126":{"limit":500,"name":"Combat bracelet","highalch":12624,"price":10280,"last":10280},
 "36390":{"limit":1000,"name":"Divine charge","highalch":600,"price":71607,"last":72985},
-"1683":{"limit":500,"name":"Dragonstone amulet (u)","highalch":10575,"price":8701,"last":8701},
+"1683":{"limit":500,"name":"Dragonstone amulet (unstrung)","highalch":10575,"price":8701,"last":8701},
 "11115":{"limit":500,"name":"Dragonstone bracelet","highalch":11475,"price":8829,"last":8790},
 "1664":{"limit":500,"name":"Dragonstone necklace","highalch":11025,"price":9056,"last":9183},
 "1645":{"limit":500,"name":"Dragonstone ring","highalch":10575,"price":8650,"last":8650},
@@ -76,5 +76,5 @@ var rsapidata = {
 "47246":{"limit":25000,"name":"Tiny spiky adamant salvage","highalch":2000,"price":1217,"last":1217},
 "51871":{"limit":25000,"name":"Tiny spiky orikalkum salvage","highalch":25000,"price":23115,"last":23115},
 "47286":{"limit":25000,"name":"Tiny spiky rune salvage","highalch":8000,"price":5879,"last":5880},
-"1395":{"limit":1000,"name":"Water Battlestaff","highalch":9300,"price":6985,"last":6938}
+"1395":{"limit":1000,"name":"Water battlestaff","highalch":9300,"price":6985,"last":6938}
 };
