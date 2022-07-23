@@ -42,8 +42,9 @@ if ely_data != old_items:
     with open(ely_items_file, 'w') as outfile:
         json.dump(ely_data, outfile)
 
-# dict comprehension to remap and enable quick lookup by elyid
-newmap = {v['elyid']: v | {'itemid': k} for k,v in items_map.items() if 'elyid' in v}
+# dict comprehension to remap and enable quick lookup by elyid (commented out line saved for python 3.9)
+# newmap = {v['elyid']: v | {'itemid': k} for k,v in items_map.items() if 'elyid' in v}
+newmap = {v['elyid']: {**v, **{'itemid': k}} for k,v in items_map.items() if 'elyid' in v}
 
 twomonthsago = time.gmtime(time.time() - (60 * 60 * 24 * 60))
 
