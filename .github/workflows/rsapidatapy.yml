@@ -16,8 +16,8 @@ jobs:
         API_ITEM_DIRECTORY: ./items/
         API_SEARCH_FILE: ./rsapidatawikisearch.js
         API_UPDATED_FILE: ./rsapiupdated.json
-        ITEMS_DATA_FILE: ./rsitems.sh
-        ALCH_DATA_FILE: ./rsitemsalch.sh
+        ITEMS_DATA_FILE: ./rsitems.json
+        ALCH_DATA_FILE: ./rsitemsalch.json
         WATCH_DATA_FILE: ./rsitemswatch.json
         IMAGE_OUTPUT_DIR: ./images
       run: |
