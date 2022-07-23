@@ -1,4 +1,4 @@
-name: rsapidatabulk
+name: rsapidatapy
 
 on:
   workflow_dispatch:
@@ -21,7 +21,7 @@ jobs:
         WATCH_DATA_FILE: ./rsitemswatch.json
         IMAGE_OUTPUT_DIR: ./images
       run: |
-        bash ./.github/scripts/rsapidatawikibulk.sh
+        python ./.github/scripts/rsapidata.py
         if [[ `git status --porcelain` ]]; then
         git config --global user.name 'RS3 Data Bot'
         git config --global user.email '20735294+607ch00@users.noreply.github.com'
