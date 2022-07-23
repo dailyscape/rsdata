@@ -1,4 +1,4 @@
-name: rselydata
+name: rselydatapy
 
 on:
   schedule:
@@ -13,11 +13,11 @@ jobs:
     - shell: bash
       env:
         ELY_UPDATED_FILE: ./rselyupdated.json
-        ELY_DATA_FILE: ./rselydata.js
         ELY_ITEMS_FILE: ./rselyitems.json
+        ELY_DATA_FILE: ./rselydata.js
         ELY_MAP_FILE: ./rsitemswatch.json
       run: |
-        bash ./.github/scripts/rselydata.sh
+        python ./.github/scripts/rselydata.py
         if [[ `git status --porcelain` ]]; then
         git config --global user.name 'RS3 Data Bot'
         git config --global user.email '20735294+607ch00@users.noreply.github.com'
