@@ -3,6 +3,7 @@ Conversion of wiki import script to python for performance reasons
 @todo run time output (maybe later)
 '''
 import os
+import sys
 import requests
 import json
 
