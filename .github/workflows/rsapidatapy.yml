@@ -23,6 +23,7 @@ jobs:
         API_ITEM_DIRECTORY: ./items/
         API_SEARCH_FILE: ./rsapidatawikisearch.js
       run: |
+        python -V
         python ./.github/scripts/rsapidata.py
         if [[ `git status --porcelain` ]]; then
         git config --global user.name 'RS3 Data Bot'

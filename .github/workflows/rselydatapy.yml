@@ -18,7 +18,6 @@ jobs:
         ELY_MAP_FILE: ./rsitemswatch.json
       run: |
         python -V
-        python3 -V
         python ./.github/scripts/rselydata.py
         if [[ `git status --porcelain` ]]; then
         git config --global user.name 'RS3 Data Bot'
