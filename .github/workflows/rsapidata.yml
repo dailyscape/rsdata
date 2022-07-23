@@ -1,0 +1,31 @@
+name: rsapidata
+
+on:
+  workflow_dispatch:
+
+jobs:
+  getAndSaveData:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - shell: bash
+      env:
+        API_UPDATED_FILE: ./rsapiupdated.json
+        ITEMS_OUT_FILE: ./rsdata.js
+        ALCH_OUT_FILE: ./rsdataalch.js
+        WATCH_OUT_FILE: ./rsdatawatch.js
+        ITEMS_DATA_FILE: ./rsitems.json
+        ALCH_DATA_FILE: ./rsitemsalch.json
+        WATCH_DATA_FILE: ./rsitemswatch.json
+        IMAGE_OUTPUT_DIR: ./images
+        API_ITEM_DIRECTORY: ./items/
+        API_SEARCH_FILE: ./rsapidatawikisearch.js
+      run: |
+        python ./.github/scripts/rsapidata.py
+        if [[ `git status --porcelain` ]]; then
+        git config --global user.name 'RS3 Data Bot'
+        git config --global user.email '20735294+607ch00@users.noreply.github.com'
+        git add -A
+        git commit -m "[RS3 Data Bot] API Data fetch"
+        git push
+        fi
