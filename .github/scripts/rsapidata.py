@@ -8,9 +8,9 @@ import json
 
 # Env vars
 api_updated_file = os.environ.get('API_UPDATED_FILE') or './rsapiupdated.json'
-items_out_file = os.environ.get('API_DATA_FILE') or './rsdata.js'
-alch_out_file = os.environ.get('API_DATA_ALCH_FILE') or './rsdataalch.js'
-watch_out_file = os.environ.get('API_DATA_WATCH_FILE') or './rsdatawatch.js'
+items_out_file = os.environ.get('ITEMS_OUT_FILE') or './rsdata.js'
+alch_out_file = os.environ.get('ALCH_OUT_FILE') or './rsdataalch.js'
+watch_out_file = os.environ.get('WATCH_OUT_FILE') or './rsdatawatch.js'
 items_data_file = os.environ.get('ITEMS_DATA_FILE') or './rsitems.json'
 alch_data_file = os.environ.get('ALCH_DATA_FILE') or './rsitemsalch.json'
 watch_data_file = os.environ.get('WATCH_DATA_FILE') or './rsitemswatch.json'
