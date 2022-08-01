@@ -6215,4 +6215,12 @@ var rssearchdata =
 "53446":"Greater Death's Swiftness ability codex",
 "53448":"Greater Sunshine ability codex",
 "53474":"Azure dragonbreath cosmetic ability scroll",
-"53476":"Champion's hurricane cosmetic ability scroll"};
+"53476":"Champion's hurricane cosmetic ability scroll",
+"53491":"Trail-be-gone",
+"53492":"Trail-be-gone (max strength)",
+"53494":"Volcanic protection",
+"53503":"Tiny bladed necronium salvage",
+"53505":"Huge spiky necronium salvage",
+"53507":"Large blunt necronium salvage",
+"53509":"Small plated necronium salvage",
+"53511":"Medium plated necronium salvage"};
