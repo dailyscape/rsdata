@@ -4149,7 +4149,7 @@ var rssearchdata =
 "39379":"Headhunter's thrill (new)",
 "39382":"Necklace of gluttony (new)",
 "39385":"Enlightened amulet (new)",
-"39423":"Conga dance override token",
+"39423":"Conga dance walk override token",
 "39573":"Death notes",
 "39574":"Wand of the praesul",
 "39576":"Wand of the praesul shard",
@@ -6223,4 +6223,12 @@ var rssearchdata =
 "53505":"Huge spiky necronium salvage",
 "53507":"Large blunt necronium salvage",
 "53509":"Small plated necronium salvage",
-"53511":"Medium plated necronium salvage"};
+"53511":"Medium plated necronium salvage",
+"53524":"Platinum Torva Armour token",
+"53530":"Platinum Virtus Armour token",
+"53536":"Platinum Pernix Armour token",
+"53538":"King Black Dragon T-shirt token",
+"53540":"Gnome Child T-shirt token",
+"53542":"Wise Old Man T-shirt token",
+"53543":"'One of the Many' title scroll",
+"53545":"'Party' title scroll"};
