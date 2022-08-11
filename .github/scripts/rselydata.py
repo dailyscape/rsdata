@@ -17,7 +17,6 @@ ely_map_file = os.environ.get('ELY_MAP_FILE') or './rsitemswatch.json'
 def load_json_file(filename):
     with open(filename) as f:
         data = json.load(f)
-    f.close()
     return data
 
 last_updated = load_json_file(ely_updated_file)
@@ -100,7 +99,6 @@ json_out = json.dumps(items_out, separators=(',', ':'))
 js_out = 'var rselydata=' + json_out + ';'
 with open(ely_data_file, 'w') as f:
     f.write(js_out)
-f.close()
 
 # save api updated timestamp
 updated = {'updated': int(time.time())}

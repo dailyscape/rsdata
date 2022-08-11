@@ -28,7 +28,6 @@ total_items = 0
 def load_json_file(filename):
     with open(filename) as f:
         data = json.load(f)
-    f.close()
     return data
 
 def write_apidata_file(filename, apidata):
@@ -36,7 +35,6 @@ def write_apidata_file(filename, apidata):
     js_out = 'var rsapidata=' + json_out + ';'
     with open(filename, 'w') as f:
         f.write(js_out)
-    f.close()
 
 last_updated = load_json_file(api_updated_file)
 items_data = load_json_file(items_data_file)
@@ -95,7 +93,6 @@ else:
     search_js_out = 'var rssearchdata = \n' + search_json_out + ';'
     with open(api_search_file, 'w') as f:
         f.write(search_js_out)
-    f.close()
 
     # output to files
     write_apidata_file(items_out_file, items_out)
