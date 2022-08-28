@@ -1,1 +1,1 @@
-{"limit":5000,"name":"Gold amulet","value":350,"highalch":210,"id":1692,"lowalch":140,"name_pt":"Amuleto de ouro","price":1125,"last":1125}
+{"limit":5000,"highalch":210,"name":"Gold amulet","examine":"A plain gold amulet.","id":1692,"value":350,"members":false,"lowalch":140,"name_pt":"Amuleto de ouro","price":1125,"last":1125}

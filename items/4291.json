@@ -1,1 +1,1 @@
-{"limit":1000,"name":"Cooked undead chicken","value":4,"highalch":2,"id":4291,"lowalch":1,"name_pt":"Galinha morta-viva cozida","price":74,"last":74}
+{"limit":1000,"highalch":2,"name":"Cooked undead chicken","examine":"This cooked chicken looks disgusting.","id":4291,"value":4,"members":true,"lowalch":1,"name_pt":"Galinha morta-viva cozida","price":74,"last":74}

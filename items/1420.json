@@ -1,1 +1,1 @@
-{"limit":1000,"name":"Iron mace","value":251,"highalch":150,"id":1420,"lowalch":100,"name_pt":"Maça de ferro","price":2812,"last":2812}
+{"limit":1000,"highalch":150,"name":"Iron mace","examine":"A spiky mace.","id":1420,"value":251,"members":false,"lowalch":100,"name_pt":"Maça de ferro","price":2812,"last":2812}

@@ -1,1 +1,1 @@
-{"limit":1000,"name":"Poorly-cooked bird meat","value":4,"highalch":2,"id":23060,"lowalch":1,"name_pt":"Carne de ave mal cozida","price":57,"last":57}
+{"limit":1000,"highalch":2,"name":"Poorly-cooked bird meat","examine":"It would have been cooked better as a spit-roast.","id":23060,"value":4,"members":false,"lowalch":1,"name_pt":"Carne de ave mal cozida","price":57,"last":57}

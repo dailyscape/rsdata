@@ -1,1 +1,1 @@
-{"limit":1000,"name":"Cooked meat","value":30,"highalch":18,"id":2142,"lowalch":12,"name_pt":"Carne cozida","price":241,"last":241}
+{"limit":1000,"highalch":18,"name":"Cooked meat","examine":"Mmm this looks tasty.","id":2142,"value":30,"members":false,"lowalch":12,"name_pt":"Carne cozida","price":241,"last":241}

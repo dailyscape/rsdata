@@ -1,1 +1,1 @@
-{"limit":100,"name":"Empty sack","value":1,"highalch":1,"id":5418,"lowalch":1,"name_pt":"Saco vazio","price":986,"last":986}
+{"limit":100,"highalch":1,"name":"Empty sack","examine":"An empty vegetable sack.","id":5418,"value":1,"members":true,"lowalch":1,"name_pt":"Saco vazio","price":986,"last":986}

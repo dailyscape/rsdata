@@ -1,1 +1,1 @@
-{"limit":25000,"name":"Iron bolts","value":2,"highalch":1,"id":9140,"lowalch":1,"name_pt":"Setas de ferro","price":45,"last":45}
+{"limit":25000,"highalch":1,"name":"Iron bolts","examine":"Iron ammunition for crossbows. Used with the Ranged skill (10).","id":9140,"value":2,"members":false,"lowalch":1,"name_pt":"Setas de ferro","price":45,"last":45}

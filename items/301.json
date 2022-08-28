@@ -1,1 +1,1 @@
-{"limit":100,"name":"Lobster pot","value":20,"highalch":12,"id":301,"lowalch":8,"name_pt":"Puçá de lagosta","price":1352,"last":1352}
+{"limit":100,"highalch":12,"name":"Lobster pot","examine":"Useful for catching lobsters.","id":301,"value":20,"members":false,"lowalch":8,"name_pt":"Puçá de lagosta","price":1352,"last":1352}

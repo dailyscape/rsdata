@@ -1,1 +1,1 @@
-{"limit":100,"name":"Body gloves","value":3000,"highalch":1800,"id":20462,"lowalch":1200,"name_pt":"Luvas corporais","price":41059,"last":41059}
+{"limit":100,"highalch":1800,"name":"Body gloves","examine":"Gloves made in the Elemental Workshop.","id":20462,"value":3000,"members":true,"lowalch":1200,"name_pt":"Luvas corporais","price":41059,"last":41059}

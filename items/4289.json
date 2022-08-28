@@ -1,1 +1,1 @@
-{"limit":1000,"name":"Raw undead chicken","value":1,"highalch":1,"id":4289,"lowalch":1,"name_pt":"Galinha morta-viva crua","price":279,"last":279}
+{"limit":1000,"highalch":1,"name":"Raw undead chicken","examine":"This raw chicken is rancid.","id":4289,"value":1,"members":true,"lowalch":1,"name_pt":"Galinha morta-viva crua","price":279,"last":279}

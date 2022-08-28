@@ -1,1 +1,1 @@
-{"limit":1000,"name":"Compost potion (3)","value":90,"highalch":54,"id":6472,"lowalch":36,"name_pt":"Poção de adubo (3)","price":4593,"last":4593}
+{"limit":1000,"highalch":54,"name":"Compost potion (3)","examine":"Pour this on compost to turn it into supercompost.","id":6472,"value":90,"members":true,"lowalch":36,"name_pt":"Poção de adubo (3)","price":4593,"last":4593}

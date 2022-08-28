@@ -1,1 +1,1 @@
-{"limit":1000,"name":"Raw undead beef","value":1,"highalch":1,"id":4287,"lowalch":1,"name_pt":"Bife de morto-vivo cru","price":409,"last":409}
+{"limit":1000,"highalch":1,"name":"Raw undead beef","examine":"This raw beef is rancid.","id":4287,"value":1,"members":true,"lowalch":1,"name_pt":"Bife de morto-vivo cru","price":409,"last":409}

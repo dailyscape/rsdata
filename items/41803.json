@@ -1,1 +1,1 @@
-{"limit":300,"name":"Clocktower Teleport","value":2,"highalch":1,"id":41803,"lowalch":1,"name_pt":"Teleporte à Torre do Relógio","price":2223,"last":2163}
+{"examine":"A one-use scroll containing a teleport spell.","id":41803,"members":true,"lowalch":1,"limit":300,"value":2,"highalch":1,"icon":"Clocktower Teleport.png","name":"Clocktower Teleport","name_pt":"Teleporte à Torre do Relógio","price":2223,"last":2163}

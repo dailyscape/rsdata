@@ -1,1 +1,1 @@
-{"limit":10000,"name":"Mystic cloth","value":4000,"highalch":2400,"id":41223,"lowalch":1600,"name_pt":"Pano místico","price":5084,"last":5084}
+{"examine":"Can be used to craft mystic armour.","id":41223,"members":false,"lowalch":1600,"limit":10000,"value":4000,"highalch":2400,"icon":"Mystic cloth.png","name":"Mystic cloth","name_pt":"Pano místico","price":5084,"last":5084}

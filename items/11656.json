@@ -1,1 +1,1 @@
-{"limit":100,"name":"Glassblowing book","value":3,"highalch":1,"id":11656,"lowalch":1,"name_pt":"Livro da vidraria","price":1076,"last":1076}
+{"limit":100,"highalch":1,"name":"Glassblowing book","examine":"A book that explains the art of crafting items from glass.","id":11656,"value":3,"members":true,"lowalch":1,"name_pt":"Livro da vidraria","price":1076,"last":1076}

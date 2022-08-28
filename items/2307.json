@@ -1,1 +1,1 @@
-{"limit":1000,"name":"Bread dough","value":4,"highalch":2,"id":2307,"lowalch":1,"name_pt":"Massa de pão","price":1044,"last":1018}
+{"limit":1000,"highalch":2,"name":"Bread dough","examine":"Some uncooked dough.","id":2307,"value":4,"members":false,"lowalch":1,"name_pt":"Massa de pão","price":1044,"last":1018}

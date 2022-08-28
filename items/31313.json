@@ -1,1 +1,1 @@
-{"limit":100,"name":"Portent of degradation I","value":2280,"highalch":1368,"id":31313,"lowalch":912,"name_pt":"Portento de destruição I","price":9917,"last":9917}
+{"limit":100,"highalch":1368,"name":"Portent of degradation I","examine":"Automatically consumed when you are damaged to under half your life points, this portent will restore 1050 life points and deal 600 damage to your attacker. Requires level 80 Constitution.","id":31313,"value":2280,"members":true,"lowalch":912,"name_pt":"Portento de destruição I","price":9917,"last":9917}

@@ -1,1 +1,1 @@
-{"limit":5000,"name":"Clockwork","value":500,"highalch":300,"id":8792,"lowalch":200,"name_pt":"Mecanismo","price":4238,"last":4238}
+{"limit":5000,"highalch":300,"name":"Clockwork","examine":"A clockwork mechanism.","id":8792,"value":500,"members":true,"lowalch":200,"name_pt":"Mecanismo","price":4238,"last":4238}

@@ -1,1 +1,1 @@
-{"id":31312,"value":40,"name":"Elder energy","limit":25000,"name_pt":"Energia anciã","price":98,"last":98,"volume":32700000}
+{"name":"Elder energy","examine":"A chunk of elder energy. It can be manipulated to create or transmute objects.","id":31312,"value":40,"members":true,"limit":25000,"name_pt":"Energia anciã","price":98,"last":98,"volume":25600000}

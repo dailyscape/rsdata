@@ -1,1 +1,1 @@
-{"limit":10000,"name":"Swamp toad","value":2,"highalch":1,"id":2150,"lowalch":1,"name_pt":"Sapo do pântano","price":2413,"last":2413}
+{"limit":10000,"highalch":1,"name":"Swamp toad","examine":"A slippery little blighter.","id":2150,"value":2,"members":true,"lowalch":1,"name_pt":"Sapo do pântano","price":2413,"last":2413}

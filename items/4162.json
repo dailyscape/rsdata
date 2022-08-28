@@ -1,1 +1,1 @@
-{"limit":100,"name":"Rock hammer","value":500,"highalch":300,"id":4162,"lowalch":200,"name_pt":"Martelo de pedra","price":737,"last":737}
+{"limit":100,"highalch":300,"name":"Rock hammer","examine":"I can even smash stone with this.","id":4162,"value":500,"members":true,"lowalch":200,"name_pt":"Martelo de pedra","price":737,"last":737}

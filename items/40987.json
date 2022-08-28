@@ -1,1 +1,1 @@
-{"limit":1000,"name":"Mazcab teleport (item)","value":1,"highalch":1,"id":40987,"lowalch":1,"name_pt":"Teleporte para Mazcab","price":9949,"last":9949}
+{"examine":"A tablet containing a magic spell.","id":40987,"members":true,"lowalch":1,"limit":1000,"value":1,"highalch":1,"icon":"Mazcab teleport (item).png","name":"Mazcab teleport (item)","name_pt":"Teleporte para Mazcab","price":9949,"last":9949}
