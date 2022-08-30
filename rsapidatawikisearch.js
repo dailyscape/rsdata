@@ -6237,4 +6237,14 @@ var rssearchdata =
 "53542":"Wise Old Man T-shirt token",
 "53543":"'One of the Many' title scroll",
 "53545":"'Party' title scroll",
-"53559":"Bohr pet token"};
+"53559":"Bohr pet token",
+"53560":"Wilderness shoulder cape",
+"53562":"Ultramarine shoulder cape",
+"53564":"Guilded shoulder cape",
+"53566":"Inferno shoulder cape",
+"53568":"Stargazer shoulder cape",
+"53612":"'Emerald' title scroll",
+"53614":"'Ruby' title scroll",
+"53624":"Emerald Gauntlets Token",
+"53625":"Ruby Gauntlets Token",
+"53626":"Diamond Gauntlets Token"};
