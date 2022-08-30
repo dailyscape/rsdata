@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":1,"name":"Adamant fire arrows (unlit)","examine":"Arrows with adamant heads and oil-soaked cloth.","id":2538,"value":3,"members":true,"lowalch":1,"name_pt":"Flechas de fogo de adam. (apagadas)","price":352,"last":352}
+{"examine":"Arrows with adamant heads and oil-soaked cloth.","id":2538,"members":true,"lowalch":1,"limit":1000,"value":3,"highalch":1,"icon":"Adamant fire arrows (unlit).png","name":"Adamant fire arrows (unlit)","name_pt":"Flechas de fogo de adam. (apagadas)","price":352,"last":352}

@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Brass key","examine":"A key found on the floor of Edgeville Dungeon.","id":983,"value":1,"members":false,"lowalch":1,"name_pt":"Chave de latão","price":2855,"last":2855}
+{"examine":"A key found on the floor of Edgeville Dungeon.","id":983,"members":false,"lowalch":1,"limit":5,"value":1,"highalch":1,"icon":"Brass key.png","name":"Brass key","name_pt":"Chave de latão","price":2799,"last":2855}

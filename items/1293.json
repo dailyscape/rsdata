@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":150,"name":"Iron longsword","examine":"A razor-sharp longsword.","id":1293,"value":251,"members":false,"lowalch":100,"name_pt":"Espada longa de ferro","price":4510,"last":4510}
+{"examine":"A razor-sharp longsword.","id":1293,"members":false,"lowalch":100,"limit":100,"value":251,"highalch":150,"icon":"Iron longsword.png","name":"Iron longsword","name_pt":"Espada longa de ferro","price":4510,"last":4510}

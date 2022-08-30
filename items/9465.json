@@ -1,1 +1,1 @@
-{"limit":500,"highalch":600,"name":"Runite crossbow (u)","examine":"An unstrung runite crossbow.","id":9465,"value":1001,"members":false,"lowalch":400,"name_pt":"Balestra de runita (-c)","price":8791,"last":8791}
+{"examine":"An unstrung runite crossbow.","id":9465,"members":false,"lowalch":400,"limit":1000,"value":1001,"highalch":600,"icon":"Runite crossbow (u).png","name":"Runite crossbow (u)","name_pt":"Balestra de runita (-c)","price":8791,"last":8791}

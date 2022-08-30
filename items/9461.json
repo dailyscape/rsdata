@@ -1,1 +1,1 @@
-{"limit":500,"highalch":210,"name":"Mithril crossbow (u)","examine":"An unstrung mithril crossbow.","id":9461,"value":351,"members":false,"lowalch":140,"name_pt":"Balestra de mithril (-c)","price":1396,"last":1396}
+{"examine":"An unstrung mithril crossbow.","id":9461,"members":false,"lowalch":140,"limit":1000,"value":351,"highalch":210,"icon":"Mithril crossbow (u).png","name":"Mithril crossbow (u)","name_pt":"Balestra de mithril (-c)","price":1396,"last":1396}

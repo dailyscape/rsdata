@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":150,"name":"Iron warhammer","examine":"I don't think it's intended for joinery.","id":1335,"value":251,"members":false,"lowalch":100,"name_pt":"Martelo de guerra de ferro","price":5109,"last":5109}
+{"examine":"I don't think it's intended for joinery.","id":1335,"members":false,"lowalch":100,"limit":100,"value":251,"highalch":150,"icon":"Iron warhammer.png","name":"Iron warhammer","name_pt":"Martelo de guerra de ferro","price":5109,"last":5109}

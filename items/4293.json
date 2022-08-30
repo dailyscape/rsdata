@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":2,"name":"Cooked undead meat","examine":"I wouldn't eat that if I were you.","id":4293,"value":4,"members":true,"lowalch":1,"name_pt":"Carne de morto-vivo cozida","price":76,"last":76}
+{"examine":"I wouldn't eat that if I were you.","id":4293,"members":true,"lowalch":1,"limit":100,"value":4,"highalch":2,"icon":"Cooked undead meat.png","name":"Cooked undead meat","name_pt":"Carne de morto-vivo cozida","price":76,"last":76}

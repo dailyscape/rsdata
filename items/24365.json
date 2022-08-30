@@ -1,1 +1,1 @@
-{"limit":10,"highalch":330000,"name":"Dragon kiteshield","examine":"A large metal shield.","id":24365,"value":550000,"members":true,"lowalch":220000,"name_pt":"Escudo ogival dragônico","price":332002,"last":332002}
+{"examine":"A large metal shield.","id":24365,"members":true,"lowalch":220000,"limit":100,"value":550000,"highalch":330000,"icon":"Dragon kiteshield.png","name":"Dragon kiteshield","name_pt":"Escudo ogival dragônico","price":330264,"last":332002}

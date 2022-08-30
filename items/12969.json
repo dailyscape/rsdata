@@ -1,1 +1,1 @@
-{"limit":10,"highalch":600,"name":"Combat hood 0","examine":"A worn-out magical hood, especially created for combat spells.","id":12969,"value":1000,"members":false,"lowalch":400,"name_pt":"Capuz de combate 0","price":2728,"last":2728}
+{"examine":"A worn-out magical hood, especially created for combat spells.","id":12969,"members":false,"lowalch":400,"limit":100,"value":1000,"highalch":600,"icon":"Combat hood 0.png","name":"Combat hood 0","name_pt":"Capuz de combate 0","price":2728,"last":2728}

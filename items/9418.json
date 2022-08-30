@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":28,"name":"Mithril grapple (unf)","examine":"A mithril grapple tipped bolt - needs a rope.","id":9418,"value":48,"members":true,"lowalch":19,"name_pt":"Arpéu de mithril (inc)","price":874,"last":874}
+{"examine":"A mithril grapple tipped bolt - needs a rope.","id":9418,"members":true,"lowalch":19,"limit":100,"value":48,"highalch":28,"icon":"Mithril grapple (unf).png","name":"Mithril grapple (unf)","name_pt":"Arpéu de mithril (inc)","price":874,"last":874}

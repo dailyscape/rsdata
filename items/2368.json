@@ -1,1 +1,1 @@
-{"limit":100,"highalch":450000,"name":"Shield right half","examine":"The right half of a dragon square shield.","id":2368,"value":750000,"members":true,"lowalch":300000,"name_pt":"Metade direita do escudo","price":792707,"last":792707}
+{"examine":"The right half of a dragon square shield.","id":2368,"members":true,"lowalch":300000,"limit":10,"value":750000,"highalch":450000,"icon":"Shield right half.png","name":"Shield right half","name_pt":"Metade direita do escudo","price":792707,"last":792707}

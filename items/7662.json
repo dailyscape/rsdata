@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":120,"name":"Guthix balance (3)","examine":"A potion of harralander, red spiders eggs, garlic and silver dust.","id":7662,"value":200,"members":true,"lowalch":80,"name_pt":"Equilíbrio de Guthix (3)","price":3312,"last":3312}
+{"examine":"A potion of harralander, red spiders eggs, garlic and silver dust.","id":7662,"members":true,"lowalch":80,"limit":10000,"value":200,"highalch":120,"icon":"Guthix balance (3).png","name":"Guthix balance (3)","name_pt":"Equilíbrio de Guthix (3)","price":3312,"last":3312}

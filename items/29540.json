@@ -1,1 +1,1 @@
-{"limit":10,"highalch":120000,"name":"Dragon battlestaff","examine":"It's an extremely magical stick.","id":29540,"value":200000,"members":true,"lowalch":80000,"name_pt":"Bastão dragônico","price":329723,"last":329723}
+{"examine":"It's an extremely magical stick.","id":29540,"members":true,"lowalch":80000,"limit":100,"value":200000,"highalch":120000,"icon":"Dragon battlestaff.png","name":"Dragon battlestaff","name_pt":"Bastão dragônico","price":329723,"last":329723}
