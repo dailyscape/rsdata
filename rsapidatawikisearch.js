@@ -6247,4 +6247,9 @@ var rssearchdata =
 "53614":"'Ruby' title scroll",
 "53624":"Emerald Gauntlets Token",
 "53625":"Ruby Gauntlets Token",
-"53626":"Diamond Gauntlets Token"};
+"53626":"Diamond Gauntlets Token",
+"53637":"Challenger halo",
+"53640":"Halo of returning",
+"53883":"Witch's broom staff token",
+"53884":"Taboo pet token",
+"53885":"Witch's potion token"};
