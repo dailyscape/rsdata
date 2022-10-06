@@ -70,16 +70,16 @@ else:
                 open(image_path, 'wb').write(image_download.content)
 
         if wiki_id in items_data:
-            items_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'last': wiki_item['last']}
+            items_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price']}
 
         if wiki_id in alch_data:
-            alch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'last': wiki_item['last'], 'highalch': wiki_item['highalch']}
+            alch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'highalch': wiki_item['highalch']}
 
         if wiki_id in watch_data:
             if 'elyid' in watch_data[wiki_id]:
-                watch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'last': wiki_item['last'], 'elyid': watch_data[wiki_id]['elyid']}
+                watch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'elyid': watch_data[wiki_id]['elyid']}
             else:
-                watch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'last': wiki_item['last']}
+                watch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price']}
 
         search_out[wiki_id] = wiki_item['name']
 
