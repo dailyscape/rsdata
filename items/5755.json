@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Chef's delight","examine":"A fruity, full-bodied ale.","id":5755,"value":2,"members":true,"lowalch":1,"name_pt":"Delícia do chefe","price":9048,"last":9048}
+{"examine":"A fruity, full-bodied ale.","highalch":1,"id":5755,"limit":100,"lowalch":1,"members":true,"name":"Chef's delight","price":9048,"value":2}

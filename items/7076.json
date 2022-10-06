@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":4,"name":"Uncooked egg","examine":"A bowl of uncooked egg.","id":7076,"value":8,"members":true,"lowalch":3,"name_pt":"Ovo cru","price":59,"last":59}
+{"examine":"A bowl of uncooked egg.","highalch":4,"id":7076,"limit":1000,"lowalch":3,"members":true,"name":"Uncooked egg","price":59,"value":8}

@@ -1,1 +1,1 @@
-{"limit":100,"highalch":30,"name":"Casket","examine":"I hope there's treasure in it.","id":405,"value":50,"members":true,"lowalch":20,"name_pt":"Cofre","price":1546,"last":1546}
+{"examine":"I hope there's treasure in it.","highalch":30,"id":405,"limit":100,"lowalch":20,"members":true,"name":"Casket","price":1546,"value":50}

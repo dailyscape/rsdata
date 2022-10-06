@@ -1,1 +1,1 @@
-{"limit":100,"highalch":6,"name":"Sickle mould","examine":"Used to make sickles.","id":2976,"value":10,"members":true,"lowalch":4,"name_pt":"Molde de foice","price":1128,"last":1128}
+{"examine":"Used to make sickles.","highalch":6,"id":2976,"limit":100,"lowalch":4,"members":true,"name":"Sickle mould","price":1128,"value":10}

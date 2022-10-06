@@ -1,1 +1,1 @@
-{"limit":100000,"highalch":1,"name":"Iron arrowheads","examine":"Used in the Fletching skill (15) to make iron arrows.","id":40,"value":2,"members":false,"lowalch":1,"name_pt":"Pontas de flecha de ferro","price":41,"last":41}
+{"examine":"Used in the Fletching skill (15) to make iron arrows.","highalch":1,"id":40,"limit":100000,"lowalch":1,"members":false,"name":"Iron arrowheads","price":41,"value":2}

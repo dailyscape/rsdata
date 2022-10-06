@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":120,"name":"Black salamander","examine":"Slightly slimy and somewhat menacing.","id":10148,"value":200,"members":true,"lowalch":80,"name_pt":"Salamandra negra","price":11543,"last":11543}
+{"examine":"Slightly slimy and somewhat menacing.","highalch":120,"id":10148,"limit":1000,"lowalch":80,"members":true,"name":"Black salamander","price":11543,"value":200}

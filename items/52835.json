@@ -1,1 +1,1 @@
-{"examine":"This honeycomb gives an animal's offspring a high chance that they will be forever joyous.","id":52835,"members":true,"lowalch":20,"limit":5000,"value":50,"highalch":30,"icon":"Candied honeycomb.png","name":"Candied honeycomb","name_pt":"Favo de mel açucarado","price":559,"last":559}
+{"examine":"This honeycomb gives an animal's offspring a high chance that they will be forever joyous.","highalch":30,"icon":"Candied honeycomb.png","id":52835,"limit":5000,"lowalch":20,"members":true,"name":"Candied honeycomb","price":559,"value":50}

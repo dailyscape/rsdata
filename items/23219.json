@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":92,"name":"Restore flask (6)","examine":"6 doses of restore potion in a flask.","id":23219,"value":154,"members":true,"lowalch":61,"name_pt":"Pote de restauradora (6)","price":16029,"last":16029}
+{"examine":"6 doses of restore potion in a flask.","highalch":92,"id":23219,"limit":1000,"lowalch":61,"members":true,"name":"Restore flask (6)","price":16029,"value":154}

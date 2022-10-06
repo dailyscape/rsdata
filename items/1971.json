@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":1,"name":"Kebab","examine":"A meaty kebab.","id":1971,"value":3,"members":false,"lowalch":1,"name_pt":"Kebab","price":924,"last":924}
+{"examine":"A meaty kebab.","highalch":1,"id":1971,"limit":1000,"lowalch":1,"members":false,"name":"Kebab","price":924,"value":3}

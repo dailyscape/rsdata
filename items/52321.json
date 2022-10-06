@@ -1,1 +1,1 @@
-{"examine":"Fungus that looks a lot like algae.","id":52321,"members":true,"lowalch":80,"limit":10000,"value":200,"highalch":120,"icon":"Fungal algae.png","name":"Fungal algae","name_pt":"Algas fúngicas","price":926,"last":942}
+{"examine":"Fungus that looks a lot like algae.","highalch":120,"icon":"Fungal algae.png","id":52321,"limit":10000,"lowalch":80,"members":true,"name":"Fungal algae","price":926,"value":200}

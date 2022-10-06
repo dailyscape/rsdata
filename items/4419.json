@@ -1,1 +1,1 @@
-{"limit":100,"highalch":30,"name":"Guthix rest (3)","examine":"A vial of Guthix Rest.","id":4419,"value":50,"members":true,"lowalch":20,"name_pt":"Calmante de Guthix (3)","price":2096,"last":2096}
+{"examine":"A vial of Guthix Rest.","highalch":30,"id":4419,"limit":100,"lowalch":20,"members":true,"name":"Guthix rest (3)","price":2096,"value":50}

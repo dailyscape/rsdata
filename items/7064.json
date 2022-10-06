@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":7,"name":"Egg and tomato","examine":"A bowl of scrambled eggs and tomato.","id":7064,"value":12,"members":true,"lowalch":4,"name_pt":"Ovos e tomate","price":167,"last":167}
+{"examine":"A bowl of scrambled eggs and tomato.","highalch":7,"id":7064,"limit":1000,"lowalch":4,"members":true,"name":"Egg and tomato","price":167,"value":12}

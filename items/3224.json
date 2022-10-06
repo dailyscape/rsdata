@@ -1,1 +1,1 @@
-{"examine":"Can be used to craft wizard armour.","id":3224,"members":false,"lowalch":4,"limit":10000,"value":10,"highalch":6,"icon":"Strip of cloth.png","name":"Strip of cloth","name_pt":"Tira de pano","price":3500,"last":3500}
+{"examine":"Can be used to craft wizard armour.","highalch":6,"icon":"Strip of cloth.png","id":3224,"limit":10000,"lowalch":4,"members":false,"name":"Strip of cloth","price":3500,"value":10}

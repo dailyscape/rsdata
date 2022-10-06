@@ -1,1 +1,1 @@
-{"examine":"It needs a string so I can wear it.","id":39350,"members":false,"lowalch":140,"limit":5000,"value":350,"highalch":210,"icon":"Topaz amulet (unstrung).png","name":"Topaz amulet (unstrung)","name_pt":"Amuleto de topázio (sem corda)","price":1905,"last":1905}
+{"examine":"It needs a string so I can wear it.","highalch":210,"icon":"Topaz amulet (unstrung).png","id":39350,"limit":5000,"lowalch":140,"members":false,"name":"Topaz amulet (unstrung)","price":1905,"value":350}

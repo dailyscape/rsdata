@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":30,"name":"Snowy knight","examine":"There's a snowy knight butterfly in here.","id":10016,"value":50,"members":true,"lowalch":20,"name_pt":"Cavaleiro da neve","price":556,"last":556}
+{"examine":"There's a snowy knight butterfly in here.","highalch":30,"id":10016,"limit":5000,"lowalch":20,"members":true,"name":"Snowy knight","price":556,"value":50}

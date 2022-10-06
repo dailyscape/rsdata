@@ -1,1 +1,1 @@
-{"limit":100,"highalch":3,"name":"Red dye","examine":"A little bottle of red dye.","id":1763,"value":6,"members":false,"lowalch":2,"name_pt":"Corante vermelho","price":4771,"last":4748}
+{"examine":"A little bottle of red dye.","highalch":3,"id":1763,"limit":100,"lowalch":2,"members":false,"name":"Red dye","price":4771,"value":6}

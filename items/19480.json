@@ -1,1 +1,1 @@
-{"limit":300,"highalch":1,"name":"Lumber Yard Teleport","examine":"A one-use scroll containing a teleport spell.","id":19480,"value":2,"members":true,"lowalch":1,"name_pt":"Teleporte depósito madeira","price":14457,"last":14457}
+{"examine":"A one-use scroll containing a teleport spell.","highalch":1,"id":19480,"limit":300,"lowalch":1,"members":true,"name":"Lumber Yard Teleport","price":15081,"value":2}

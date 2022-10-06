@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":300,"name":"Teak plank","examine":"A plank of fine teak.","id":8780,"value":500,"members":true,"lowalch":200,"name_pt":"Tábua de teca","price":433,"last":437}
+{"examine":"A plank of fine teak.","highalch":300,"id":8780,"limit":10000,"lowalch":200,"members":true,"name":"Teak plank","price":451,"value":500}

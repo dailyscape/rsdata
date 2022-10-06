@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":1,"name":"Ardougne teleport (item)","examine":"A tablet containing a magic spell.","id":8011,"value":1,"members":true,"lowalch":1,"name_pt":"Teleporte para Ardonha","price":4697,"last":4697}
+{"examine":"A tablet containing a magic spell.","highalch":1,"id":8011,"limit":1000,"lowalch":1,"members":true,"name":"Ardougne teleport (item)","price":4697,"value":1}

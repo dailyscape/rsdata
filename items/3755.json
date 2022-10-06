@@ -1,1 +1,1 @@
-{"limit":100,"highalch":46800,"name":"Farseer helm","examine":"This helmet is worn by farseers.","id":3755,"value":78000,"members":true,"lowalch":31200,"name_pt":"Elmo do vidente","price":43709,"last":43709}
+{"examine":"This helmet is worn by farseers.","highalch":46800,"id":3755,"limit":100,"lowalch":31200,"members":true,"name":"Farseer helm","price":43709,"value":78000}

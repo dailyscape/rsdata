@@ -1,1 +1,1 @@
-{"limit":20000,"highalch":20,"name":"Raw cod","examine":"I should try cooking this. Used in Cooking (18).","id":341,"value":34,"members":true,"lowalch":13,"name_pt":"Bacalhau cru","price":1414,"last":1440}
+{"examine":"I should try cooking this. Used in Cooking (18).","highalch":20,"id":341,"limit":20000,"lowalch":13,"members":true,"name":"Raw cod","price":1414,"value":34}

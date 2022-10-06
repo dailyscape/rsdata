@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":72,"name":"Super restore mix (1)","examine":"One dose of fishy super restore potion.","id":11495,"value":120,"members":true,"lowalch":48,"name_pt":"Mis super-restauradora (1)","price":2242,"last":2242}
+{"examine":"One dose of fishy super restore potion.","highalch":72,"id":11495,"limit":1000,"lowalch":48,"members":true,"name":"Super restore mix (1)","price":2242,"value":120}

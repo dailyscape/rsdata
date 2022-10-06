@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":60,"name":"Bowstring","examine":"I need a bow stave to attach this to.","id":1777,"value":100,"members":false,"lowalch":40,"name_pt":"Corda de arco","price":467,"last":475,"volume":10300000}
+{"examine":"I need a bow stave to attach this to.","highalch":60,"id":1777,"limit":10000,"lowalch":40,"members":false,"name":"Bowstring","price":463,"value":100,"volume":10800000}

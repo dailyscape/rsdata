@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":26,"name":"Wergali potion (unf)","examine":"I need another ingredient to finish this wergali potion.","id":14856,"value":44,"members":true,"lowalch":17,"name_pt":"Poção de wergali (inc)","price":12828,"last":12828}
+{"examine":"I need another ingredient to finish this wergali potion.","highalch":26,"id":14856,"limit":10000,"lowalch":17,"members":true,"name":"Wergali potion (unf)","price":12828,"value":44}

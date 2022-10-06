@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":27,"name":"Steel arrow","examine":"Ammunition for shieldbows and shortbows. Used with the Ranged skill (20).","id":886,"value":46,"members":false,"lowalch":18,"name_pt":"Flecha de aço","price":19,"last":19}
+{"examine":"Ammunition for shieldbows and shortbows. Used with the Ranged skill (20).","highalch":27,"id":886,"limit":10000,"lowalch":18,"members":false,"name":"Steel arrow","price":19,"value":46}

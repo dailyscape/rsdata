@@ -1,1 +1,1 @@
-{"limit":100,"highalch":780,"name":"Hunters' crossbow","examine":"A weapon made of bone and wood.","id":10156,"value":1300,"members":true,"lowalch":520,"name_pt":"Balestra de caçadores","price":8662,"last":8662}
+{"examine":"A weapon made of bone and wood.","highalch":780,"id":10156,"limit":100,"lowalch":520,"members":true,"name":"Hunters' crossbow","price":8662,"value":1300}

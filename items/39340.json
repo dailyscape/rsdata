@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":120,"name":"Jade amulet (unstrung)","examine":"It needs a string so I can wear it.","id":39340,"value":200,"members":true,"lowalch":80,"name_pt":"Amuleto de jade (sem corda)","price":2262,"last":2262}
+{"examine":"It needs a string so I can wear it.","highalch":120,"id":39340,"limit":5000,"lowalch":80,"members":true,"name":"Jade amulet (unstrung)","price":2262,"value":200}

@@ -1,1 +1,1 @@
-{"examine":"Can be used to create stalker arrows when used with dark arrows.","id":41589,"members":true,"lowalch":20,"limit":10000,"value":50,"highalch":30,"icon":"Stalker essence.png","name":"Stalker essence","name_pt":"Essência de espreitador","price":356,"last":366}
+{"examine":"Can be used to create stalker arrows when used with dark arrows.","highalch":30,"icon":"Stalker essence.png","id":41589,"limit":10000,"lowalch":20,"members":true,"name":"Stalker essence","price":356,"value":50}

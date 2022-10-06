@@ -1,1 +1,1 @@
-{"limit":500,"highalch":7,"name":"Harralander seed","examine":"A harralander seed - plant in a herb patch. Used in Farming (26).","id":5294,"value":12,"members":true,"lowalch":4,"name_pt":"Semente de harralander","price":420,"last":402}
+{"examine":"A harralander seed - plant in a herb patch. Used in Farming (26).","highalch":7,"id":5294,"limit":500,"lowalch":4,"members":true,"name":"Harralander seed","price":420,"value":12}

@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":63,"name":"Fletching potion (2)","examine":"2 doses of fletching potion.","id":14850,"value":105,"members":true,"lowalch":42,"name_pt":"Poção de arco e flecha (2)","price":192,"last":192}
+{"examine":"2 doses of fletching potion.","highalch":63,"id":14850,"limit":1000,"lowalch":42,"members":true,"name":"Fletching potion (2)","price":192,"value":105}

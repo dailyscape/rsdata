@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":1,"name":"Camelot teleport (item)","examine":"A tablet containing a magic spell.","id":8010,"value":1,"members":true,"lowalch":1,"name_pt":"Teleporte para Camelot","price":4337,"last":4273}
+{"examine":"A tablet containing a magic spell.","highalch":1,"id":8010,"limit":1000,"lowalch":1,"members":true,"name":"Camelot teleport (item)","price":4337,"value":1}

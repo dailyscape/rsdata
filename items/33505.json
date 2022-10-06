@@ -1,1 +1,1 @@
-{"limit":200,"highalch":3,"name":"Puzzle box skipping ticket","examine":"Allows you to skip a puzzle box.","id":33505,"value":5,"members":true,"lowalch":2,"name_pt":"Bilhete para pular caixa de quebra-cabeças","price":3119441,"last":3028081}
+{"examine":"Allows you to skip a puzzle box.","highalch":3,"id":33505,"limit":200,"lowalch":2,"members":true,"name":"Puzzle box skipping ticket","price":3163199,"value":5}

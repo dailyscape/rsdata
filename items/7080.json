@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":25,"name":"Sliced mushrooms","examine":"A bowl of sliced Bittercap mushrooms.","id":7080,"value":42,"members":true,"lowalch":16,"name_pt":"Cogumelos picados","price":3242,"last":3242}
+{"examine":"A bowl of sliced Bittercap mushrooms.","highalch":25,"id":7080,"limit":1000,"lowalch":16,"members":true,"name":"Sliced mushrooms","price":3242,"value":42}

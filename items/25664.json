@@ -1,1 +1,1 @@
-{"limit":5,"highalch":30000,"name":"Virtus book","examine":"Contains the magical secrets of Zaros.","id":25664,"value":50000,"members":true,"lowalch":20000,"name_pt":"Livro de Virtus","price":13392422,"last":13392422}
+{"examine":"Contains the magical secrets of Zaros.","highalch":30000,"id":25664,"limit":5,"lowalch":20000,"members":true,"name":"Virtus book","price":13392422,"value":50000}

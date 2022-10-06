@@ -1,1 +1,1 @@
-{"limit":100,"highalch":120,"name":"Nose peg","examine":"Protects me from any bad smells.","id":4168,"value":200,"members":true,"lowalch":80,"name_pt":"Pregador de nariz","price":1789,"last":1789}
+{"examine":"Protects me from any bad smells.","highalch":120,"id":4168,"limit":100,"lowalch":80,"members":true,"name":"Nose peg","price":1789,"value":200}

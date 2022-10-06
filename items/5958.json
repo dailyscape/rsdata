@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":86,"name":"Antipoison++ (1)","examine":"1 dose of super-strong antipoison potion.","id":5958,"value":144,"members":true,"lowalch":57,"name_pt":"Antiveneno++ (1)","price":1196,"last":1196}
+{"examine":"1 dose of super-strong antipoison potion.","highalch":86,"id":5958,"limit":1000,"lowalch":57,"members":true,"name":"Antipoison++ (1)","price":1196,"value":144}

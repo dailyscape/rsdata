@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":120,"name":"Traveller's necklace (new)","examine":"Offers teleports to the Wizard's Tower, The Outpost near Ardougne, and the Eagle's Eyrie in the desert.","id":39370,"value":200,"members":true,"lowalch":80,"name_pt":"Colar do Viajante (novo)","price":10294,"last":10294}
+{"examine":"Offers teleports to the Wizard's Tower, The Outpost near Ardougne, and the Eagle's Eyrie in the desert.","highalch":120,"id":39370,"limit":5000,"lowalch":80,"members":true,"name":"Traveller's necklace (new)","price":10294,"value":200}

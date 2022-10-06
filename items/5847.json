@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Cider (3)","examine":"This keg contains 3 pints of Cider.","id":5847,"value":1,"members":true,"lowalch":1,"name_pt":"Cidra (3)","price":14648,"last":14648}
+{"examine":"This keg contains 3 pints of Cider.","highalch":1,"id":5847,"limit":100,"lowalch":1,"members":true,"name":"Cider (3)","price":14648,"value":1}

@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":240,"name":"Swordfish","examine":"I'd better be careful eating this!","id":373,"value":400,"members":false,"lowalch":160,"name_pt":"Peixe-espada","price":158,"last":155}
+{"examine":"I'd better be careful eating this!","highalch":240,"id":373,"limit":10000,"lowalch":160,"members":false,"name":"Swordfish","price":156,"value":400}

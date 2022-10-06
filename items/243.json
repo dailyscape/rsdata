@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":30,"name":"Blue dragon scale","examine":"A large shiny scale.","id":243,"value":50,"members":true,"lowalch":20,"name_pt":"Escama de dragão azul","price":2574,"last":2574}
+{"examine":"A large shiny scale.","highalch":30,"id":243,"limit":10000,"lowalch":20,"members":true,"name":"Blue dragon scale","price":2574,"value":50}

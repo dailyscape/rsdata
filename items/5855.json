@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Dwarven stout (m3)","examine":"This keg contains 3 pints of mature Dwarven Stout.","id":5855,"value":1,"members":true,"lowalch":1,"name_pt":"Groselha dos anões (m3)","price":90276,"last":90276}
+{"examine":"This keg contains 3 pints of mature Dwarven Stout.","highalch":1,"id":5855,"limit":100,"lowalch":1,"members":true,"name":"Dwarven stout (m3)","price":90276,"value":1}

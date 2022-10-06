@@ -1,1 +1,1 @@
-{"members":true,"name":"Archaeology potion recipe","examine":"A tablet with a recipe for the Archaeology potion.","id":50789,"value":10000,"icon":"Archaeology potion recipe.png","limit":100,"name_pt":"Receita de poção arqueológica","price":9287521,"last":9217575}
+{"examine":"A tablet with a recipe for the Archaeology potion.","icon":"Archaeology potion recipe.png","id":50789,"limit":100,"members":true,"name":"Archaeology potion recipe","price":9287521,"value":10000}

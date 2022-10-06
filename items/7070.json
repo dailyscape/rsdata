@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":4,"name":"Minced meat","examine":"A bowl of finely minced meat.","id":7070,"value":8,"members":true,"lowalch":3,"name_pt":"Carne moída","price":31,"last":31}
+{"examine":"A bowl of finely minced meat.","highalch":4,"id":7070,"limit":1000,"lowalch":3,"members":true,"name":"Minced meat","price":31,"value":8}

@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":39,"name":"Cadantine potion (unf)","examine":"I need another ingredient to finish this cadantine potion.","id":107,"value":65,"members":true,"lowalch":26,"name_pt":"Poção de cadantina (inc)","price":2101,"last":2101}
+{"examine":"I need another ingredient to finish this cadantine potion.","highalch":39,"id":107,"limit":10000,"lowalch":26,"members":true,"name":"Cadantine potion (unf)","price":2101,"value":65}

@@ -1,1 +1,1 @@
-{"limit":500,"highalch":120,"name":"Oyster","examine":"Maybe there are pearls inside?","id":407,"value":200,"members":true,"lowalch":80,"name_pt":"Ostra","price":7643,"last":7643}
+{"examine":"Maybe there are pearls inside?","highalch":120,"id":407,"limit":500,"lowalch":80,"members":true,"name":"Oyster","price":7643,"value":200}

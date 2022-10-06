@@ -1,1 +1,1 @@
-{"limit":100,"highalch":96,"name":"Green hat","examine":"A silly, green pointed hat.","id":658,"value":160,"members":true,"lowalch":64,"name_pt":"Chapéu verde","price":440,"last":440}
+{"examine":"A silly, green pointed hat.","highalch":96,"id":658,"limit":100,"lowalch":64,"members":true,"name":"Green hat","price":440,"value":160}

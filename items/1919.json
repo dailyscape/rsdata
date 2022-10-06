@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Beer glass","examine":"I need to fill this with beer.","id":1919,"value":2,"members":false,"lowalch":1,"name_pt":"Copo de garapa","price":1179,"last":1179}
+{"examine":"I need to fill this with beer.","highalch":1,"id":1919,"limit":100,"lowalch":1,"members":false,"name":"Beer glass","price":1179,"value":2}

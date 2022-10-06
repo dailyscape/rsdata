@@ -1,1 +1,1 @@
-{"limit":10,"highalch":36000,"name":"Corrupt dragon helm","examine":"This item degrades while worn, and will turn to dust.","id":13961,"value":60000,"members":false,"lowalch":24000,"name_pt":"Elmo dragônico danificado","price":42114,"last":42114}
+{"examine":"This item degrades while worn, and will turn to dust.","highalch":36000,"id":13961,"limit":10,"lowalch":24000,"members":false,"name":"Corrupt dragon helm","price":42114,"value":60000}

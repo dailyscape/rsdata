@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":12,"name":"Wooden stock","examine":"A wooden crossbow stock.","id":9440,"value":20,"members":false,"lowalch":8,"name_pt":"Coronha de madeira","price":74,"last":74}
+{"examine":"A wooden crossbow stock.","highalch":12,"id":9440,"limit":1000,"lowalch":8,"members":false,"name":"Wooden stock","price":74,"value":20}

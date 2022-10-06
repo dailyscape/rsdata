@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":12,"name":"Limestone brick","examine":"A well carved limestone brick.","id":3420,"value":21,"members":true,"lowalch":8,"name_pt":"Tijolo de calcário","price":489,"last":489}
+{"examine":"A well carved limestone brick.","highalch":12,"id":3420,"limit":10000,"lowalch":8,"members":true,"name":"Limestone brick","price":489,"value":21}

@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":3,"name":"Gin","examine":"A strong spirit that tastes of juniper; sold at well-stocked bars.","id":2019,"value":5,"members":true,"lowalch":2,"name_pt":"Energético","price":985,"last":985}
+{"examine":"A strong spirit that tastes of juniper; sold at well-stocked bars.","highalch":3,"id":2019,"limit":1000,"lowalch":2,"members":true,"name":"Gin","price":985,"value":5}

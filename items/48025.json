@@ -1,1 +1,1 @@
-{"examine":"A prepared dinosaur hide.","id":48025,"members":true,"lowalch":200,"limit":500,"value":500,"highalch":300,"icon":"Dinosaur leather.png","name":"Dinosaur leather","name_pt":"Couro de dinossauro","price":269492,"last":269492}
+{"examine":"A prepared dinosaur hide.","highalch":300,"icon":"Dinosaur leather.png","id":48025,"limit":500,"lowalch":200,"members":true,"name":"Dinosaur leather","price":269492,"value":500}

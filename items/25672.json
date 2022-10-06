@@ -1,1 +1,1 @@
-{"limit":5,"highalch":45000,"name":"Ahrim's book of magic","examine":"Ahrim was known to cast spells from this.","id":25672,"value":75000,"members":true,"lowalch":30000,"name_pt":"Livro de magia de Ahrim","price":3235241,"last":3235241}
+{"examine":"Ahrim was known to cast spells from this.","highalch":45000,"id":25672,"limit":5,"lowalch":30000,"members":true,"name":"Ahrim's book of magic","price":3235241,"value":75000}

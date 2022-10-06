@@ -1,1 +1,1 @@
-{"limit":100,"highalch":24,"name":"Small fishing net","examine":"Useful for catching small fish.","id":303,"value":40,"members":false,"lowalch":16,"name_pt":"Rede de pesca pequena","price":593,"last":593}
+{"examine":"Useful for catching small fish.","highalch":24,"id":303,"limit":100,"lowalch":16,"members":false,"name":"Small fishing net","price":593,"value":40}

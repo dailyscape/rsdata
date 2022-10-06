@@ -1,1 +1,1 @@
-{"limit":200,"highalch":600,"name":"Barrows totem","examine":"A mysterious totem found in the Barrows, belonging to Sliske.","id":30004,"value":1000,"members":true,"lowalch":400,"name_pt":"Totem das Catacumbas","price":1978,"last":1978}
+{"examine":"A mysterious totem found in the Barrows, belonging to Sliske.","highalch":600,"id":30004,"limit":200,"lowalch":400,"members":true,"name":"Barrows totem","price":1952,"value":1000}

@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Bowl (unfired)","examine":"I need to put this in a pottery oven.","id":1791,"value":2,"members":false,"lowalch":1,"name_pt":"Tigela (sem queimar)","price":493,"last":493}
+{"examine":"I need to put this in a pottery oven.","highalch":1,"id":1791,"limit":100,"lowalch":1,"members":false,"name":"Bowl (unfired)","price":493,"value":2}

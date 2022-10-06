@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":1,"name":"Carrallanger teleport (item)","examine":"A tablet containing a magic teleport to the ancient city of Carrallanger (Graveyard of Shadows).","id":38468,"value":1,"members":true,"lowalch":1,"name_pt":"Teleporte a Carrallanger","price":4080,"last":4080}
+{"examine":"A tablet containing a magic teleport to the ancient city of Carrallanger (Graveyard of Shadows).","highalch":1,"id":38468,"limit":1000,"lowalch":1,"members":true,"name":"Carrallanger teleport (item)","price":4080,"value":1}

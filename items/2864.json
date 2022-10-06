@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":1,"name":"Ogre arrow shaft","examine":"A wooden arrow shaft.","id":2864,"value":1,"members":true,"lowalch":1,"name_pt":"Haste de flecha de ogro","price":163,"last":163}
+{"examine":"A wooden arrow shaft.","highalch":1,"id":2864,"limit":1000,"lowalch":1,"members":true,"name":"Ogre arrow shaft","price":163,"value":1}

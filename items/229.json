@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":3,"name":"Vial","examine":"An empty glass vial.","id":229,"value":5,"members":false,"lowalch":2,"name_pt":"Frasco","price":2,"last":2,"volume":90100000}
+{"examine":"An empty glass vial.","highalch":3,"id":229,"limit":10000,"lowalch":2,"members":false,"name":"Vial","price":2,"value":5,"volume":98500000}

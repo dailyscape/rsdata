@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Crystal tool seed","examine":"Used in crystal singing to create a crystal tool.","id":32208,"value":1,"members":true,"lowalch":1,"name_pt":"Semente ferramenta cristal","price":109901,"last":110246}
+{"examine":"Used in crystal singing to create a crystal tool.","highalch":1,"id":32208,"limit":100,"lowalch":1,"members":true,"name":"Crystal tool seed","price":109901,"value":1}

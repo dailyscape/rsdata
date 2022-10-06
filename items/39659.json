@@ -1,1 +1,1 @@
-{"examine":"Converts junk into refined components.","id":39659,"members":true,"lowalch":4000,"limit":100,"value":10000,"highalch":6000,"icon":"Junk refiner.png","name":"Junk refiner","name_pt":"Refinador de sucata","price":29545,"last":29545}
+{"examine":"Converts junk into refined components.","highalch":6000,"icon":"Junk refiner.png","id":39659,"limit":100,"lowalch":4000,"members":true,"name":"Junk refiner","price":29545,"value":10000}

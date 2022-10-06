@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":4,"name":"Steel bolts","examine":"Steel ammunition for crossbows. Used with the Ranged skill (20).","id":9141,"value":8,"members":false,"lowalch":3,"name_pt":"Setas de aço","price":71,"last":71}
+{"examine":"Steel ammunition for crossbows. Used with the Ranged skill (20).","highalch":4,"id":9141,"limit":10000,"lowalch":3,"members":false,"name":"Steel bolts","price":71,"value":8}

@@ -1,1 +1,1 @@
-{"limit":2,"highalch":9000,"name":"Ancient ceremonial mask","examine":"A ceremonial mask dedicated to an ancient god.","id":20125,"value":15000,"members":true,"lowalch":6000,"name_pt":"Máscara cerimonial antiga","price":8332,"last":8332}
+{"examine":"A ceremonial mask dedicated to an ancient god.","highalch":9000,"id":20125,"limit":2,"lowalch":6000,"members":true,"name":"Ancient ceremonial mask","price":8332,"value":15000}

@@ -1,1 +1,1 @@
-{"limit":100,"highalch":3,"name":"Purple dye","examine":"A little bottle of purple dye.","id":1773,"value":6,"members":false,"lowalch":2,"name_pt":"Corante roxo","price":1029,"last":1029}
+{"examine":"A little bottle of purple dye.","highalch":3,"id":1773,"limit":100,"lowalch":2,"members":false,"name":"Purple dye","price":1029,"value":6}

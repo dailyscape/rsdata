@@ -1,1 +1,1 @@
-{"examine":"An early form of steel, forged with a lost technique.","id":49510,"members":false,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"Imperial steel.png","name":"Imperial steel","name_pt":"Aço imperial","price":2012,"last":2003}
+{"examine":"An early form of steel, forged with a lost technique.","highalch":150,"icon":"Imperial steel.png","id":49510,"limit":5000,"lowalch":100,"members":false,"name":"Imperial steel","price":2012,"value":250}

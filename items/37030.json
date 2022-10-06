@@ -1,1 +1,1 @@
-{"limit":100,"highalch":60000,"name":"Zarosian essence","examine":"A light material that can be used to upgrade armour found within the Heart of Gielinor.","id":37030,"value":100000,"members":true,"lowalch":40000,"name_pt":"Essência de Zaros","price":291410,"last":286392}
+{"examine":"A light material that can be used to upgrade armour found within the Heart of Gielinor.","highalch":60000,"id":37030,"limit":100,"lowalch":40000,"members":true,"name":"Zarosian essence","price":291410,"value":100000}

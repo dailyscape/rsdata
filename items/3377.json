@@ -1,1 +1,1 @@
-{"limit":100,"highalch":3,"name":"Sample bottle","examine":"An empty sample bottle.","id":3377,"value":5,"members":true,"lowalch":2,"name_pt":"Frasco de amostra","price":164,"last":164}
+{"examine":"An empty sample bottle.","highalch":3,"id":3377,"limit":100,"lowalch":2,"members":true,"name":"Sample bottle","price":164,"value":5}

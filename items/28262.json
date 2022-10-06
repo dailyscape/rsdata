@@ -1,1 +1,1 @@
-{"limit":100,"highalch":12,"name":"Snape grass seed","examine":"A snape grass seed - plant in an allotment.","id":28262,"value":20,"members":true,"lowalch":8,"name_pt":"Semente de capim da cura","price":2434,"last":2434}
+{"examine":"A snape grass seed - plant in an allotment.","highalch":12,"id":28262,"limit":100,"lowalch":8,"members":true,"name":"Snape grass seed","price":2434,"value":20}

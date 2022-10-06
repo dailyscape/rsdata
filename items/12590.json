@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Stinkbloom","examine":"A pretty but putrid flower.","id":12590,"value":2,"members":true,"lowalch":1,"name_pt":"Flodorenta","price":579,"last":579}
+{"examine":"A pretty but putrid flower.","highalch":1,"id":12590,"limit":100,"lowalch":1,"members":true,"name":"Stinkbloom","price":579,"value":2}

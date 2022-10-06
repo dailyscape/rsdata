@@ -1,1 +1,1 @@
-{"examine":"Dense fungus that looks a lot like algae.","id":52323,"members":true,"lowalch":80,"limit":5000,"value":200,"highalch":120,"icon":"Enriched fungal algae.png","name":"Enriched fungal algae","name_pt":"Algas fúngicas enriquecidas","price":872,"last":872}
+{"examine":"Dense fungus that looks a lot like algae.","highalch":120,"icon":"Enriched fungal algae.png","id":52323,"limit":5000,"lowalch":80,"members":true,"name":"Enriched fungal algae","price":872,"value":200}

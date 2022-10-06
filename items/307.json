@@ -1,1 +1,1 @@
-{"limit":100,"highalch":3,"name":"Fishing rod","examine":"Useful for catching sardine or herring.","id":307,"value":5,"members":false,"lowalch":2,"name_pt":"Vara de pescar","price":1322,"last":1322}
+{"examine":"Useful for catching sardine or herring.","highalch":3,"id":307,"limit":100,"lowalch":2,"members":false,"name":"Fishing rod","price":1280,"value":5}

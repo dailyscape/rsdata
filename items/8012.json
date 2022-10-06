@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":1,"name":"Watchtower teleport (item)","examine":"A tablet containing a magic spell.","id":8012,"value":1,"members":true,"lowalch":1,"name_pt":"Teleporte à Torre de Vigia","price":5287,"last":5287}
+{"examine":"A tablet containing a magic spell.","highalch":1,"id":8012,"limit":1000,"lowalch":1,"members":true,"name":"Watchtower teleport (item)","price":5287,"value":1}

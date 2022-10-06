@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":30,"name":"Leaping salmon","examine":"Some non-tasty salmon.","id":11330,"value":50,"members":true,"lowalch":20,"name_pt":"Salmão saltitante","price":402,"last":402}
+{"examine":"Some non-tasty salmon.","highalch":30,"id":11330,"limit":5000,"lowalch":20,"members":true,"name":"Leaping salmon","price":402,"value":50}

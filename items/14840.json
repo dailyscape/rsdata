@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":96,"name":"Crafting potion (3)","examine":"3 doses of crafting potion.","id":14840,"value":160,"members":true,"lowalch":64,"name_pt":"Poção do Artesanato (3)","price":3699,"last":3699}
+{"examine":"3 doses of crafting potion.","highalch":96,"id":14840,"limit":1000,"lowalch":64,"members":true,"name":"Crafting potion (3)","price":3699,"value":160}

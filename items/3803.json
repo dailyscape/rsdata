@@ -1,1 +1,1 @@
-{"limit":100,"highalch":15,"name":"Beer (tankard)","examine":"Frothy and alcoholic.","id":3803,"value":26,"members":true,"lowalch":10,"name_pt":"Garapa (canecão)","price":2616,"last":2616}
+{"examine":"Frothy and alcoholic.","highalch":15,"id":3803,"limit":100,"lowalch":10,"members":true,"name":"Beer (tankard)","price":2616,"value":26}

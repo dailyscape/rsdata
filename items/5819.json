@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Axeman's folly (1)","examine":"This keg contains 1 pint of Axeman's Folly.","id":5819,"value":1,"members":true,"lowalch":1,"name_pt":"Trago do lenhador (1)","price":4092,"last":4092}
+{"examine":"This keg contains 1 pint of Axeman's Folly.","highalch":1,"id":5819,"limit":100,"lowalch":1,"members":true,"name":"Axeman's folly (1)","price":4092,"value":1}

@@ -1,1 +1,1 @@
-{"limit":100,"highalch":3,"name":"Secateurs","examine":"Good for pruning away diseased leaves.","id":5329,"value":5,"members":false,"lowalch":2,"name_pt":"Podadeira","price":1454,"last":1465}
+{"examine":"Good for pruning away diseased leaves.","highalch":3,"id":5329,"limit":100,"lowalch":2,"members":false,"name":"Secateurs","price":1454,"value":5}

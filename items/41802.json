@@ -1,1 +1,1 @@
-{"examine":"A one-use scroll containing a teleport spell.","id":41802,"members":true,"lowalch":1,"limit":300,"value":2,"highalch":1,"icon":"Gu'Tanoth Teleport.png","name":"Gu'Tanoth Teleport","name_pt":"Teleporte a Gu'Tanoth","price":1508,"last":1508}
+{"examine":"A one-use scroll containing a teleport spell.","highalch":1,"icon":"Gu'Tanoth Teleport.png","id":41802,"limit":300,"lowalch":1,"members":true,"name":"Gu'Tanoth Teleport","price":1466,"value":2}

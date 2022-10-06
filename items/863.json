@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":3,"name":"Iron knife","examine":"A finely balanced throwing knife.","id":863,"value":6,"members":false,"lowalch":2,"name_pt":"Faca de ferro","price":117,"last":117}
+{"examine":"A finely balanced throwing knife.","highalch":3,"id":863,"limit":10000,"lowalch":2,"members":false,"name":"Iron knife","price":117,"value":6}

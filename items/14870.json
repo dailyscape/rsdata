@@ -1,1 +1,1 @@
-{"limit":500,"highalch":38,"name":"Wergali seed","examine":"A wergali seed - plant in a herb patch.","id":14870,"value":64,"members":true,"lowalch":25,"name_pt":"Semente de wergali","price":2202,"last":2202}
+{"examine":"A wergali seed - plant in a herb patch.","highalch":38,"id":14870,"limit":500,"lowalch":25,"members":true,"name":"Wergali seed","price":2202,"value":64}

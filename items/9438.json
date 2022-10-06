@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":1,"name":"Crossbow string","examine":"A string for a crossbow.","id":9438,"value":1,"members":false,"lowalch":1,"name_pt":"Corda de balestra","price":3173,"last":3056}
+{"examine":"A string for a crossbow.","highalch":1,"id":9438,"limit":1000,"lowalch":1,"members":false,"name":"Crossbow string","price":3173,"value":1}

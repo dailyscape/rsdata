@@ -1,1 +1,1 @@
-{"examine":"An iron tool for carefully uncovering and excavating artefacts.","id":49542,"members":false,"lowalch":100,"limit":100,"value":250,"highalch":150,"icon":"Iron mattock.png","name":"Iron mattock","name_pt":"Pico de ferro","price":4018,"last":4018}
+{"examine":"An iron tool for carefully uncovering and excavating artefacts.","highalch":150,"icon":"Iron mattock.png","id":49542,"limit":100,"lowalch":100,"members":false,"name":"Iron mattock","price":4018,"value":250}

@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Cider (m4)","examine":"This keg contains 4 pints of mature Cider.","id":5929,"value":1,"members":true,"lowalch":1,"name_pt":"Cidra (m4)","price":5193,"last":5193}
+{"examine":"This keg contains 4 pints of mature Cider.","highalch":1,"id":5929,"limit":100,"lowalch":1,"members":true,"name":"Cider (m4)","price":5193,"value":1}

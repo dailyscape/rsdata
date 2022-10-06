@@ -1,1 +1,1 @@
-{"limit":100,"highalch":180,"name":"Pirate shirt (blue)","examine":"A sea worthy shirt.","id":7128,"value":300,"members":true,"lowalch":120,"name_pt":"Camisa de pirata (azul)","price":2086,"last":2086}
+{"examine":"A sea worthy shirt.","highalch":180,"id":7128,"limit":100,"lowalch":120,"members":true,"name":"Pirate shirt (blue)","price":2086,"value":300}

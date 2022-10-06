@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":6,"name":"Red feather","examine":"A vivid red feather.","id":10088,"value":10,"members":false,"lowalch":4,"name_pt":"Pena vermelha","price":40,"last":40}
+{"examine":"A vivid red feather.","highalch":6,"id":10088,"limit":5000,"lowalch":4,"members":false,"name":"Red feather","price":40,"value":10}

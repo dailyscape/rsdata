@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":15,"name":"Raw beast meat","examine":"A slab of raw beast meat.","id":9986,"value":25,"members":false,"lowalch":10,"name_pt":"Carne de fera crua","price":1205,"last":1232}
+{"examine":"A slab of raw beast meat.","highalch":15,"id":9986,"limit":1000,"lowalch":10,"members":false,"name":"Raw beast meat","price":1205,"value":25}

@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":90,"name":"Red salamander","examine":"Slightly slimy but certainly striking.","id":10147,"value":150,"members":true,"lowalch":60,"name_pt":"Salamandra vermelha","price":9060,"last":9060}
+{"examine":"Slightly slimy but certainly striking.","highalch":90,"id":10147,"limit":1000,"lowalch":60,"members":true,"name":"Red salamander","price":9060,"value":150}

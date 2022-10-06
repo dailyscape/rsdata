@@ -1,1 +1,1 @@
-{"examine":"Salvageable fragments of smithed armour.","id":47110,"members":false,"lowalch":40,"limit":25000,"value":100,"highalch":60,"icon":"Medium plated bronze salvage.png","name":"Medium plated bronze salvage","name_pt":"Bronze em placa médio reaproveitável","price":869,"last":869}
+{"examine":"Salvageable fragments of smithed armour.","highalch":60,"icon":"Medium plated bronze salvage.png","id":47110,"limit":25000,"lowalch":40,"members":false,"name":"Medium plated bronze salvage","price":869,"value":100}

@@ -1,1 +1,1 @@
-{"limit":300,"highalch":1,"name":"Phoenix Lair Teleport","examine":"A one-use scroll containing a teleport spell.","id":19478,"value":2,"members":true,"lowalch":1,"name_pt":"Teleporte ao Covil da Fênix","price":435,"last":435}
+{"examine":"A one-use scroll containing a teleport spell.","highalch":1,"id":19478,"limit":300,"lowalch":1,"members":true,"name":"Phoenix Lair Teleport","price":417,"value":2}

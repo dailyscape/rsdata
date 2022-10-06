@@ -1,1 +1,1 @@
-{"limit":100,"highalch":120,"name":"Face mask","examine":"Stops me breathing in too much dust.","id":4164,"value":200,"members":true,"lowalch":80,"name_pt":"Máscara","price":1204,"last":1204}
+{"examine":"Stops me breathing in too much dust.","highalch":120,"id":4164,"limit":100,"lowalch":80,"members":true,"name":"Face mask","price":1204,"value":200}

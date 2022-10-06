@@ -1,1 +1,1 @@
-{"limit":10,"highalch":180000,"name":"Vesta's longsword","examine":"This item degrades in combat, and will turn to dust.","id":13899,"value":300000,"members":true,"lowalch":120000,"name_pt":"Espada longa de Vesta","price":970227,"last":970227}
+{"examine":"This item degrades in combat, and will turn to dust.","highalch":180000,"id":13899,"limit":10,"lowalch":120000,"members":true,"name":"Vesta's longsword","price":970227,"value":300000}

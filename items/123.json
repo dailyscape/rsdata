@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":252,"name":"Attack potion (2)","examine":"2 doses of attack potion.","id":123,"value":420,"members":false,"lowalch":168,"name_pt":"Poção do ataque (2)","price":917,"last":917}
+{"examine":"2 doses of attack potion.","highalch":252,"id":123,"limit":1000,"lowalch":168,"members":false,"name":"Attack potion (2)","price":917,"value":420}

@@ -1,1 +1,1 @@
-{"limit":10,"highalch":1800,"name":"Fungal poncho","examine":"A poncho encrusted with fungal flakes.","id":22466,"value":3000,"members":true,"lowalch":1200,"name_pt":"Poncho fúngico","price":19430,"last":19430}
+{"examine":"A poncho encrusted with fungal flakes.","highalch":1800,"id":22466,"limit":10,"lowalch":1200,"members":true,"name":"Fungal poncho","price":19430,"value":3000}

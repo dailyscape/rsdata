@@ -1,1 +1,1 @@
-{"limit":100,"highalch":6,"name":"Bowl of hot water","examine":"It's a bowl of hot water.","id":4456,"value":10,"members":true,"lowalch":4,"name_pt":"Tigela de água quente","price":1172,"last":1172}
+{"examine":"It's a bowl of hot water.","highalch":6,"id":4456,"limit":100,"lowalch":4,"members":true,"name":"Bowl of hot water","price":1172,"value":10}

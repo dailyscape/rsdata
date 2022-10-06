@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Axeman's folly (m3)","examine":"This keg contains 3 pints of mature Axeman's Folly.","id":5903,"value":1,"members":true,"lowalch":1,"name_pt":"Trago do lenhador (m3)","price":45249,"last":45249}
+{"examine":"This keg contains 3 pints of mature Axeman's Folly.","highalch":1,"id":5903,"limit":100,"lowalch":1,"members":true,"name":"Axeman's folly (m3)","price":45249,"value":1}

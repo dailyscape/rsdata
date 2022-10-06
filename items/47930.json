@@ -1,1 +1,1 @@
-{"examine":"Unlocks the ability to gain a second charge on your Escape ability.","id":47930,"members":true,"lowalch":120000,"limit":2,"value":300000,"highalch":180000,"icon":"Double Escape codex.png","name":"Double Escape codex","name_pt":"Códex da Escapada Dupla (negociável)","price":71778375,"last":71778375}
+{"examine":"Unlocks the ability to gain a second charge on your Escape ability.","highalch":180000,"icon":"Double Escape codex.png","id":47930,"limit":2,"lowalch":120000,"members":true,"name":"Double Escape codex","price":71778375,"value":300000}

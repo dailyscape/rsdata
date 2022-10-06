@@ -1,1 +1,1 @@
-{"examine":"Fungus that looks a lot like stone.","id":52317,"members":true,"lowalch":1,"limit":10000,"value":1,"highalch":1,"icon":"Calcified fungus.png","name":"Calcified fungus","name_pt":"Fungos calcificados","price":2764,"last":2764}
+{"examine":"Fungus that looks a lot like stone.","highalch":1,"icon":"Calcified fungus.png","id":52317,"limit":10000,"lowalch":1,"members":true,"name":"Calcified fungus","price":2764,"value":1}

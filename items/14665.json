@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":6,"name":"Doughnut","examine":"A tasty doughnut.","id":14665,"value":10,"members":false,"lowalch":4,"name_pt":"Rosquinha","price":5212,"last":5212}
+{"examine":"A tasty doughnut.","highalch":6,"id":14665,"limit":1000,"lowalch":4,"members":false,"name":"Doughnut","price":5075,"value":10}

@@ -1,1 +1,1 @@
-{"members":true,"name":"Trail-be-gone","examine":"This pungent substance replaces your smell with a slightly worse one. Decreases threat level by 1 in the Wilderness.","id":53491,"value":10000,"icon":"Trail-be-gone.png","limit":50,"name_pt":"Rastro-pra-lá","price":76772,"last":76772}
+{"examine":"This pungent substance replaces your smell with a slightly worse one. Decreases threat level by 1 in the Wilderness.","icon":"Trail-be-gone.png","id":53491,"limit":50,"members":true,"name":"Trail-be-gone","price":76772,"value":10000}

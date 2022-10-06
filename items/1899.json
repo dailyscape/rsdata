@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":30,"name":"2/3 chocolate cake","examine":"Someone has eaten a big chunk of this cake.","id":1899,"value":50,"members":false,"lowalch":20,"name_pt":"2/3 de bolo de chocolate","price":682,"last":682}
+{"examine":"Someone has eaten a big chunk of this cake.","highalch":30,"id":1899,"limit":1000,"lowalch":20,"members":false,"name":"2/3 chocolate cake","price":682,"value":50}

@@ -1,1 +1,1 @@
-{"limit":500,"highalch":20,"name":"Toadflax seed","examine":"A toadflax seed - plant in a herb patch.","id":5296,"value":34,"members":true,"lowalch":13,"name_pt":"Semente de sapolinho","price":486,"last":509}
+{"examine":"A toadflax seed - plant in a herb patch.","highalch":20,"id":5296,"limit":500,"lowalch":13,"members":true,"name":"Toadflax seed","price":486,"value":34}

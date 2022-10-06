@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":1889,"name":"Ibis pouch","examine":"I can summon an ibis familiar with this.","id":12531,"value":3149,"members":true,"lowalch":1259,"name_pt":"Algibeira íbis","price":2100,"last":2091}
+{"examine":"I can summon an ibis familiar with this.","highalch":1889,"id":12531,"limit":5000,"lowalch":1259,"members":true,"name":"Ibis pouch","price":2100,"value":3149}

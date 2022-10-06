@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":115,"name":"Weapon poison flask (4)","examine":"A flask of weapon poison.","id":25513,"value":192,"members":true,"lowalch":76,"name_pt":"Pote de veneno de arma (4)","price":3766,"last":3766}
+{"examine":"A flask of weapon poison.","highalch":115,"id":25513,"limit":1000,"lowalch":76,"members":true,"name":"Weapon poison flask (4)","price":3766,"value":192}

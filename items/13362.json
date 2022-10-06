@@ -1,1 +1,1 @@
-{"limit":100,"highalch":180,"name":"Pirate shirt (orange)","examine":"A seaworthy orange shirt.","id":13362,"value":300,"members":true,"lowalch":120,"name_pt":"Camisa de pirata (laranja)","price":113,"last":113}
+{"examine":"A seaworthy orange shirt.","highalch":180,"id":13362,"limit":100,"lowalch":120,"members":true,"name":"Pirate shirt (orange)","price":113,"value":300}

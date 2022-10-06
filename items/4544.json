@@ -1,1 +1,1 @@
-{"limit":100,"highalch":180,"name":"Bullseye lantern (frame)","examine":"You need to add a lens before you can use it.","id":4544,"value":300,"members":true,"lowalch":120,"name_pt":"Lampião (moldura)","price":164,"last":164}
+{"examine":"You need to add a lens before you can use it.","highalch":180,"id":4544,"limit":100,"lowalch":120,"members":true,"name":"Bullseye lantern (frame)","price":164,"value":300}

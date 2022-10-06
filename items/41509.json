@@ -1,1 +1,1 @@
-{"members":false,"name":"Present hammer weapon token","examine":"Activate this to unlock the Present hammer weapon override.","id":41509,"value":1,"icon":"Present hammer weapon token.png","limit":2,"name_pt":"Ficha de arma de martelo de presente","price":7700,"last":7700}
+{"examine":"Activate this to unlock the Present hammer weapon override.","icon":"Present hammer weapon token.png","id":41509,"limit":2,"members":false,"name":"Present hammer weapon token","price":7700,"value":1}

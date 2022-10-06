@@ -1,1 +1,1 @@
-{"limit":100,"highalch":3,"name":"Yellow dye","examine":"A little bottle of yellow dye.","id":1765,"value":6,"members":false,"lowalch":2,"name_pt":"Corante amarelo","price":3744,"last":3660}
+{"examine":"A little bottle of yellow dye.","highalch":3,"id":1765,"limit":100,"lowalch":2,"members":false,"name":"Yellow dye","price":3744,"value":6}

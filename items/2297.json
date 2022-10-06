@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":36,"name":"Anchovy pizza","examine":"A pizza with anchovies.","id":2297,"value":60,"members":false,"lowalch":24,"name_pt":"Pizza de anchovas","price":698,"last":698}
+{"examine":"A pizza with anchovies.","highalch":36,"id":2297,"limit":1000,"lowalch":24,"members":false,"name":"Anchovy pizza","price":698,"value":60}

@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":2354,"name":"Light creature pouch","examine":"I can summon a light creature familiar with this.","id":32829,"value":3924,"members":true,"lowalch":1569,"name_pt":"Algibeira de criatura de luz","price":3503,"last":3503}
+{"examine":"I can summon a light creature familiar with this.","highalch":2354,"id":32829,"limit":5000,"lowalch":1569,"members":true,"name":"Light creature pouch","price":3503,"value":3924}

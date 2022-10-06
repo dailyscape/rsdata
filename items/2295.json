@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":15,"name":"Half meat pizza","examine":"Half of this meat pizza has been eaten.","id":2295,"value":25,"members":false,"lowalch":10,"name_pt":"Meia pizza de carne","price":957,"last":957}
+{"examine":"Half of this meat pizza has been eaten.","highalch":15,"id":2295,"limit":1000,"lowalch":10,"members":false,"name":"Half meat pizza","price":957,"value":25}

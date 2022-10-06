@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":35,"name":"Iron bar","examine":"An iron bar. Used in Smithing (15) for production and training.","id":2351,"value":59,"members":false,"lowalch":23,"name_pt":"Barra de ferro","price":1316,"last":1349}
+{"examine":"An iron bar. Used in Smithing (15) for production and training.","highalch":35,"id":2351,"limit":10000,"lowalch":23,"members":false,"name":"Iron bar","price":1312,"value":59}

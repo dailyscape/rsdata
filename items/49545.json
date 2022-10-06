@@ -1,1 +1,1 @@
-{"examine":"A steel tool for carefully uncovering and excavating artefacts.","id":49545,"members":false,"lowalch":160,"limit":100,"value":400,"highalch":240,"icon":"Steel mattock.png","name":"Steel mattock","name_pt":"Pico de aço","price":6385,"last":6385}
+{"examine":"A steel tool for carefully uncovering and excavating artefacts.","highalch":240,"icon":"Steel mattock.png","id":49545,"limit":100,"lowalch":160,"members":false,"name":"Steel mattock","price":6385,"value":400}

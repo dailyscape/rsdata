@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":1,"name":"Soda ash","examine":"One of the components for making glass.","id":1781,"value":2,"members":true,"lowalch":1,"name_pt":"Carbonato de sódio","price":33,"last":33}
+{"examine":"One of the components for making glass.","highalch":1,"id":1781,"limit":10000,"lowalch":1,"members":true,"name":"Soda ash","price":33,"value":2}

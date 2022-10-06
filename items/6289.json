@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":30,"name":"Snakeskin","examine":"Scaly but not slimy!","id":6289,"value":50,"members":true,"lowalch":20,"name_pt":"Couro de cobra","price":2285,"last":2285}
+{"examine":"Scaly but not slimy!","highalch":30,"id":6289,"limit":10000,"lowalch":20,"members":true,"name":"Snakeskin","price":2285,"value":50}

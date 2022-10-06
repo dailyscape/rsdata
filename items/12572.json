@@ -1,1 +1,1 @@
-{"limit":100,"highalch":2,"name":"Lavender","examine":"A delicate, sweet-smelling flower.","id":12572,"value":4,"members":true,"lowalch":1,"name_pt":"Lavanda","price":676,"last":676}
+{"examine":"A delicate, sweet-smelling flower.","highalch":2,"id":12572,"limit":100,"lowalch":1,"members":true,"name":"Lavender","price":676,"value":4}

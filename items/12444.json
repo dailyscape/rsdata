@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":200,"name":"Bloated Leech scroll (Blood Drain)","examine":"A scroll for a bloated leech familiar.","id":12444,"value":334,"members":true,"lowalch":133,"name_pt":"Pergaminho de Sanguessuga Inchada (Drenagem de Sangue)","price":140,"last":140}
+{"examine":"A scroll for a bloated leech familiar.","highalch":200,"id":12444,"limit":5000,"lowalch":133,"members":true,"name":"Bloated Leech scroll (Blood Drain)","price":140,"value":334}

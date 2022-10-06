@@ -1,1 +1,1 @@
-{"members":true,"name":"Port district teleport","examine":"In case of emergency, break tablet. Teleports you to the Port district within Menaphos.","id":40262,"value":1,"icon":"Port district teleport.png","limit":1000,"name_pt":"Teleporte Distrito dos Portos","price":4512,"last":4512}
+{"examine":"In case of emergency, break tablet. Teleports you to the Port district within Menaphos.","icon":"Port district teleport.png","id":40262,"limit":1000,"members":true,"name":"Port district teleport","price":4512,"value":1}

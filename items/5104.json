@@ -1,1 +1,1 @@
-{"limit":100,"highalch":36,"name":"Jangerberry seed","examine":"A jangerberry bush seed - plant in a bush patch.","id":5104,"value":60,"members":true,"lowalch":24,"name_pt":"Semente de jangoesa","price":272,"last":272}
+{"examine":"A jangerberry bush seed - plant in a bush patch.","highalch":36,"id":5104,"limit":100,"lowalch":24,"members":true,"name":"Jangerberry seed","price":272,"value":60}

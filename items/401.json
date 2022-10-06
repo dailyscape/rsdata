@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":1,"name":"Seaweed","examine":"Slightly damp seaweed.","id":401,"value":2,"members":true,"lowalch":1,"name_pt":"Alga marinha","price":129,"last":129}
+{"examine":"Slightly damp seaweed.","highalch":1,"id":401,"limit":10000,"lowalch":1,"members":true,"name":"Seaweed","price":128,"value":2}

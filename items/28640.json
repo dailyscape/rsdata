@@ -1,1 +1,1 @@
-{"limit":100,"highalch":3,"name":"Bacon","examine":"Pork: the meat of kings.","id":28640,"value":5,"members":true,"lowalch":2,"name_pt":"Bacon","price":3030,"last":3030}
+{"examine":"Pork: the meat of kings.","highalch":3,"id":28640,"limit":100,"lowalch":2,"members":true,"name":"Bacon","price":3030,"value":5}

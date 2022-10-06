@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":66,"name":"Restore potion (4)","examine":"4 doses of restore potion.","id":2430,"value":110,"members":true,"lowalch":44,"name_pt":"Poção restauradora (4)","price":575,"last":575}
+{"examine":"4 doses of restore potion.","highalch":66,"id":2430,"limit":1000,"lowalch":44,"members":true,"name":"Restore potion (4)","price":575,"value":110}

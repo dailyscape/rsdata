@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":480,"name":"Dragon arrow","examine":"An arrow made using a dragon's talon.","id":11212,"value":800,"members":true,"lowalch":320,"name_pt":"Flecha dragônica","price":233,"last":233}
+{"examine":"An arrow made using a dragon's talon.","highalch":480,"id":11212,"limit":10000,"lowalch":320,"members":true,"name":"Dragon arrow","price":233,"value":800}

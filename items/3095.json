@@ -1,1 +1,1 @@
-{"examine":"A right-hand fighting claw. Melee weapon, requires Attack (1).","id":3095,"members":true,"lowalch":67,"limit":100,"value":168,"highalch":100,"icon":"Bronze claws.png","name":"Bronze claws","name_pt":"Garras de bronze","price":2423,"last":2423}
+{"examine":"A right-hand fighting claw. Melee weapon, requires Attack (1).","highalch":100,"icon":"Bronze claws.png","id":3095,"limit":100,"lowalch":67,"members":true,"name":"Bronze claws","price":2423,"value":168}

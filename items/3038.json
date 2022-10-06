@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":30,"name":"Agility potion (1)","examine":"1 dose of agility potion.","id":3038,"value":50,"members":true,"lowalch":20,"name_pt":"Poção da agilidade (1)","price":142,"last":142}
+{"examine":"1 dose of agility potion.","highalch":30,"id":3038,"limit":1000,"lowalch":20,"members":true,"name":"Agility potion (1)","price":146,"value":50}

@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":45,"name":"Leaping sturgeon","examine":"A bloated sturgeon.","id":11332,"value":75,"members":true,"lowalch":30,"name_pt":"Esturjão saltitante","price":388,"last":388}
+{"examine":"A bloated sturgeon.","highalch":45,"id":11332,"limit":5000,"lowalch":30,"members":true,"name":"Leaping sturgeon","price":388,"value":75}

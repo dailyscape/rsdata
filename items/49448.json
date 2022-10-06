@@ -1,1 +1,1 @@
-{"examine":"The bones of long-dead creatures.","id":49448,"members":true,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"Fossilised bone.png","name":"Fossilised bone","name_pt":"Osso fossilizado","price":2007,"last":2007}
+{"examine":"The bones of long-dead creatures.","highalch":150,"icon":"Fossilised bone.png","id":49448,"limit":5000,"lowalch":100,"members":true,"name":"Fossilised bone","price":1948,"value":250}

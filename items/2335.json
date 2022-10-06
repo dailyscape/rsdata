@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":9,"name":"Half an apple pie","examine":"Mmm half an apple pie.","id":2335,"value":15,"members":false,"lowalch":6,"name_pt":"Meia torta de maçã","price":730,"last":730}
+{"examine":"Mmm half an apple pie.","highalch":9,"id":2335,"limit":1000,"lowalch":6,"members":false,"name":"Half an apple pie","price":730,"value":15}

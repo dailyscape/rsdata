@@ -1,1 +1,1 @@
-{"limit":10,"highalch":150000,"name":"Morrigan's coif","examine":"This item degrades in combat, and will turn to dust.","id":13876,"value":250000,"members":true,"lowalch":100000,"name_pt":"Coifa de Morrígan","price":401651,"last":401651}
+{"examine":"This item degrades in combat, and will turn to dust.","highalch":150000,"id":13876,"limit":10,"lowalch":100000,"members":true,"name":"Morrigan's coif","price":401651,"value":250000}

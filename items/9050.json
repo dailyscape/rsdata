@@ -1,1 +1,1 @@
-{"limit":10,"highalch":60,"name":"Pharaoh's sceptre","examine":"This sceptre has no remaining charges.","id":9050,"value":100,"members":true,"lowalch":40,"name_pt":"Cetro do faraó","price":5953442,"last":5953442}
+{"examine":"This sceptre has no remaining charges.","highalch":60,"id":9050,"limit":10,"lowalch":40,"members":true,"name":"Pharaoh's sceptre","price":5953442,"value":100}

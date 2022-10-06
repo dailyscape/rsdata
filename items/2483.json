@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":40,"name":"Lantadyme potion (unf)","examine":"I need another ingredient to finish this lantadyme potion.","id":2483,"value":68,"members":true,"lowalch":27,"name_pt":"Poção de lantadima (inc)","price":6617,"last":6617}
+{"examine":"I need another ingredient to finish this lantadyme potion.","highalch":40,"id":2483,"limit":10000,"lowalch":27,"members":true,"name":"Lantadyme potion (unf)","price":6491,"value":68}

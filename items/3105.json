@@ -1,1 +1,1 @@
-{"limit":100,"highalch":45000,"name":"Rock climbing boots","examine":"Boots made for general climbing; rocks a specialty.","id":3105,"value":75000,"members":false,"lowalch":30000,"name_pt":"Botas para escalar rochas","price":76055,"last":75945}
+{"examine":"Boots made for general climbing; rocks a specialty.","highalch":45000,"id":3105,"limit":100,"lowalch":30000,"members":false,"name":"Rock climbing boots","price":76055,"value":75000}

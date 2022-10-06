@@ -1,1 +1,1 @@
-{"limit":10,"highalch":150000,"name":"Zuriel's hood","examine":"This item degrades in combat, and will turn to dust.","id":13864,"value":250000,"members":true,"lowalch":100000,"name_pt":"Capuz de Zuriel","price":1549258,"last":1549258}
+{"examine":"This item degrades in combat, and will turn to dust.","highalch":150000,"id":13864,"limit":10,"lowalch":100000,"members":true,"name":"Zuriel's hood","price":1549258,"value":250000}

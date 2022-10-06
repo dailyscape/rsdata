@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":1,"name":"Burnt bones","examine":"Bones are for burying.","id":528,"value":1,"members":false,"lowalch":1,"name_pt":"Ossos queimados","price":1320,"last":1320}
+{"examine":"Bones are for burying.","highalch":1,"id":528,"limit":10000,"lowalch":1,"members":false,"name":"Burnt bones","price":1320,"value":1}

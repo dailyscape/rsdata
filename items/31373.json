@@ -1,1 +1,1 @@
-{"limit":100,"highalch":30000,"name":"Dragon ward","examine":"A magical ward made from dragon metal.","id":31373,"value":50000,"members":true,"lowalch":20000,"name_pt":"Escudo dragônico","price":27587,"last":27587}
+{"examine":"A magical ward made from dragon metal.","highalch":30000,"id":31373,"limit":100,"lowalch":20000,"members":true,"name":"Dragon ward","price":27587,"value":50000}

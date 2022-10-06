@@ -1,1 +1,1 @@
-{"limit":10,"highalch":45000,"name":"Polypore stick","examine":"Grow polypore spores on it to imbue it with power.","id":22498,"value":75000,"members":true,"lowalch":30000,"name_pt":"Graveto polipórico","price":42041,"last":42041}
+{"examine":"Grow polypore spores on it to imbue it with power.","highalch":45000,"id":22498,"limit":10,"lowalch":30000,"members":true,"name":"Polypore stick","price":42041,"value":75000}

@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":1,"name":"Edible seaweed","examine":"Slightly damp seaweed.","id":403,"value":2,"members":true,"lowalch":1,"name_pt":"Algas comestíveis","price":1647,"last":1647}
+{"examine":"Slightly damp seaweed.","highalch":1,"id":403,"limit":10000,"lowalch":1,"members":true,"name":"Edible seaweed","price":1647,"value":2}

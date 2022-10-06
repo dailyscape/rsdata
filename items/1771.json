@@ -1,1 +1,1 @@
-{"limit":100,"highalch":3,"name":"Green dye","examine":"A little bottle of green dye.","id":1771,"value":6,"members":false,"lowalch":2,"name_pt":"Corante verde","price":2110,"last":2110}
+{"examine":"A little bottle of green dye.","highalch":3,"id":1771,"limit":100,"lowalch":2,"members":false,"name":"Green dye","price":2110,"value":6}

@@ -1,1 +1,1 @@
-{"limit":10,"highalch":75000,"name":"Corrupt Statius's warhammer","examine":"This item degrades while worn, and will turn to dust.","id":13926,"value":125000,"members":true,"lowalch":50000,"name_pt":"Martelo de guerra de Estácio danif.","price":1032556,"last":1032556}
+{"examine":"This item degrades while worn, and will turn to dust.","highalch":75000,"id":13926,"limit":10,"lowalch":50000,"members":true,"name":"Corrupt Statius's warhammer","price":1032556,"value":125000}

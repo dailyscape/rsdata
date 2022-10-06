@@ -1,1 +1,1 @@
-{"limit":100,"highalch":540,"name":"Mining helmet","examine":"A helmet with an unlit lamp on it.","id":5014,"value":900,"members":true,"lowalch":360,"name_pt":"Capacete de mineração","price":1105,"last":1105}
+{"examine":"A helmet with an unlit lamp on it.","highalch":540,"id":5014,"limit":100,"lowalch":360,"members":true,"name":"Mining helmet","price":1105,"value":900}

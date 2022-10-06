@@ -1,1 +1,1 @@
-{"limit":100,"highalch":38,"name":"Iron spit","examine":"An easily-smithed iron spit.","id":7225,"value":64,"members":true,"lowalch":25,"name_pt":"Espeto de ferro","price":1259,"last":1259}
+{"examine":"An easily-smithed iron spit.","highalch":38,"id":7225,"limit":100,"lowalch":25,"members":true,"name":"Iron spit","price":1259,"value":64}

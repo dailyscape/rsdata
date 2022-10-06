@@ -1,1 +1,1 @@
-{"limit":100,"highalch":180,"name":"Potato cactus seed","examine":"A potato cactus seed - plant in a cactus patch.","id":28258,"value":300,"members":true,"lowalch":120,"name_pt":"Semente de cacto batata","price":1146,"last":1146}
+{"examine":"A potato cactus seed - plant in a cactus patch.","highalch":180,"id":28258,"limit":100,"lowalch":120,"members":true,"name":"Potato cactus seed","price":1146,"value":300}

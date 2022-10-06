@@ -1,1 +1,1 @@
-{"limit":20000,"highalch":12,"name":"Raw trout","examine":"I should try cooking this. Used in Cooking (15).","id":335,"value":20,"members":false,"lowalch":8,"name_pt":"Truta crua","price":469,"last":457}
+{"examine":"I should try cooking this. Used in Cooking (15).","highalch":12,"id":335,"limit":20000,"lowalch":8,"members":false,"name":"Raw trout","price":469,"value":20}

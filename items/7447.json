@@ -1,1 +1,1 @@
-{"limit":100,"highalch":4800,"name":"Kitchen knife","examine":"A sharp, dependable knife, for filleting meat.","id":7447,"value":8000,"members":true,"lowalch":3200,"name_pt":"Faca de cozinha","price":16432,"last":16432}
+{"examine":"A sharp, dependable knife, for filleting meat.","highalch":4800,"id":7447,"limit":100,"lowalch":3200,"members":true,"name":"Kitchen knife","price":16432,"value":8000}

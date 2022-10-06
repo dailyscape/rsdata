@@ -1,1 +1,1 @@
-{"limit":100,"highalch":150,"name":"Grand seed pod","examine":"A seed pod of the Grand Tree.","id":9469,"value":250,"members":true,"lowalch":100,"name_pt":"Cápsula da grande semente","price":70972,"last":70972}
+{"examine":"A seed pod of the Grand Tree.","highalch":150,"id":9469,"limit":100,"lowalch":100,"members":true,"name":"Grand seed pod","price":70972,"value":250}

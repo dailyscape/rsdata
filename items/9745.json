@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":31,"name":"Combat potion (1)","examine":"1 dose of combat potion.","id":9745,"value":52,"members":true,"lowalch":20,"name_pt":"Poção de combate (1)","price":103,"last":103}
+{"examine":"1 dose of combat potion.","highalch":31,"id":9745,"limit":1000,"lowalch":20,"members":true,"name":"Combat potion (1)","price":103,"value":52}

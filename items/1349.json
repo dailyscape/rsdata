@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":75,"name":"Iron hatchet","examine":"A woodcutter's hatchet.","id":1349,"value":126,"members":false,"lowalch":50,"name_pt":"Machado de ferro","price":3607,"last":3607}
+{"examine":"A woodcutter's hatchet.","highalch":75,"id":1349,"limit":1000,"lowalch":50,"members":false,"name":"Iron hatchet","price":3607,"value":126}

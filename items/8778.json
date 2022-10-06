@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":150,"name":"Oak plank","examine":"A plank of sturdy oak. Used in Construction (15).","id":8778,"value":250,"members":true,"lowalch":100,"name_pt":"Tábua de carvalho","price":433,"last":437}
+{"examine":"A plank of sturdy oak. Used in Construction (15).","highalch":150,"id":8778,"limit":10000,"lowalch":100,"members":true,"name":"Oak plank","price":429,"value":250}

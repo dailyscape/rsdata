@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":12,"name":"Chocolate bar","examine":"Mmmmmmm chocolate.","id":1973,"value":20,"members":false,"lowalch":8,"name_pt":"Barra de chocolate","price":487,"last":511}
+{"examine":"Mmmmmmm chocolate.","highalch":12,"id":1973,"limit":10000,"lowalch":8,"members":false,"name":"Chocolate bar","price":487,"value":20}

@@ -1,1 +1,1 @@
-{"limit":100,"highalch":12,"name":"Evil turnip seed","examine":"Grows into the root-vegetable of all evil.","id":12148,"value":20,"members":true,"lowalch":8,"name_pt":"Semente de nabo maligno","price":289,"last":293}
+{"examine":"Grows into the root-vegetable of all evil.","highalch":12,"id":12148,"limit":100,"lowalch":8,"members":true,"name":"Evil turnip seed","price":289,"value":20}

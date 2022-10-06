@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Fish offcuts","examine":"Slices of inedible fish.","id":11334,"value":1,"members":true,"lowalch":1,"name_pt":"Cortes de peixe","price":8,"last":8}
+{"examine":"Slices of inedible fish.","highalch":1,"id":11334,"limit":100,"lowalch":1,"members":true,"name":"Fish offcuts","price":8,"value":1}

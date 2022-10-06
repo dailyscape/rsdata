@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":9,"name":"Cave eel","examine":"It's a bit slimy.","id":5003,"value":15,"members":true,"lowalch":6,"name_pt":"Enguia de gruta","price":249,"last":249}
+{"examine":"It's a bit slimy.","highalch":9,"id":5003,"limit":1000,"lowalch":6,"members":true,"name":"Cave eel","price":249,"value":15}

@@ -1,1 +1,1 @@
-{"limit":200,"highalch":12,"name":"Curry","examine":"It's a spicy hot curry.","id":2011,"value":20,"members":true,"lowalch":8,"name_pt":"Curry","price":524,"last":541}
+{"examine":"It's a spicy hot curry.","highalch":12,"id":2011,"limit":200,"lowalch":8,"members":true,"name":"Curry","price":524,"value":20}

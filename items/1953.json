@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":1,"name":"Pastry dough","examine":"Potentially pastry.","id":1953,"value":1,"members":false,"lowalch":1,"name_pt":"Massa de torta","price":359,"last":359}
+{"examine":"Potentially pastry.","highalch":1,"id":1953,"limit":1000,"lowalch":1,"members":false,"name":"Pastry dough","price":359,"value":1}

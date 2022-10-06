@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":24,"name":"Triangle sandwich","examine":"A freshly made triangle sandwich.","id":6962,"value":40,"members":false,"lowalch":16,"name_pt":"Sanduíche triangular","price":785,"last":785}
+{"examine":"A freshly made triangle sandwich.","highalch":24,"id":6962,"limit":1000,"lowalch":16,"members":false,"name":"Triangle sandwich","price":785,"value":40}

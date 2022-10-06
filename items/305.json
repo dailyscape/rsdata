@@ -1,1 +1,1 @@
-{"limit":100,"highalch":12,"name":"Big fishing net","examine":"Useful for catching lots of fish.","id":305,"value":20,"members":true,"lowalch":8,"name_pt":"Rede de pesca grande","price":1319,"last":1319}
+{"examine":"Useful for catching lots of fish.","highalch":12,"id":305,"limit":100,"lowalch":8,"members":true,"name":"Big fishing net","price":1319,"value":20}

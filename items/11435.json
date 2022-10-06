@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":86,"name":"Antipoison mix (1)","examine":"One dose of fishy antipoison potion.","id":11435,"value":144,"members":true,"lowalch":57,"name_pt":"Mistura antiveneno (1)","price":613,"last":613}
+{"examine":"One dose of fishy antipoison potion.","highalch":86,"id":11435,"limit":1000,"lowalch":57,"members":true,"name":"Antipoison mix (1)","price":613,"value":144}

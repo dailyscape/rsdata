@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":1,"name":"Fishbowl","examine":"An empty fishbowl.","id":6667,"value":1,"members":true,"lowalch":1,"name_pt":"Aquário","price":1657,"last":1657}
+{"examine":"An empty fishbowl.","highalch":1,"id":6667,"limit":10000,"lowalch":1,"members":true,"name":"Fishbowl","price":1657,"value":1}

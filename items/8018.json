@@ -1,1 +1,1 @@
-{"examine":"A tablet containing a magic spell.","id":8018,"members":true,"lowalch":1,"limit":200,"value":1,"highalch":1,"icon":"Enchant ruby.png","name":"Enchant ruby","name_pt":"Encantamento de rubi","price":1494,"last":1494}
+{"examine":"A tablet containing a magic spell.","highalch":1,"icon":"Enchant ruby.png","id":8018,"limit":200,"lowalch":1,"members":true,"name":"Enchant ruby","price":1494,"value":1}

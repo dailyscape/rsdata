@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":16,"name":"Raw mud pie","examine":"Needs to be baked before I can use it.","id":7168,"value":27,"members":true,"lowalch":10,"name_pt":"Torta de lama crua","price":3362,"last":3362}
+{"examine":"Needs to be baked before I can use it.","highalch":16,"id":7168,"limit":1000,"lowalch":10,"members":true,"name":"Raw mud pie","price":3362,"value":27}

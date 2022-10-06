@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":330,"name":"Gold bracelet","examine":"I wonder if this is valuable.","id":11069,"value":550,"members":true,"lowalch":220,"name_pt":"Bracelete de ouro","price":961,"last":961}
+{"examine":"I wonder if this is valuable.","highalch":330,"id":11069,"limit":5000,"lowalch":220,"members":true,"name":"Gold bracelet","price":961,"value":550}

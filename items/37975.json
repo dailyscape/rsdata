@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":60,"name":"Grimy bloodweed","examine":"I need to clean this herb before I can use it.","id":37975,"value":100,"members":true,"lowalch":40,"name_pt":"Erva-de-sangue suja","price":23597,"last":23597}
+{"examine":"I need to clean this herb before I can use it.","highalch":60,"id":37975,"limit":10000,"lowalch":40,"members":true,"name":"Grimy bloodweed","price":23597,"value":100}

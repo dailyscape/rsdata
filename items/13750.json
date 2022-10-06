@@ -1,1 +1,1 @@
-{"limit":1,"highalch":450000,"name":"Elysian sigil","examine":"A sigil marked with elysian signs.","id":13750,"value":750000,"members":true,"lowalch":300000,"name_pt":"Selo elísio","price":27806040,"last":27806040}
+{"examine":"A sigil marked with elysian signs.","highalch":450000,"id":13750,"limit":1,"lowalch":300000,"members":true,"name":"Elysian sigil","price":27806040,"value":750000}

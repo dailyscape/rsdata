@@ -1,1 +1,1 @@
-{"limit":200,"highalch":2,"name":"Incomplete stew (potato)","examine":"I need to add some meat too.","id":1997,"value":4,"members":false,"lowalch":1,"name_pt":"Ensopado incompleto","price":829,"last":829}
+{"examine":"I need to add some meat too.","highalch":2,"id":1997,"limit":200,"lowalch":1,"members":false,"name":"Incomplete stew (potato)","price":829,"value":4}

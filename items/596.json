@@ -1,1 +1,1 @@
-{"limit":100,"highalch":2,"name":"Unlit torch","examine":"An unlit home-made torch.","id":596,"value":4,"members":true,"lowalch":1,"name_pt":"Tocha apagada","price":142,"last":142}
+{"examine":"An unlit home-made torch.","highalch":2,"id":596,"limit":100,"lowalch":1,"members":true,"name":"Unlit torch","price":142,"value":4}

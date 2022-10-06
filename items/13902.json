@@ -1,1 +1,1 @@
-{"limit":10,"highalch":180000,"name":"Statius's warhammer","examine":"This item degrades in combat, and will turn to dust.","id":13902,"value":300000,"members":true,"lowalch":120000,"name_pt":"Martelo de guerra de Estácio","price":182693481,"last":182693481}
+{"examine":"This item degrades in combat, and will turn to dust.","highalch":180000,"id":13902,"limit":10,"lowalch":120000,"members":true,"name":"Statius's warhammer","price":173815041,"value":300000}

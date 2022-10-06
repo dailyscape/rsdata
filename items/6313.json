@@ -1,1 +1,1 @@
-{"limit":100,"highalch":300,"name":"Opal machete","examine":"A jungle specific slashing device.","id":6313,"value":500,"members":true,"lowalch":200,"name_pt":"Facão de opala","price":1007,"last":1007}
+{"examine":"A jungle specific slashing device.","highalch":300,"id":6313,"limit":100,"lowalch":200,"members":true,"name":"Opal machete","price":1007,"value":500}

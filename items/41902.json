@@ -1,1 +1,1 @@
-{"examine":"It's really heavy!","id":41902,"members":true,"lowalch":4000,"limit":2,"value":10000,"highalch":6000,"icon":"Heavy chest.png","name":"Heavy chest","name_pt":"Cofre pesado","price":1280825,"last":1280825}
+{"examine":"It's really heavy!","highalch":6000,"icon":"Heavy chest.png","id":41902,"limit":2,"lowalch":4000,"members":true,"name":"Heavy chest","price":1280825,"value":10000}

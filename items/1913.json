@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Dwarven stout","examine":"A pint of thick dark beer.","id":1913,"value":2,"members":false,"lowalch":1,"name_pt":"Groselha dos anões","price":387,"last":377}
+{"examine":"A pint of thick dark beer.","highalch":1,"id":1913,"limit":100,"lowalch":1,"members":false,"name":"Dwarven stout","price":387,"value":2}

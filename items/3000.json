@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":35,"name":"Clean snapdragon","examine":"A fresh herb.","id":3000,"value":59,"members":true,"lowalch":23,"name_pt":"Dragoerva limpa","price":1432,"last":1432}
+{"examine":"A fresh herb.","highalch":35,"id":3000,"limit":10000,"lowalch":23,"members":true,"name":"Clean snapdragon","price":1432,"value":59}

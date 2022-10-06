@@ -1,1 +1,1 @@
-{"limit":100,"highalch":1,"name":"Chef's delight (m2)","examine":"This keg contains 2 pints of mature Chef's Delight.","id":5909,"value":1,"members":true,"lowalch":1,"name_pt":"Barril delícia do chefe (m2)","price":36969,"last":36969}
+{"examine":"This keg contains 2 pints of mature Chef's Delight.","highalch":1,"id":5909,"limit":100,"lowalch":1,"members":true,"name":"Chef's delight (m2)","price":36969,"value":1}

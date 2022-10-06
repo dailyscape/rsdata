@@ -1,1 +1,1 @@
-{"limit":25000,"highalch":10,"name":"Copper ore","examine":"Can be combined with tin ore to make a Bronze bar. Used in Smithing (1).","id":436,"value":17,"members":false,"lowalch":6,"name_pt":"Minério de cobre","price":194,"last":194}
+{"examine":"Can be combined with tin ore to make a Bronze bar. Used in Smithing (1).","highalch":10,"id":436,"limit":25000,"lowalch":6,"members":false,"name":"Copper ore","price":190,"value":17}

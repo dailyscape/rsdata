@@ -1,1 +1,1 @@
-{"limit":100,"highalch":195,"name":"Keg of beer","examine":"Beer in a barrel - a specialty of the Fremennik Province.","id":3801,"value":325,"members":true,"lowalch":130,"name_pt":"Barril de garapa","price":4065,"last":4065}
+{"examine":"Beer in a barrel - a specialty of the Fremennik Province.","highalch":195,"id":3801,"limit":100,"lowalch":130,"members":true,"name":"Keg of beer","price":4065,"value":325}

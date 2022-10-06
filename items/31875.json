@@ -1,1 +1,1 @@
-{"limit":100,"highalch":180000,"name":"Amulet of souls","examine":"With this amulet equipped, Soul Split has a chance to heal 25-50% more.","id":31875,"value":300000,"members":true,"lowalch":120000,"name_pt":"Amuleto das almas","price":66340604,"last":66340604}
+{"examine":"With this amulet equipped, Soul Split has a chance to heal 25-50% more.","highalch":180000,"id":31875,"limit":100,"lowalch":120000,"members":true,"name":"Amulet of souls","price":66340604,"value":300000}

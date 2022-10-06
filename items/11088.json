@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":1536,"name":"Inoculation brace","examine":"It eases poison!","id":11088,"value":2560,"members":true,"lowalch":1024,"name_pt":"Bracelete de inoculação","price":2566,"last":2566}
+{"examine":"It eases poison!","highalch":1536,"id":11088,"limit":5000,"lowalch":1024,"members":true,"name":"Inoculation brace","price":2566,"value":2560}

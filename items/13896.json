@@ -1,1 +1,1 @@
-{"limit":10,"highalch":150000,"name":"Statius's full helm","examine":"This item degrades in combat, and will turn to dust.","id":13896,"value":250000,"members":true,"lowalch":100000,"name_pt":"Elmo completo de Estácio","price":668591,"last":668591}
+{"examine":"This item degrades in combat, and will turn to dust.","highalch":150000,"id":13896,"limit":10,"lowalch":100000,"members":true,"name":"Statius's full helm","price":668591,"value":250000}

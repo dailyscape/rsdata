@@ -1,1 +1,1 @@
-{"limit":1000,"highalch":57,"name":"Weapon poison (2)","examine":"A vial of weapon poison.","id":25489,"value":96,"members":true,"lowalch":38,"name_pt":"Veneno de arma (2)","price":824,"last":824}
+{"examine":"A vial of weapon poison.","highalch":57,"id":25489,"limit":1000,"lowalch":38,"members":true,"name":"Weapon poison (2)","price":824,"value":96}

@@ -1,1 +1,1 @@
-{"examine":"Destroys a gizmo installed in a piece of augmented equipment.","id":36726,"members":false,"lowalch":200,"limit":200,"value":500,"highalch":300,"icon":"Gizmo dissolver.png","name":"Gizmo dissolver","name_pt":"Dissolvente de aparatos","price":46904,"last":46657}
+{"examine":"Destroys a gizmo installed in a piece of augmented equipment.","highalch":300,"icon":"Gizmo dissolver.png","id":36726,"limit":200,"lowalch":200,"members":false,"name":"Gizmo dissolver","price":46904,"value":500}
