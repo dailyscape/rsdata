@@ -1,1 +1,1 @@
-{"examine":"3 doses of energy potion.","highalch":66,"icon":"Energy potion (3).png","id":3010,"limit":1000,"lowalch":44,"members":false,"name":"Energy potion (3)","price":564,"value":110}
+{"examine":"3 doses of energy potion.","id":3010,"members":false,"lowalch":44,"limit":1000,"value":110,"highalch":66,"icon":"Energy potion (3).png","name":"Energy potion (3)","price":564}

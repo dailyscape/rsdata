@@ -1,1 +1,1 @@
-{"examine":"Combine 120 shards of this type to receive a Torva platelegs.","icon":"Torva platelegs shard.png","id":30092,"limit":240,"members":true,"name":"Torva platelegs shard","price":130005,"value":1}
+{"members":true,"name":"Torva platelegs shard","examine":"Combine 120 shards of this type to receive a Torva platelegs.","id":30092,"value":1,"icon":"Torva platelegs shard.png","limit":240,"price":130005}

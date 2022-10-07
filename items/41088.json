@@ -1,1 +1,1 @@
-{"examine":"Used to repair items which are in a degraded or broken state.","icon":"Whetstone (device).png","id":41088,"limit":10,"members":true,"name":"Whetstone (device)","price":18264,"value":2000}
+{"members":true,"name":"Whetstone (device)","examine":"Used to repair items which are in a degraded or broken state.","id":41088,"value":2000,"icon":"Whetstone (device).png","limit":10,"price":18264}

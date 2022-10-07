@@ -1,1 +1,1 @@
-{"examine":"6 doses of divination potion in a flask.","highalch":12,"icon":"Divination flask (6).png","id":43442,"limit":1000,"lowalch":8,"members":true,"name":"Divination flask (6)","price":8125,"value":21}
+{"examine":"6 doses of divination potion in a flask.","id":43442,"members":true,"lowalch":8,"limit":1000,"value":21,"highalch":12,"icon":"Divination flask (6).png","name":"Divination flask (6)","price":8125}

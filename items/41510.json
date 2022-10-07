@@ -1,1 +1,1 @@
-{"examine":"Activate this to unlock the Present sack override.","icon":"Present sack token.png","id":41510,"limit":2,"members":false,"name":"Present sack token","price":7250,"value":1}
+{"members":false,"name":"Present sack token","examine":"Activate this to unlock the Present sack override.","id":41510,"value":1,"icon":"Present sack token.png","limit":2,"price":7250}

@@ -1,1 +1,1 @@
-{"examine":"In case of emergency, break tablet. Teleports you to the Imperial district within Menaphos.","icon":"Imperial district teleport.png","id":40260,"limit":1000,"members":true,"name":"Imperial district teleport","price":3826,"value":1}
+{"members":true,"name":"Imperial district teleport","examine":"In case of emergency, break tablet. Teleports you to the Imperial district within Menaphos.","id":40260,"value":1,"icon":"Imperial district teleport.png","limit":1000,"price":3826}

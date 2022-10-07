@@ -1,1 +1,1 @@
-{"examine":"A spider for your player owned farm. Check it to see what traits it has.","icon":"Ice spider egg (unchecked).png","id":43663,"limit":100,"members":true,"name":"Ice spider egg (unchecked)","price":153205,"value":1}
+{"members":true,"name":"Ice spider egg (unchecked)","examine":"A spider for your player owned farm. Check it to see what traits it has.","id":43663,"value":1,"icon":"Ice spider egg (unchecked).png","limit":100,"price":153205}

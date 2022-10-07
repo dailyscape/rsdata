@@ -1,1 +1,1 @@
-{"examine":"A token used to unlock the Witch&#x27;s potion herblore tool override.","icon":"Witch's potion token.png","id":53885,"limit":2,"members":false,"name":"Witch's potion token","price":10000000,"value":1}
+{"members":false,"name":"Witch's potion token","examine":"A token used to unlock the Witch&#x27;s potion herblore tool override.","id":53885,"value":1,"icon":"Witch's potion token.png","limit":2,"price":10000000}

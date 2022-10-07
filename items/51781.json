@@ -1,1 +1,1 @@
-{"examine":"Combine 120 shards of this type to receive a Fractured stabilisation gem.","highalch":1,"icon":"Fractured stabilisation gem shard.png","id":51781,"limit":1200,"lowalch":1,"members":true,"name":"Fractured stabilisation gem shard","price":3459,"value":1}
+{"examine":"Combine 120 shards of this type to receive a Fractured stabilisation gem.","id":51781,"members":true,"lowalch":1,"limit":1200,"value":1,"highalch":1,"icon":"Fractured stabilisation gem shard.png","name":"Fractured stabilisation gem shard","price":3459}

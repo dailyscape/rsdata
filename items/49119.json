@@ -1,1 +1,1 @@
-{"examine":"A vial of extremely potent weapon poison.","highalch":172,"icon":"Weapon poison+++ (2).png","id":49119,"limit":1000,"lowalch":115,"members":true,"name":"Weapon poison+++ (2)","price":18233,"value":288}
+{"examine":"A vial of extremely potent weapon poison.","id":49119,"members":true,"lowalch":115,"limit":1000,"value":288,"highalch":172,"icon":"Weapon poison+++ (2).png","name":"Weapon poison+++ (2)","price":18233}

@@ -1,1 +1,1 @@
-{"examine":"A special device that captures item experience and stores it for later use. Fully charged.","icon":"XP Capacitor 5000 (charged).png","id":49979,"limit":5,"members":true,"name":"XP Capacitor 5000 (charged)","price":3396043,"value":15000}
+{"members":true,"name":"XP Capacitor 5000 (charged)","examine":"A special device that captures item experience and stores it for later use. Fully charged.","id":49979,"value":15000,"icon":"XP Capacitor 5000 (charged).png","limit":5,"price":3396043}

@@ -1,1 +1,1 @@
-{"examine":"Combine 120 shards of this type to receive a Virtus wand.","icon":"Virtus wand shard.png","id":30073,"limit":600,"members":true,"name":"Virtus wand shard","price":12512,"value":1}
+{"members":true,"name":"Virtus wand shard","examine":"Combine 120 shards of this type to receive a Virtus wand.","id":30073,"value":1,"icon":"Virtus wand shard.png","limit":600,"price":12512}

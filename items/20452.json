@@ -1,1 +1,1 @@
-{"examine":"Boots made in the Elemental Workshop.","highalch":1800,"icon":"Body boots.png","id":20452,"limit":10,"lowalch":1200,"members":true,"name":"Body boots","price":56480,"value":3000}
+{"examine":"Boots made in the Elemental Workshop.","id":20452,"members":true,"lowalch":1200,"limit":10,"value":3000,"highalch":1800,"icon":"Body boots.png","name":"Body boots","price":56480}

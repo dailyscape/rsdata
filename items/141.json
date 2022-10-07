@@ -1,1 +1,1 @@
-{"examine":"2 doses of prayer restore potion.","highalch":68,"icon":"Prayer potion (2).png","id":141,"limit":1000,"lowalch":45,"members":false,"name":"Prayer potion (2)","price":4551,"value":114}
+{"examine":"2 doses of prayer restore potion.","id":141,"members":false,"lowalch":45,"limit":1000,"value":114,"highalch":68,"icon":"Prayer potion (2).png","name":"Prayer potion (2)","price":4551}

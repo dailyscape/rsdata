@@ -1,1 +1,1 @@
-{"examine":"Salvageable fragments of smithed slashing weaponry.","highalch":60,"icon":"Medium bladed bronze salvage.png","id":47080,"limit":25000,"lowalch":40,"members":false,"name":"Medium bladed bronze salvage","price":514,"value":100}
+{"examine":"Salvageable fragments of smithed slashing weaponry.","id":47080,"members":false,"lowalch":40,"limit":25000,"value":100,"highalch":60,"icon":"Medium bladed bronze salvage.png","name":"Medium bladed bronze salvage","price":514}

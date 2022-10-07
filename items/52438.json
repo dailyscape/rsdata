@@ -1,1 +1,1 @@
-{"examine":"2 doses of mining potion.","highalch":90,"icon":"Mining potion (2).png","id":52438,"limit":1000,"lowalch":60,"members":true,"name":"Mining potion (2)","price":157,"value":150}
+{"examine":"2 doses of mining potion.","id":52438,"members":true,"lowalch":60,"limit":1000,"value":150,"highalch":90,"icon":"Mining potion (2).png","name":"Mining potion (2)","price":157}

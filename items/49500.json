@@ -1,1 +1,1 @@
-{"examine":"The skin of a demon turned into leather.","highalch":150,"icon":"Demonhide.png","id":49500,"limit":5000,"lowalch":100,"members":true,"name":"Demonhide","price":2193,"value":250}
+{"examine":"The skin of a demon turned into leather.","id":49500,"members":true,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"Demonhide.png","name":"Demonhide","price":2193}

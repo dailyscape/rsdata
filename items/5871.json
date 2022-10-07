@@ -1,1 +1,1 @@
-{"examine":"This keg contains 3 pints of mature Greenman's Ale.","highalch":1,"id":5871,"limit":100,"lowalch":1,"members":true,"name":"Greenman's ale (m3)","price":1706,"value":1}
+{"limit":100,"highalch":1,"name":"Greenman's ale (m3)","examine":"This keg contains 3 pints of mature Greenman's Ale.","id":5871,"value":1,"members":true,"lowalch":1,"price":1706}

@@ -1,1 +1,1 @@
-{"examine":"3 doses of harvest potion.","highalch":120,"icon":"Harvest potion (3).png","id":48970,"limit":1000,"lowalch":80,"members":true,"name":"Harvest potion (3)","price":2289,"value":200}
+{"examine":"3 doses of harvest potion.","id":48970,"members":true,"lowalch":80,"limit":1000,"value":200,"highalch":120,"icon":"Harvest potion (3).png","name":"Harvest potion (3)","price":2289}

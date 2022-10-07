@@ -1,1 +1,1 @@
-{"examine":"A yak for your player owned farm. Check it to see what traits it has.","icon":"Fremennik yak.png","id":43705,"limit":100,"members":true,"name":"Fremennik yak (unchecked)","price":290272,"value":1}
+{"members":true,"name":"Fremennik yak (unchecked)","examine":"A yak for your player owned farm. Check it to see what traits it has.","id":43705,"value":1,"icon":"Fremennik yak.png","limit":100,"price":290272}

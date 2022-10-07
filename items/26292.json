@@ -1,1 +1,1 @@
-{"examine":"Successful mining swings have a chance of finding diamond, dragonstone or onyx gems. Higher-level rocks provide better chances. Lasts 3 hours.","id":26292,"limit":5,"members":true,"name":"Gem-finding scrimshaw","price":411056,"value":100000}
+{"name":"Gem-finding scrimshaw","examine":"Successful mining swings have a chance of finding diamond, dragonstone or onyx gems. Higher-level rocks provide better chances. Lasts 3 hours.","id":26292,"value":100000,"members":true,"limit":5,"price":411056}

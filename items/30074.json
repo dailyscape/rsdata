@@ -1,1 +1,1 @@
-{"examine":"Combine 120 shards of this type to receive a Virtus book.","icon":"Virtus book shard.png","id":30074,"limit":600,"members":true,"name":"Virtus book shard","price":44639,"value":1}
+{"members":true,"name":"Virtus book shard","examine":"Combine 120 shards of this type to receive a Virtus book.","id":30074,"value":1,"icon":"Virtus book shard.png","limit":600,"price":44639}

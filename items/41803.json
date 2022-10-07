@@ -1,1 +1,1 @@
-{"examine":"A one-use scroll containing a teleport spell.","highalch":1,"icon":"Clocktower Teleport.png","id":41803,"limit":300,"lowalch":1,"members":true,"name":"Clocktower Teleport","price":2011,"value":2}
+{"examine":"A one-use scroll containing a teleport spell.","id":41803,"members":true,"lowalch":1,"limit":300,"value":2,"highalch":1,"icon":"Clocktower Teleport.png","name":"Clocktower Teleport","price":2011}

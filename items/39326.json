@@ -1,1 +1,1 @@
-{"examine":"I wonder if this is valuable.","highalch":60,"icon":"Opal necklace.png","id":39326,"limit":5000,"lowalch":40,"members":true,"name":"Opal necklace","price":1390,"value":100}
+{"examine":"I wonder if this is valuable.","id":39326,"members":true,"lowalch":40,"limit":5000,"value":100,"highalch":60,"icon":"Opal necklace.png","name":"Opal necklace","price":1390}

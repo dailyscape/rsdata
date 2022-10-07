@@ -6028,6 +6028,7 @@ var rssearchdata =
 "52028":"Enhanced gloves of passage",
 "52032":"Enhanced nightmare gauntlets",
 "52036":"Enhanced Kerapac's wrist wraps",
+"52038":"Enhanced kerapac's wristwraps shard",
 "52041":"Dark ice shard",
 "52045":"Dark ice sliver",
 "52053":"Dark Shard of Leng",

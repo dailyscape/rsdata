@@ -1,1 +1,1 @@
-{"examine":"A frog for your player owned farm. Check it to see what traits it has.","icon":"Golden poison frog (unchecked).png","id":48782,"limit":100,"members":true,"name":"Golden poison frog (unchecked)","price":255648,"value":1}
+{"members":true,"name":"Golden poison frog (unchecked)","examine":"A frog for your player owned farm. Check it to see what traits it has.","id":48782,"value":1,"icon":"Golden poison frog (unchecked).png","limit":100,"price":255648}

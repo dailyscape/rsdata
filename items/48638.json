@@ -1,1 +1,1 @@
-{"examine":"6 doses of Harvest potion in a flask.","highalch":210,"icon":"Harvest flask (6).png","id":48638,"limit":1000,"lowalch":140,"members":true,"name":"Harvest flask (6)","price":8663,"value":350}
+{"examine":"6 doses of Harvest potion in a flask.","id":48638,"members":true,"lowalch":140,"limit":1000,"value":350,"highalch":210,"icon":"Harvest flask (6).png","name":"Harvest flask (6)","price":8663}

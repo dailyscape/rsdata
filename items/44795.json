@@ -1,1 +1,1 @@
-{"examine":"A box for holding level 80 resources (banite) and below.","highalch":100,"icon":"Bane ore box.png","id":44795,"limit":100,"lowalch":67,"members":true,"name":"Bane ore box","price":138155,"value":168}
+{"examine":"A box for holding level 80 resources (banite) and below.","id":44795,"members":true,"lowalch":67,"limit":100,"value":168,"highalch":100,"icon":"Bane ore box.png","name":"Bane ore box","price":138155}

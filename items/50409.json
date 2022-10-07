@@ -1,1 +1,1 @@
-{"examine":"Unlocks Bucky, the companion pet.","icon":"Bucky companion pet token.png","id":50409,"limit":2,"members":false,"name":"Bucky companion pet token","price":282612,"value":1}
+{"members":false,"name":"Bucky companion pet token","examine":"Unlocks Bucky, the companion pet.","id":50409,"value":1,"icon":"Bucky companion pet token.png","limit":2,"price":282612}

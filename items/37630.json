@@ -1,1 +1,1 @@
-{"examine":"Unlocks the Reprisal ability. Requires 85 Constitution.","highalch":750000,"icon":"Reprisal ability codex.png","id":37630,"limit":2,"lowalch":500000,"members":true,"name":"Reprisal ability codex","price":42309631,"value":1250000}
+{"examine":"Unlocks the Reprisal ability. Requires 85 Constitution.","id":37630,"members":true,"lowalch":500000,"limit":2,"value":1250000,"highalch":750000,"icon":"Reprisal ability codex.png","name":"Reprisal ability codex","price":42309631}

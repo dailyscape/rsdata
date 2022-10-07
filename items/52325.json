@@ -1,1 +1,1 @@
-{"examine":"Round spores of fungus.","highalch":1,"icon":"Fungal spore.png","id":52325,"limit":10000,"lowalch":1,"members":true,"name":"Fungal spore","price":660,"value":1}
+{"examine":"Round spores of fungus.","id":52325,"members":true,"lowalch":1,"limit":10000,"value":1,"highalch":1,"icon":"Fungal spore.png","name":"Fungal spore","price":660}

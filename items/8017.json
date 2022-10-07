@@ -1,1 +1,1 @@
-{"examine":"A tablet containing a magic spell.","highalch":1,"icon":"Enchant emerald.png","id":8017,"limit":200,"lowalch":1,"members":true,"name":"Enchant emerald","price":1414,"value":1}
+{"examine":"A tablet containing a magic spell.","id":8017,"members":true,"lowalch":1,"limit":200,"value":1,"highalch":1,"icon":"Enchant emerald.png","name":"Enchant emerald","price":1414}

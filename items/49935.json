@@ -1,1 +1,1 @@
-{"examine":"Teleports you to archaeological dig sites and collectors.","highalch":300,"icon":"Archaeology teleport.png","id":49935,"limit":2000,"lowalch":200,"members":false,"name":"Archaeology teleport","price":60329,"value":500}
+{"examine":"Teleports you to archaeological dig sites and collectors.","id":49935,"members":false,"lowalch":200,"limit":2000,"value":500,"highalch":300,"icon":"Archaeology teleport.png","name":"Archaeology teleport","price":60329}

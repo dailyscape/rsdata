@@ -1,1 +1,1 @@
-{"examine":"This keg contains 2 pints of Greenman's Ale.","highalch":1,"id":5789,"limit":100,"lowalch":1,"members":true,"name":"Greenman's ale (2)","price":4136,"value":1}
+{"limit":100,"highalch":1,"name":"Greenman's ale (2)","examine":"This keg contains 2 pints of Greenman's Ale.","id":5789,"value":1,"members":true,"lowalch":1,"price":4136}

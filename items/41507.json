@@ -1,1 +1,1 @@
-{"examine":"Activate this to unlock the Wreath shield override.","icon":"Wreath shield token.png","id":41507,"limit":2,"members":false,"name":"Wreath shield token","price":3428,"value":1}
+{"members":false,"name":"Wreath shield token","examine":"Activate this to unlock the Wreath shield override.","id":41507,"value":1,"icon":"Wreath shield token.png","limit":2,"price":3428}

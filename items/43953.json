@@ -1,1 +1,1 @@
-{"examine":"Makes your animal sweeter and more attractive to others.","highalch":3,"icon":"Sweet honeycomb.png","id":43953,"limit":5000,"lowalch":2,"members":true,"name":"Sweet honeycomb","price":981,"value":5}
+{"examine":"Makes your animal sweeter and more attractive to others.","id":43953,"members":true,"lowalch":2,"limit":5000,"value":5,"highalch":3,"icon":"Sweet honeycomb.png","name":"Sweet honeycomb","price":981}

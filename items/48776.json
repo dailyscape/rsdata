@@ -1,1 +1,1 @@
-{"examine":"A frog for your player owned farm. Check it to see what traits it has.","icon":"Common green frog (unchecked).png","id":48776,"limit":100,"members":true,"name":"Common green frog (unchecked)","price":14896,"value":1}
+{"members":true,"name":"Common green frog (unchecked)","examine":"A frog for your player owned farm. Check it to see what traits it has.","id":48776,"value":1,"icon":"Common green frog (unchecked).png","limit":100,"price":14896}

@@ -1,1 +1,1 @@
-{"examine":"4 doses of extreme magic potion.","highalch":165,"icon":"Extreme magic (4).png","id":15320,"limit":1000,"lowalch":110,"members":true,"name":"Extreme magic (4)","price":4501,"value":275}
+{"examine":"4 doses of extreme magic potion.","id":15320,"members":true,"lowalch":110,"limit":1000,"value":275,"highalch":165,"icon":"Extreme magic (4).png","name":"Extreme magic (4)","price":4501}

@@ -1,1 +1,1 @@
-{"examine":"These may be sewn onto mycelium webs.","highalch":2,"icon":"Fungal flake.png","id":22449,"limit":12000,"lowalch":1,"members":true,"name":"Fungal flake","price":15,"value":4}
+{"examine":"These may be sewn onto mycelium webs.","id":22449,"members":true,"lowalch":1,"limit":12000,"value":4,"highalch":2,"icon":"Fungal flake.png","name":"Fungal flake","price":15}

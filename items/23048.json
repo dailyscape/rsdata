@@ -1,1 +1,1 @@
-{"examine":"A cape that enhances melee combat.","highalch":150,"icon":"Bladestorm drape.png","id":23048,"limit":10,"lowalch":100,"members":false,"name":"Bladestorm drape","price":1500,"value":250}
+{"examine":"A cape that enhances melee combat.","id":23048,"members":false,"lowalch":100,"limit":10,"value":250,"highalch":150,"icon":"Bladestorm drape.png","name":"Bladestorm drape","price":1500}

@@ -1,1 +1,1 @@
-{"examine":"The fabled dragon metal, but still only scraps of it.","highalch":150,"icon":"Dragon metal.png","id":50690,"limit":5000,"lowalch":100,"members":true,"name":"Dragon metal","price":5062,"value":250}
+{"examine":"The fabled dragon metal, but still only scraps of it.","id":50690,"members":true,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"Dragon metal.png","name":"Dragon metal","price":5062}

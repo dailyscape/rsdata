@@ -1,1 +1,1 @@
-{"examine":"A very early natural material.","highalch":150,"icon":"Felt.png","id":50692,"limit":5000,"lowalch":100,"members":true,"name":"Felt","price":2037,"value":250}
+{"examine":"A very early natural material.","id":50692,"members":true,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"Felt.png","name":"Felt","price":2037}

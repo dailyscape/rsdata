@@ -1,1 +1,1 @@
-{"examine":"This needs a fire rune to become active.","highalch":30,"icon":"Cracked smelting urn (nr).png","id":20272,"limit":400,"lowalch":20,"members":false,"name":"Cracked smelting urn (nr)","price":1831,"value":50}
+{"examine":"This needs a fire rune to become active.","id":20272,"members":false,"lowalch":20,"limit":400,"value":50,"highalch":30,"icon":"Cracked smelting urn (nr).png","name":"Cracked smelting urn (nr)","price":1831}

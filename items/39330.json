@@ -1,1 +1,1 @@
-{"examine":"It needs a string so I can wear it.","highalch":60,"icon":"Opal amulet (unstrung).png","id":39330,"limit":5000,"lowalch":40,"members":true,"name":"Opal amulet (unstrung)","price":841,"value":100}
+{"examine":"It needs a string so I can wear it.","id":39330,"members":true,"lowalch":40,"limit":5000,"value":100,"highalch":60,"icon":"Opal amulet (unstrung).png","name":"Opal amulet (unstrung)","price":841}

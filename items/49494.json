@@ -1,1 +1,1 @@
-{"examine":"A resource natural to the region around Everlight.","highalch":150,"icon":"White marble.png","id":49494,"limit":5000,"lowalch":100,"members":true,"name":"White marble","price":3356,"value":250}
+{"examine":"A resource natural to the region around Everlight.","id":49494,"members":true,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"White marble.png","name":"White marble","price":3356}

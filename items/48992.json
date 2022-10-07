@@ -1,1 +1,1 @@
-{"examine":"4 doses of cooking potion.","highalch":129,"icon":"Cooking potion (4).png","id":48992,"limit":1000,"lowalch":86,"members":true,"name":"Cooking potion (4)","price":1468,"value":215}
+{"examine":"4 doses of cooking potion.","id":48992,"members":true,"lowalch":86,"limit":1000,"value":215,"highalch":129,"icon":"Cooking potion (4).png","name":"Cooking potion (4)","price":1468}

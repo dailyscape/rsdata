@@ -1,1 +1,1 @@
-{"examine":"Activate this to unlock the Snowman pet.","icon":"Snowman pet token.png","id":41514,"limit":2,"members":false,"name":"Snowman pet token","price":44515,"value":1}
+{"members":false,"name":"Snowman pet token","examine":"Activate this to unlock the Snowman pet.","id":41514,"value":1,"icon":"Snowman pet token.png","limit":2,"price":44515}

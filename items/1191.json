@@ -1,1 +1,1 @@
-{"examine":"A large metal shield.","highalch":150,"icon":"Iron kiteshield.png","id":1191,"limit":100,"lowalch":100,"members":false,"name":"Iron kiteshield","price":5118,"value":251}
+{"examine":"A large metal shield.","id":1191,"members":false,"lowalch":100,"limit":100,"value":251,"highalch":150,"icon":"Iron kiteshield.png","name":"Iron kiteshield","price":5118}

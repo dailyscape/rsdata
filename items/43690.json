@@ -1,1 +1,1 @@
-{"examine":"A cow for your player owned farm. Check it to see what traits it has.","icon":"Kandarin cow (unchecked).png","id":43690,"limit":100,"members":true,"name":"Kandarin cow (unchecked)","price":13385,"value":1}
+{"members":true,"name":"Kandarin cow (unchecked)","examine":"A cow for your player owned farm. Check it to see what traits it has.","id":43690,"value":1,"icon":"Kandarin cow (unchecked).png","limit":100,"price":13385}

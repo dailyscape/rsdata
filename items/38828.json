@@ -1,1 +1,1 @@
-{"examine":"15% chance to double the energy received when gathering memories. Lasts 3 hours.","id":38828,"limit":5,"members":true,"name":"Energy-gathering scrimshaw","price":437900,"value":100000}
+{"name":"Energy-gathering scrimshaw","examine":"15% chance to double the energy received when gathering memories. Lasts 3 hours.","id":38828,"value":100000,"members":true,"limit":5,"price":437900}

@@ -1,1 +1,1 @@
-{"examine":"Can be used to upgrade Fremennik equipment.","icon":"Fremennik equipment patch.png","id":47658,"limit":10,"members":true,"name":"Fremennik equipment patch","price":5061,"value":10000}
+{"members":true,"name":"Fremennik equipment patch","examine":"Can be used to upgrade Fremennik equipment.","id":47658,"value":10000,"icon":"Fremennik equipment patch.png","limit":10,"price":5061}

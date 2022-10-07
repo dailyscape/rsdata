@@ -1,1 +1,1 @@
-{"examine":"A small shard of crystal, often used by the elves to attune darker magics and prayers.","highalch":180000,"icon":"Ancient elven ritual shard.png","id":43358,"limit":10,"lowalch":120000,"members":true,"name":"Ancient elven ritual shard","price":6725074,"value":300000}
+{"examine":"A small shard of crystal, often used by the elves to attune darker magics and prayers.","id":43358,"members":true,"lowalch":120000,"limit":10,"value":300000,"highalch":180000,"icon":"Ancient elven ritual shard.png","name":"Ancient elven ritual shard","price":6725074}

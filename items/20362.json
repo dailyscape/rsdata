@@ -1,1 +1,1 @@
-{"examine":"This needs a fire rune to become active.","highalch":132,"icon":"Plain cooking urn (nr).png","id":20362,"limit":400,"lowalch":88,"members":false,"name":"Plain cooking urn (nr)","price":1046,"value":220}
+{"examine":"This needs a fire rune to become active.","id":20362,"members":false,"lowalch":88,"limit":400,"value":220,"highalch":132,"icon":"Plain cooking urn (nr).png","name":"Plain cooking urn (nr)","price":1046}

@@ -1,1 +1,1 @@
-{"examine":"A patch for the left eye.","highalch":60,"icon":"Left eyepatch.png","id":13355,"limit":10,"lowalch":40,"members":true,"name":"Left eyepatch","price":1753,"value":100}
+{"examine":"A patch for the left eye.","id":13355,"members":true,"lowalch":40,"limit":10,"value":100,"highalch":60,"icon":"Left eyepatch.png","name":"Left eyepatch","price":1753}

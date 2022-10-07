@@ -1,1 +1,1 @@
-{"examine":"A dense steel bar required to make a steel titan pouch.","highalch":500,"icon":"Steel ingot.png","id":47074,"limit":1000,"lowalch":333,"members":false,"name":"Steel ingot","price":6319,"value":834}
+{"examine":"A dense steel bar required to make a steel titan pouch.","id":47074,"members":false,"lowalch":333,"limit":1000,"value":834,"highalch":500,"icon":"Steel ingot.png","name":"Steel ingot","price":6319}

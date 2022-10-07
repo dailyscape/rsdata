@@ -1,1 +1,1 @@
-{"examine":"Steel imbued with lightning and air.","highalch":150,"icon":"Stormguard steel.png","id":49472,"limit":5000,"lowalch":100,"members":true,"name":"Stormguard steel","price":3978,"value":250}
+{"examine":"Steel imbued with lightning and air.","id":49472,"members":true,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"Stormguard steel.png","name":"Stormguard steel","price":3978}

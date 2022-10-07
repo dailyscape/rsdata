@@ -1,1 +1,1 @@
-{"examine":"Wearing this necklace provides a chance of not being stunned and damaged when pickpocketing.","highalch":60,"icon":"Featherfingered necklace (new).png","id":39358,"limit":5000,"lowalch":40,"members":true,"name":"Featherfingered necklace (new)","price":2020,"value":100}
+{"examine":"Wearing this necklace provides a chance of not being stunned and damaged when pickpocketing.","id":39358,"members":true,"lowalch":40,"limit":5000,"value":100,"highalch":60,"icon":"Featherfingered necklace (new).png","name":"Featherfingered necklace (new)","price":2020}

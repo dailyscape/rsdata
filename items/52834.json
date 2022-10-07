@@ -1,1 +1,1 @@
-{"examine":"This honeycomb will make your animals more fertile.","highalch":30,"icon":"Fertile honeycomb.png","id":52834,"limit":5000,"lowalch":20,"members":true,"name":"Fertile honeycomb","price":1195,"value":50}
+{"examine":"This honeycomb will make your animals more fertile.","id":52834,"members":true,"lowalch":20,"limit":5000,"value":50,"highalch":30,"icon":"Fertile honeycomb.png","name":"Fertile honeycomb","price":1195}

@@ -1,1 +1,1 @@
-{"examine":"1 dose of super fishing potion.","highalch":60,"icon":"Super fishing potion (1).png","id":52424,"limit":1000,"lowalch":40,"members":true,"name":"Super fishing potion (1)","price":109,"value":100}
+{"examine":"1 dose of super fishing potion.","id":52424,"members":true,"lowalch":40,"limit":1000,"value":100,"highalch":60,"icon":"Super fishing potion (1).png","name":"Super fishing potion (1)","price":109}

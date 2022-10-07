@@ -1,1 +1,1 @@
-{"examine":"A token used to unlock the Yak Plushie item.","icon":"Yak plushie token.png","id":40037,"limit":2,"members":false,"name":"Yak plushie token","price":1052604,"value":1}
+{"members":false,"name":"Yak plushie token","examine":"A token used to unlock the Yak Plushie item.","id":40037,"value":1,"icon":"Yak plushie token.png","limit":2,"price":1052604}

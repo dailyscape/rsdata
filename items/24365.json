@@ -1,1 +1,1 @@
-{"examine":"A large metal shield.","highalch":330000,"icon":"Dragon kiteshield.png","id":24365,"limit":100,"lowalch":220000,"members":true,"name":"Dragon kiteshield","price":352335,"value":550000}
+{"examine":"A large metal shield.","id":24365,"members":true,"lowalch":220000,"limit":100,"value":550000,"highalch":330000,"icon":"Dragon kiteshield.png","name":"Dragon kiteshield","price":352335}

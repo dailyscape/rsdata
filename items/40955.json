@@ -1,1 +1,1 @@
-{"examine":"Activate this to unlock the Sandcastle companion pet.","icon":"Sandcastle companion pet token.png","id":40955,"limit":2,"members":false,"name":"Sandcastle companion pet token","price":116408,"value":1}
+{"members":false,"name":"Sandcastle companion pet token","examine":"Activate this to unlock the Sandcastle companion pet.","id":40955,"value":1,"icon":"Sandcastle companion pet token.png","limit":2,"price":116408}

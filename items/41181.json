@@ -1,1 +1,1 @@
-{"examine":"Activate this to unlock the Keg companion pet.","icon":"Keg companion pet token.png","id":41181,"limit":2,"members":false,"name":"Keg companion pet token","price":9185432,"value":1}
+{"members":false,"name":"Keg companion pet token","examine":"Activate this to unlock the Keg companion pet.","id":41181,"value":1,"icon":"Keg companion pet token.png","limit":2,"price":9185432}

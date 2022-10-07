@@ -1,1 +1,1 @@
-{"examine":"This needs an earth rune to become active.","highalch":120,"icon":"Plain mining urn (nr).png","id":20392,"limit":400,"lowalch":80,"members":false,"name":"Plain mining urn (nr)","price":2089,"value":200}
+{"examine":"This needs an earth rune to become active.","id":20392,"members":false,"lowalch":80,"limit":400,"value":200,"highalch":120,"icon":"Plain mining urn (nr).png","name":"Plain mining urn (nr)","price":2089}

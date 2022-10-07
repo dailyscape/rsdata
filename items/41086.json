@@ -1,1 +1,1 @@
-{"examine":"When added to a herb patch, this handy device will protect it from death and disease.","icon":"Herb protector.png","id":41086,"limit":50,"members":true,"name":"Herb protector","price":14003,"value":2000}
+{"members":true,"name":"Herb protector","examine":"When added to a herb patch, this handy device will protect it from death and disease.","id":41086,"value":2000,"icon":"Herb protector.png","limit":50,"price":14003}

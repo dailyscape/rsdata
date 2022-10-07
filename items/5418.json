@@ -1,1 +1,1 @@
-{"examine":"An empty vegetable sack.","highalch":1,"icon":"Empty sack.png","id":5418,"limit":1000,"lowalch":1,"members":true,"name":"Empty sack","price":1001,"value":1}
+{"examine":"An empty vegetable sack.","id":5418,"members":true,"lowalch":1,"limit":1000,"value":1,"highalch":1,"icon":"Empty sack.png","name":"Empty sack","price":1001}

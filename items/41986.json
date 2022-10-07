@@ -1,1 +1,1 @@
-{"examine":"Contains a random selection of 2 sealed clue scrolls.","highalch":1,"icon":"Box of clue scrolls.png","id":41986,"limit":5,"lowalch":1,"members":true,"name":"Box of clue scrolls","price":3689170,"value":1}
+{"examine":"Contains a random selection of 2 sealed clue scrolls.","id":41986,"members":true,"lowalch":1,"limit":5,"value":1,"highalch":1,"icon":"Box of clue scrolls.png","name":"Box of clue scrolls","price":3689170}

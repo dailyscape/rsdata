@@ -1,1 +1,1 @@
-{"examine":"A necronium tool for carefully uncovering and excavating artefacts.","highalch":4500,"icon":"Necronium mattock.png","id":49560,"limit":100,"lowalch":3000,"members":true,"name":"Necronium mattock","price":24884,"value":7500}
+{"examine":"A necronium tool for carefully uncovering and excavating artefacts.","id":49560,"members":true,"lowalch":3000,"limit":100,"value":7500,"highalch":4500,"icon":"Necronium mattock.png","name":"Necronium mattock","price":24884}

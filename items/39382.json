@@ -1,1 +1,1 @@
-{"examine":"Consuming food grants an extra 100 health.","highalch":210,"icon":"Necklace of gluttony (new).png","id":39382,"limit":5000,"lowalch":140,"members":false,"name":"Necklace of gluttony (new)","price":1118,"value":350}
+{"examine":"Consuming food grants an extra 100 health.","id":39382,"members":false,"lowalch":140,"limit":5000,"value":350,"highalch":210,"icon":"Necklace of gluttony (new).png","name":"Necklace of gluttony (new)","price":1118}

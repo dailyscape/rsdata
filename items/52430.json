@@ -1,1 +1,1 @@
-{"examine":"2 doses of woodcutting potion.","highalch":90,"icon":"Woodcutting potion (2).png","id":52430,"limit":1000,"lowalch":60,"members":true,"name":"Woodcutting potion (2)","price":150,"value":150}
+{"examine":"2 doses of woodcutting potion.","id":52430,"members":true,"lowalch":60,"limit":1000,"value":150,"highalch":90,"icon":"Woodcutting potion (2).png","name":"Woodcutting potion (2)","price":150}

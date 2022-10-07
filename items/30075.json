@@ -1,1 +1,1 @@
-{"examine":"A small cooked fish.","highalch":3,"icon":"Minnow.png","id":30075,"limit":10000,"lowalch":2,"members":false,"name":"Minnow","price":37,"value":5}
+{"examine":"A small cooked fish.","id":30075,"members":false,"lowalch":2,"limit":10000,"value":5,"highalch":3,"icon":"Minnow.png","name":"Minnow","price":37}

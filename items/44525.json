@@ -1,1 +1,1 @@
-{"examine":"Activate this to unlock the Snowman building rest override.","icon":"Snowman building rest token.png","id":44525,"limit":2,"members":true,"name":"Snowman building rest token","price":7981892,"value":1}
+{"members":true,"name":"Snowman building rest token","examine":"Activate this to unlock the Snowman building rest override.","id":44525,"value":1,"icon":"Snowman building rest token.png","limit":2,"price":7981892}

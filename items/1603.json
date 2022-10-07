@@ -1,1 +1,1 @@
-{"examine":"This looks valuable.","highalch":600,"icon":"Ruby.png","id":1603,"limit":5000,"lowalch":400,"members":false,"name":"Ruby","price":354,"value":1000}
+{"examine":"This looks valuable.","id":1603,"members":false,"lowalch":400,"limit":5000,"value":1000,"highalch":600,"icon":"Ruby.png","name":"Ruby","price":354}

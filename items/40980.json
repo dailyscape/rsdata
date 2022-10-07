@@ -1,1 +1,1 @@
-{"examine":"Activate this to unlock the bubble blower.","icon":"Bubble blower token.png","id":40980,"limit":2,"members":false,"name":"Bubble blower token","price":915342,"value":1}
+{"members":false,"name":"Bubble blower token","examine":"Activate this to unlock the bubble blower.","id":40980,"value":1,"icon":"Bubble blower token.png","limit":2,"price":915342}

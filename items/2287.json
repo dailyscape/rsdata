@@ -1,1 +1,1 @@
-{"examine":"This needs cooking.","highalch":15,"id":2287,"limit":1000,"lowalch":10,"members":false,"name":"Uncooked pizza","price":1780,"value":25}
+{"limit":1000,"highalch":15,"name":"Uncooked pizza","examine":"This needs cooking.","id":2287,"value":25,"members":false,"lowalch":10,"price":1780}

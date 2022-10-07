@@ -1,1 +1,1 @@
-{"examine":"A tablet containing a magic teleport to the Barbarian Outpost.","highalch":1,"icon":"Barbarian teleport (item).png","id":50556,"limit":1000,"lowalch":1,"members":true,"name":"Barbarian teleport (item)","price":2545,"value":1}
+{"examine":"A tablet containing a magic teleport to the Barbarian Outpost.","id":50556,"members":true,"lowalch":1,"limit":1000,"value":1,"highalch":1,"icon":"Barbarian teleport (item).png","name":"Barbarian teleport (item)","price":2545}

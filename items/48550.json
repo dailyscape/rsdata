@@ -1,1 +1,1 @@
-{"examine":"Unlocks the Clover Staff override.","icon":"Clover staff token.png","id":48550,"limit":2,"members":false,"name":"Clover staff token","price":263908,"value":100000}
+{"members":false,"name":"Clover staff token","examine":"Unlocks the Clover Staff override.","id":48550,"value":100000,"icon":"Clover staff token.png","limit":2,"price":263908}

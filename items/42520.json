@@ -1,1 +1,1 @@
-{"examine":"It's an empty can of pitch. This can be refilled by creating special fire arrangements in Char's training pit.","icon":"Pitch can (empty).png","id":42520,"limit":50,"members":true,"name":"Pitch can (empty)","price":12343450,"value":1000}
+{"members":true,"name":"Pitch can (empty)","examine":"It's an empty can of pitch. This can be refilled by creating special fire arrangements in Char's training pit.","id":42520,"value":1000,"icon":"Pitch can (empty).png","limit":50,"price":12343450}

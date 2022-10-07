@@ -1,1 +1,1 @@
-{"examine":"Mmm this looks tasty.","highalch":11,"icon":"Cooked rabbit.png","id":3228,"limit":5000,"lowalch":7,"members":false,"name":"Cooked rabbit","price":105,"value":19}
+{"examine":"Mmm this looks tasty.","id":3228,"members":false,"lowalch":7,"limit":5000,"value":19,"highalch":11,"icon":"Cooked rabbit.png","name":"Cooked rabbit","price":105}

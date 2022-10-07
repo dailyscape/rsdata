@@ -1,1 +1,1 @@
-{"examine":"Successful fishing catches have a chance of finding various caskets. Higher-level fishing provides better chances. Lasts 3 hours.","id":33901,"limit":5,"members":true,"name":"Casket-salvaging scrimshaw","price":214880,"value":100000}
+{"name":"Casket-salvaging scrimshaw","examine":"Successful fishing catches have a chance of finding various caskets. Higher-level fishing provides better chances. Lasts 3 hours.","id":33901,"value":100000,"members":true,"limit":5,"price":214880}

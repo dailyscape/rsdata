@@ -1,1 +1,1 @@
-{"examine":"A box for holding level 40 resources (adamantite) and below.","highalch":100,"icon":"Adamant ore box.png","id":44787,"limit":100,"lowalch":67,"members":false,"name":"Adamant ore box","price":61303,"value":168}
+{"examine":"A box for holding level 40 resources (adamantite) and below.","id":44787,"members":false,"lowalch":67,"limit":100,"value":168,"highalch":100,"icon":"Adamant ore box.png","name":"Adamant ore box","price":61303}

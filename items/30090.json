@@ -1,1 +1,1 @@
-{"examine":"Combine 120 shards of this type to receive a Torva full helm.","icon":"Torva full helm shard.png","id":30090,"limit":240,"members":true,"name":"Torva full helm shard","price":10828,"value":1}
+{"members":true,"name":"Torva full helm shard","examine":"Combine 120 shards of this type to receive a Torva full helm.","id":30090,"value":1,"icon":"Torva full helm shard.png","limit":240,"price":10828}

@@ -1,1 +1,1 @@
-{"examine":"A token used to unlock the Crypt shieldbow ranged weapon override.","icon":"Crypt shieldbow token.png","id":42939,"limit":25,"members":false,"name":"Crypt shieldbow token","price":172306,"value":1}
+{"members":false,"name":"Crypt shieldbow token","examine":"A token used to unlock the Crypt shieldbow ranged weapon override.","id":42939,"value":1,"icon":"Crypt shieldbow token.png","limit":25,"price":172306}

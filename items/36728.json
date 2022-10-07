@@ -1,1 +1,1 @@
-{"examine":"Destroys a piece of augmented equipment with gizmos installed and returns the gizmos.","highalch":300,"id":36728,"limit":200,"lowalch":200,"members":true,"name":"Equipment dissolver","price":37721,"value":500}
+{"limit":200,"highalch":300,"name":"Equipment dissolver","examine":"Destroys a piece of augmented equipment with gizmos installed and returns the gizmos.","id":36728,"value":500,"members":true,"lowalch":200,"price":37721}

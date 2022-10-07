@@ -1,1 +1,1 @@
-{"examine":"A bane tool for carefully uncovering and excavating artefacts.","highalch":9000,"icon":"Bane mattock.png","id":49562,"limit":100,"lowalch":6000,"members":true,"name":"Bane mattock","price":38525,"value":15000}
+{"examine":"A bane tool for carefully uncovering and excavating artefacts.","id":49562,"members":true,"lowalch":6000,"limit":100,"value":15000,"highalch":9000,"icon":"Bane mattock.png","name":"Bane mattock","price":38525}

@@ -1,1 +1,1 @@
-{"examine":"Used in Smithing (60).","highalch":250,"icon":"Orichalcite ore.png","id":44822,"limit":25000,"lowalch":166,"members":true,"name":"Orichalcite ore","price":2778,"value":417}
+{"examine":"Used in Smithing (60).","id":44822,"members":true,"lowalch":166,"limit":25000,"value":417,"highalch":250,"icon":"Orichalcite ore.png","name":"Orichalcite ore","price":2778}

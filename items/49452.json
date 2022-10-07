@@ -1,1 +1,1 @@
-{"examine":"Enough of these would make a workable piece of leather.","highalch":150,"icon":"Leather scraps.png","id":49452,"limit":5000,"lowalch":100,"members":true,"name":"Leather scraps","price":1898,"value":250}
+{"examine":"Enough of these would make a workable piece of leather.","id":49452,"members":true,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"Leather scraps.png","name":"Leather scraps","price":1898}

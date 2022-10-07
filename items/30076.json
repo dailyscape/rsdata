@@ -1,1 +1,1 @@
-{"examine":"A small uncooked fish.","highalch":3,"icon":"Raw minnow.png","id":30076,"limit":10000,"lowalch":2,"members":false,"name":"Raw minnow","price":358,"value":5}
+{"examine":"A small uncooked fish.","id":30076,"members":false,"lowalch":2,"limit":10000,"value":5,"highalch":3,"icon":"Raw minnow.png","name":"Raw minnow","price":358}

@@ -1,1 +1,1 @@
-{"examine":"I wonder if I can get this enchanted.","highalch":60,"icon":"Opal amulet.png","id":39328,"limit":5000,"lowalch":40,"members":true,"name":"Opal amulet","price":1732,"value":100}
+{"examine":"I wonder if I can get this enchanted.","id":39328,"members":true,"lowalch":40,"limit":5000,"value":100,"highalch":60,"icon":"Opal amulet.png","name":"Opal amulet","price":1732}

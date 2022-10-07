@@ -1,1 +1,1 @@
-{"examine":"You will need to recharge the necklace at the Legends Guild.","highalch":12120,"icon":"Skills necklace.png","id":11113,"limit":500,"lowalch":8080,"members":true,"name":"Skills necklace","price":9585,"value":20200}
+{"examine":"You will need to recharge the necklace at the Legends Guild.","id":11113,"members":true,"lowalch":8080,"limit":500,"value":20200,"highalch":12120,"icon":"Skills necklace.png","name":"Skills necklace","price":9585}

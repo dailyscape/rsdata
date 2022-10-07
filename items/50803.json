@@ -1,1 +1,1 @@
-{"examine":"Essence of a time sprite captured in bottle form. Could be used as an potion ingredient or to cure various ailments.","highalch":60,"icon":"Timeworn tincture.png","id":50803,"limit":1000,"lowalch":40,"members":true,"name":"Timeworn tincture","price":1765,"value":100}
+{"examine":"Essence of a time sprite captured in bottle form. Could be used as an potion ingredient or to cure various ailments.","id":50803,"members":true,"lowalch":40,"limit":1000,"value":100,"highalch":60,"icon":"Timeworn tincture.png","name":"Timeworn tincture","price":1765}

@@ -1,1 +1,1 @@
-{"examine":"Activate this to unlock the Glacial Shieldbow override.","icon":"Glacial shieldbow token.png","id":49201,"limit":2,"members":true,"name":"Glacial shieldbow token","price":3815006,"value":1}
+{"members":true,"name":"Glacial shieldbow token","examine":"Activate this to unlock the Glacial Shieldbow override.","id":49201,"value":1,"icon":"Glacial shieldbow token.png","limit":2,"price":3815006}

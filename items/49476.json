@@ -1,1 +1,1 @@
-{"examine":"A pigment used for dying Bandosian clothing.","highalch":150,"icon":"Malachite green.png","id":49476,"limit":5000,"lowalch":100,"members":true,"name":"Malachite green","price":6300,"value":250}
+{"examine":"A pigment used for dying Bandosian clothing.","id":49476,"members":true,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"Malachite green.png","name":"Malachite green","price":6300}

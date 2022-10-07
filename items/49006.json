@@ -1,1 +1,1 @@
-{"examine":"1 dose of super cooking potion.","highalch":54,"icon":"Super cooking potion (1).png","id":49006,"limit":1000,"lowalch":36,"members":true,"name":"Super cooking potion (1)","price":645,"value":90}
+{"examine":"1 dose of super cooking potion.","id":49006,"members":true,"lowalch":36,"limit":1000,"value":90,"highalch":54,"icon":"Super cooking potion (1).png","name":"Super cooking potion (1)","price":645}

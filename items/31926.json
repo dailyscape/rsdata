@@ -1,1 +1,1 @@
-{"examine":"Can be used to recharge any of the reward insignias from Barbarian Assault.","icon":"Insignia recharge.png","id":31926,"limit":10,"members":true,"name":"Insignia recharge","price":303166,"value":95000}
+{"members":true,"name":"Insignia recharge","examine":"Can be used to recharge any of the reward insignias from Barbarian Assault.","id":31926,"value":95000,"icon":"Insignia recharge.png","limit":10,"price":303166}

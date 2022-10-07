@@ -1,1 +1,1 @@
-{"examine":"A succulently slimy slice of sumptuous snail.","highalch":12,"icon":"Lean snail meat.png","id":3371,"limit":1000,"lowalch":8,"members":true,"name":"Lean snail meat","price":499,"value":20}
+{"examine":"A succulently slimy slice of sumptuous snail.","id":3371,"members":true,"lowalch":8,"limit":1000,"value":20,"highalch":12,"icon":"Lean snail meat.png","name":"Lean snail meat","price":499}

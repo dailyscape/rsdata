@@ -1,1 +1,1 @@
-{"examine":"I can summon an abyssal demon familiar with this.","highalch":3000,"icon":"Binding contract (abyssal demon).png","id":49402,"limit":5000,"lowalch":2000,"members":true,"name":"Binding contract (abyssal demon)","price":43325,"value":5000}
+{"examine":"I can summon an abyssal demon familiar with this.","id":49402,"members":true,"lowalch":2000,"limit":5000,"value":5000,"highalch":3000,"icon":"Binding contract (abyssal demon).png","name":"Binding contract (abyssal demon)","price":43325}

@@ -1,1 +1,1 @@
-{"examine":"This keg contains 1 pint of Cider.","highalch":1,"id":5843,"limit":100,"lowalch":1,"members":true,"name":"Cider (1)","price":8474,"value":1}
+{"limit":100,"highalch":1,"name":"Cider (1)","examine":"This keg contains 1 pint of Cider.","id":5843,"value":1,"members":true,"lowalch":1,"price":8474}

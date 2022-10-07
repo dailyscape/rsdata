@@ -1,1 +1,1 @@
-{"examine":"2 doses of extreme attack potion.","highalch":99,"icon":"Extreme attack (2).png","id":15310,"limit":1000,"lowalch":66,"members":true,"name":"Extreme attack (2)","price":2447,"value":165}
+{"examine":"2 doses of extreme attack potion.","id":15310,"members":true,"lowalch":66,"limit":1000,"value":165,"highalch":99,"icon":"Extreme attack (2).png","name":"Extreme attack (2)","price":2447}

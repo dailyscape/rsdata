@@ -1,1 +1,1 @@
-{"examine":"An ancient torch. Burns away dead bark and roots to aid woodcutting.","highalch":300000,"icon":"Sana's fyrtorch.png","id":52246,"limit":10,"lowalch":200000,"members":true,"name":"Sana's fyrtorch","price":102678001,"value":500000}
+{"examine":"An ancient torch. Burns away dead bark and roots to aid woodcutting.","id":52246,"members":true,"lowalch":200000,"limit":10,"value":500000,"highalch":300000,"icon":"Sana's fyrtorch.png","name":"Sana's fyrtorch","price":102678001}

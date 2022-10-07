@@ -1,1 +1,1 @@
-{"examine":"Do not ingest. Used to mix extreme runecrafting potions.","highalch":96,"icon":"Spider venom.png","id":43997,"limit":5000,"lowalch":64,"members":true,"name":"Spider venom","price":418,"value":160}
+{"examine":"Do not ingest. Used to mix extreme runecrafting potions.","id":43997,"members":true,"lowalch":64,"limit":5000,"value":160,"highalch":96,"icon":"Spider venom.png","name":"Spider venom","price":418}

@@ -1,1 +1,1 @@
-{"examine":"I need another ingredient to finish this ranarr potion.","highalch":15,"id":99,"limit":10000,"lowalch":10,"members":true,"name":"Ranarr potion (unf)","price":7266,"value":25}
+{"limit":10000,"highalch":15,"name":"Ranarr potion (unf)","examine":"I need another ingredient to finish this ranarr potion.","id":99,"value":25,"members":true,"lowalch":10,"price":7266}

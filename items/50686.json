@@ -1,1 +1,1 @@
-{"examine":"The remains of a scorching fire, used as a black dye.","highalch":150,"icon":"Carbon black.png","id":50686,"limit":5000,"lowalch":100,"members":true,"name":"Carbon black","price":2088,"value":250}
+{"examine":"The remains of a scorching fire, used as a black dye.","id":50686,"members":true,"lowalch":100,"limit":5000,"value":250,"highalch":150,"icon":"Carbon black.png","name":"Carbon black","price":2088}

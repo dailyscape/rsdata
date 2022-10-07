@@ -1,1 +1,1 @@
-{"examine":"1 dose of super mining potion.","highalch":165,"icon":"Super mining potion (1).png","id":52456,"limit":1000,"lowalch":110,"members":true,"name":"Super mining potion (1)","price":291,"value":275}
+{"examine":"1 dose of super mining potion.","id":52456,"members":true,"lowalch":110,"limit":1000,"value":275,"highalch":165,"icon":"Super mining potion (1).png","name":"Super mining potion (1)","price":291}

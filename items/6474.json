@@ -1,1 +1,1 @@
-{"examine":"Pour this on compost to turn it into supercompost.","highalch":36,"icon":"Compost potion (2).png","id":6474,"limit":100,"lowalch":24,"members":true,"name":"Compost potion (2)","price":4375,"value":60}
+{"examine":"Pour this on compost to turn it into supercompost.","id":6474,"members":true,"lowalch":24,"limit":100,"value":60,"highalch":36,"icon":"Compost potion (2).png","name":"Compost potion (2)","price":4375}

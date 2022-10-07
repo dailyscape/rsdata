@@ -1,1 +1,1 @@
-{"examine":"6 doses of super fishing potion in a flask.","highalch":60,"icon":"Super fishing flask (6).png","id":52350,"limit":100,"lowalch":40,"members":true,"name":"Super fishing flask (6)","price":310,"value":100}
+{"examine":"6 doses of super fishing potion in a flask.","id":52350,"members":true,"lowalch":40,"limit":100,"value":100,"highalch":60,"icon":"Super fishing flask (6).png","name":"Super fishing flask (6)","price":310}

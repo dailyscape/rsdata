@@ -1,1 +1,1 @@
-{"examine":"A scroll for a gargoyle familiar.","highalch":3000,"icon":"Gargoyle scroll (Hammer Rock).png","id":49410,"limit":5000,"lowalch":2000,"members":true,"name":"Gargoyle scroll (Hammer Rock)","price":4422,"value":5000}
+{"examine":"A scroll for a gargoyle familiar.","id":49410,"members":true,"lowalch":2000,"limit":5000,"value":5000,"highalch":3000,"icon":"Gargoyle scroll (Hammer Rock).png","name":"Gargoyle scroll (Hammer Rock)","price":4422}

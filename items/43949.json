@@ -1,1 +1,1 @@
-{"examine":"This honeycomb is very dense, useful for adding extra pounds to an animal.","highalch":3,"icon":"Dense honeycomb.png","id":43949,"limit":5000,"lowalch":2,"members":true,"name":"Dense honeycomb","price":1204,"value":5}
+{"examine":"This honeycomb is very dense, useful for adding extra pounds to an animal.","id":43949,"members":true,"lowalch":2,"limit":5000,"value":5,"highalch":3,"icon":"Dense honeycomb.png","name":"Dense honeycomb","price":1204}

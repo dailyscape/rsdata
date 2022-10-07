@@ -1,1 +1,1 @@
-{"examine":"This raw beef is rancid.","highalch":1,"icon":"Raw undead beef.png","id":4287,"limit":100,"lowalch":1,"members":true,"name":"Raw undead beef","price":408,"value":1}
+{"examine":"This raw beef is rancid.","id":4287,"members":true,"lowalch":1,"limit":100,"value":1,"highalch":1,"icon":"Raw undead beef.png","name":"Raw undead beef","price":408}

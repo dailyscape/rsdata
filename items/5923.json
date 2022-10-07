@@ -1,1 +1,1 @@
-{"examine":"This keg contains 1 pint of mature Cider.","highalch":1,"id":5923,"limit":100,"lowalch":1,"members":true,"name":"Cider (m1)","price":3074,"value":1}
+{"limit":100,"highalch":1,"name":"Cider (m1)","examine":"This keg contains 1 pint of mature Cider.","id":5923,"value":1,"members":true,"lowalch":1,"price":3074}

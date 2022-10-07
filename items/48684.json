@@ -1,1 +1,1 @@
-{"examine":"A marvelously moreish meal.","highalch":600,"icon":"Primal main course.png","id":48684,"limit":1000,"lowalch":400,"members":true,"name":"Primal main course","price":160872,"value":1000}
+{"examine":"A marvelously moreish meal.","id":48684,"members":true,"lowalch":400,"limit":1000,"value":1000,"highalch":600,"icon":"Primal main course.png","name":"Primal main course","price":160872}

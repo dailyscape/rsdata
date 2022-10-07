@@ -1,1 +1,1 @@
-{"examine":"I need another ingredient to finish this harralander potion.","highalch":12,"id":97,"limit":10000,"lowalch":8,"members":true,"name":"Harralander potion (unf)","price":2816,"value":20}
+{"limit":10000,"highalch":12,"name":"Harralander potion (unf)","examine":"I need another ingredient to finish this harralander potion.","id":97,"value":20,"members":true,"lowalch":8,"price":2816}

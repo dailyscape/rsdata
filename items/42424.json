@@ -1,1 +1,1 @@
-{"examine":"A token used to unlock the fish in a bag item.","icon":"Fish in a bag token.png","id":42424,"limit":2,"members":false,"name":"Fish in a bag token","price":8660587,"value":1}
+{"members":false,"name":"Fish in a bag token","examine":"A token used to unlock the fish in a bag item.","id":42424,"value":1,"icon":"Fish in a bag token.png","limit":2,"price":8660587}

@@ -1,1 +1,1 @@
-{"examine":"A fleshy lump of Abyssal origin, full of parasites.","highalch":31,"icon":"Abyssal flesh.png","id":52937,"limit":500,"lowalch":20,"members":true,"name":"Abyssal flesh","price":4798,"value":52}
+{"examine":"A fleshy lump of Abyssal origin, full of parasites.","id":52937,"members":true,"lowalch":20,"limit":500,"value":52,"highalch":31,"icon":"Abyssal flesh.png","name":"Abyssal flesh","price":4798}

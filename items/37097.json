@@ -1,1 +1,1 @@
-{"examine":"Combine 120 shards of this type to receive a Blade of Avaryss.","highalch":1,"icon":"Blade of avaryss shard.png","id":37097,"limit":240,"lowalch":1,"members":true,"name":"Blade of avaryss shard","price":19504,"value":1}
+{"examine":"Combine 120 shards of this type to receive a Blade of Avaryss.","id":37097,"members":true,"lowalch":1,"limit":240,"value":1,"highalch":1,"icon":"Blade of avaryss shard.png","name":"Blade of avaryss shard","price":19504}

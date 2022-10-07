@@ -1,1 +1,1 @@
-{"examine":"This needs a fire rune to become active.","highalch":168,"icon":"Strong smelting urn (nr).png","id":20290,"limit":400,"lowalch":112,"members":true,"name":"Strong smelting urn (nr)","price":471,"value":280}
+{"examine":"This needs a fire rune to become active.","id":20290,"members":true,"lowalch":112,"limit":400,"value":280,"highalch":168,"icon":"Strong smelting urn (nr).png","name":"Strong smelting urn (nr)","price":471}

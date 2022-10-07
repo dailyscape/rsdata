@@ -1,1 +1,1 @@
-{"examine":"Harralander Incense: Each potency level provides a 25% increase to run energy restore rate while resting.","highalch":38,"icon":"Harralander incense sticks.png","id":47702,"limit":1000,"lowalch":25,"members":true,"name":"Harralander incense sticks","price":1668,"value":64}
+{"examine":"Harralander Incense: Each potency level provides a 25% increase to run energy restore rate while resting.","id":47702,"members":true,"lowalch":25,"limit":1000,"value":64,"highalch":38,"icon":"Harralander incense sticks.png","name":"Harralander incense sticks","price":1668}
