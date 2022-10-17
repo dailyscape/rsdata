@@ -6241,7 +6241,7 @@ var rssearchdata =
 "53559":"Bohr pet token",
 "53560":"Wilderness shoulder cape",
 "53562":"Ultramarine shoulder cape",
-"53564":"Guilded shoulder cape",
+"53564":"Gilded shoulder cape",
 "53566":"Inferno shoulder cape",
 "53568":"Stargazer shoulder cape",
 "53612":"'Emerald' title scroll",
