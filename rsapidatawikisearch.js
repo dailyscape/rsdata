@@ -6262,4 +6262,9 @@ var rssearchdata =
 "53925":"Dark Facet of Passage",
 "53938":"Chaotic Swiftness cosmetic ability scroll",
 "53940":"Molten Barricade cosmetic ability scroll",
-"53942":"Shock Barricade cosmetic ability scroll"};
+"53942":"Shock Barricade cosmetic ability scroll",
+"53982":"Purple hallowe'en mask",
+"53988":"Boolap Bag Mask token",
+"53992":"Spooky Hare Mask token",
+"53996":"Spooky Ghost Mask token",
+"53997":"Wraith walk override token"};
