@@ -1,1 +1,1 @@
-{"limit":500,"highalch":38,"name":"Torstol seed","examine":"A torstol seed - plant in a herb patch.","id":5304,"value":64,"members":true,"lowalch":25,"name_pt":"Semente de torstol","price":1793,"last":1710}
+{"examine":"A torstol seed - plant in a herb patch.","id":5304,"members":true,"lowalch":25,"limit":1000,"value":64,"highalch":38,"icon":"Torstol seed.png","name":"Torstol seed","name_pt":"Semente de torstol","price":1883,"last":1793}

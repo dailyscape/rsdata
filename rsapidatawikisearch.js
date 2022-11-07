@@ -1274,7 +1274,7 @@ var rssearchdata =
 "5105":"Whiteberry seed",
 "5106":"Poison ivy seed",
 "5280":"Cactus seed",
-"5281":"Belladonna seed",
+"5281":"Cave nightshade seed",
 "5282":"Bittercap mushroom spore",
 "5283":"Apple tree seed",
 "5284":"Banana tree seed",
@@ -4283,7 +4283,7 @@ var rssearchdata =
 "41039":"Lucky dragonkin coin",
 "41073":"Divine charge (empty)",
 "41086":"Herb protector",
-"41087":"Miraculous treatment",
+"41087":"Liquid patch bomb",
 "41088":"Whetstone (device)",
 "41106":"Cinderbane gloves",
 "41169":"Novtumberfest outfit token",
@@ -6267,4 +6267,8 @@ var rssearchdata =
 "53988":"Boolap Bag Mask token",
 "53992":"Spooky Hare Mask token",
 "53996":"Spooky Ghost Mask token",
-"53997":"Wraith walk override token"};
+"53997":"Wraith walk override token",
+"54004":"Mystical sand seed",
+"54006":"Crux Eqal hood",
+"54018":"Elemental anima stone",
+"54019":"Catalytic anima stone"};
