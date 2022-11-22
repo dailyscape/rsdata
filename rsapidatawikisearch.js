@@ -6270,4 +6270,7 @@ var rssearchdata =
 "54004":"Mystical sand seed",
 "54006":"Crux Eqal hood",
 "54018":"Elemental anima stone",
-"54019":"Catalytic anima stone"};
+"54019":"Catalytic anima stone",
+"54032":"Frosty shoulder cape",
+"54034":"Frozen shoulder cape",
+"54070":"Stratus Cloud Token"};
