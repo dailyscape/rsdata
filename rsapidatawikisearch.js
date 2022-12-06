@@ -6273,4 +6273,5 @@ var rssearchdata =
 "54019":"Catalytic anima stone",
 "54032":"Frosty shoulder cape",
 "54034":"Frozen shoulder cape",
-"54070":"Stratus Cloud Token"};
+"54070":"Stratus Cloud Token",
+"54138":"Aurora dye"};
