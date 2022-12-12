@@ -6274,4 +6274,8 @@ var rssearchdata =
 "54032":"Frosty shoulder cape",
 "54034":"Frozen shoulder cape",
 "54070":"Stratus Cloud Token",
-"54138":"Aurora dye"};
+"54138":"Aurora dye",
+"54358":"Santa costume top (green)",
+"54360":"Santa costume gloves (green)",
+"54362":"Santa costume legs (green)",
+"54364":"Santa costume boots (green)"};
