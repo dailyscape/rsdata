@@ -49,12 +49,13 @@ twomonthsago = time.gmtime(time.time() - (60 * 60 * 24 * 60))
 
 # parse items
 for ely_item in ely_data:
+    elyname = re.sub(r"[^ A-Za-z0-9()'-]", "", " ".join(ely_item['name'].split())).replace("'", "%27")
+
     if elyname.lower().startswith(('deleted item', 'disabled')):
         print('skipping ' + elyname)
         continue
 
     mapped=newmap.get(str(ely_item['id']))
-    elyname = re.sub(r"[^ A-Za-z0-9()'-]", "", " ".join(ely_item['name'].split())).replace("'", "%27")
 
     if not mapped:
         rsitemid = 'ely-' + str(ely_item['id'])
