@@ -69,17 +69,21 @@ else:
             else:
                 open(image_path, 'wb').write(image_download.content)
 
+        # get last price from old data
+        old_item_data = load_json_file(api_items_directory + wiki_id + '.json')
+        wiki_item['last'] = old_item_data['price']
+
         if wiki_id in items_data:
-            items_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price']}
+            items_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'last': wiki_item['last']}
 
         if wiki_id in alch_data:
-            alch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'highalch': wiki_item['highalch']}
+            alch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'highalch': wiki_item['highalch'], 'last': wiki_item['last']}
 
         if wiki_id in watch_data:
             if 'elyid' in watch_data[wiki_id]:
-                watch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'elyid': watch_data[wiki_id]['elyid']}
+                watch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'elyid': watch_data[wiki_id]['elyid'], 'last': wiki_item['last']}
             else:
-                watch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price']}
+                watch_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'last': wiki_item['last']}
 
         search_out[wiki_id] = wiki_item['name']
 
