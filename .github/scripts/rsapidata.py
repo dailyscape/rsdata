@@ -69,9 +69,10 @@ else:
             else:
                 open(image_path, 'wb').write(image_download.content)
 
-        # get last price from old data
-        old_item_data = load_json_file(api_items_directory + wiki_id + '.json')
-        wiki_item['last'] = old_item_data['price']
+        # safeguard for if `last` price is not included in wiki data (it was removed in the past)
+        if not 'last' in wiki_item:
+            old_item_data = load_json_file(api_items_directory + wiki_id + '.json')
+            wiki_item['last'] = old_item_data['price']
 
         if wiki_id in items_data:
             items_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'last': wiki_item['last']}
