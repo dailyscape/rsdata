@@ -6278,4 +6278,7 @@ var rssearchdata =
 "54358":"Santa costume top (green)",
 "54360":"Santa costume gloves (green)",
 "54362":"Santa costume legs (green)",
-"54364":"Santa costume boots (green)"};
+"54364":"Santa costume boots (green)",
+"54377":"Chaotic hurricane cosmetic ability scroll",
+"54379":"Chaotic berserk cosmetic ability scroll",
+"54381":"Azure sunshine cosmetic ability scroll"};
