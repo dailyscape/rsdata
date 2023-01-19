@@ -92,7 +92,7 @@ for ely_item in ely_data:
             break
 
     # or just the last price
-    if len(pricedata) == 0:
+    if len(pricedata) == 0 and item_data['items']:
         pricedata.append(item_data['items'][0])
 
     items_out[rsitemid] = {'elyname': elyname, 'elyid': str(ely_item['id']), 'elyprices': pricedata}
