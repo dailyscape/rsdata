@@ -82,7 +82,7 @@ for ely_item in ely_data:
     pricedata = []
     pricecount = 0
     for item in item_data['items']:
-        itemdate = time.strptime(item['date'], '%Y-%m-%d')
+        itemdate = time.strptime(item['date'], '%Y-%m-%d-%H:%M')
 
         if itemdate >= twomonthsago:
             pricedata.append(item)
