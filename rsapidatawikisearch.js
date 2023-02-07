@@ -6281,4 +6281,6 @@ var rssearchdata =
 "54364":"Santa costume boots (green)",
 "54377":"Chaotic hurricane cosmetic ability scroll",
 "54379":"Chaotic berserk cosmetic ability scroll",
-"54381":"Azure sunshine cosmetic ability scroll"};
+"54381":"Azure sunshine cosmetic ability scroll",
+"54409":"Rose tinted glasses",
+"54416":"Rose petal aura override token"};
