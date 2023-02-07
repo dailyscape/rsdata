@@ -71,8 +71,12 @@ else:
 
         # safeguard for if `last` price is not included in wiki data (it was removed in the past)
         if not 'last' in wiki_item:
-            old_item_data = load_json_file(api_items_directory + wiki_id + '.json')
-            wiki_item['last'] = old_item_data['price']
+            old_item_file = api_items_directory + wiki_id + '.json'
+            if os.path.isfile(old_item_file):
+                old_item_data = load_json_file(old_item_file)
+                wiki_item['last'] = old_item_data['price']
+            else:
+                wiki_item['last'] = 0
 
         if wiki_id in items_data:
             items_out[wiki_id] = {'name': wiki_item['name'], 'price': wiki_item['price'], 'last': wiki_item['last']}
