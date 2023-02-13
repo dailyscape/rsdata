@@ -2988,7 +2988,7 @@ var rssearchdata =
 "19477":"Miscellania Teleport",
 "19478":"Phoenix Lair Teleport",
 "19479":"Tai Bwo Wannai Teleport",
-"19480":"Lumber Yard Teleport",
+"19480":"Fort Forinthry Teleport",
 "19600":"Bandos page 1",
 "19601":"Bandos page 2",
 "19602":"Bandos page 3",
@@ -6283,4 +6283,13 @@ var rssearchdata =
 "54379":"Chaotic berserk cosmetic ability scroll",
 "54381":"Azure sunshine cosmetic ability scroll",
 "54409":"Rose tinted glasses",
-"54416":"Rose petal aura override token"};
+"54416":"Rose petal aura override token",
+"54444":"Refined planks",
+"54446":"Refined Oak planks",
+"54448":"Refined Teak planks",
+"54450":"Refined Mahogany planks",
+"54452":"Wooden frame",
+"54454":"Oak frame",
+"54456":"Teak frame",
+"54458":"Mahogany frame",
+"54460":"Stone wall segment"};
