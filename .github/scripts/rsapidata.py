@@ -74,7 +74,7 @@ else:
             old_item_file = api_items_directory + wiki_id + '.json'
             if os.path.isfile(old_item_file):
                 old_item_data = load_json_file(old_item_file)
-                wiki_item['last'] = old_item_data['price']
+                wiki_item['last'] = old_item_data['price'] if 'price' in old_item_data else 0
             else:
                 wiki_item['last'] = 0
 
