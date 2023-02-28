@@ -6292,4 +6292,8 @@ var rssearchdata =
 "54454":"Oak frame",
 "54456":"Teak frame",
 "54458":"Mahogany frame",
-"54460":"Stone wall segment"};
+"54460":"Stone wall segment",
+"54468":"Royal shoulder cape (Red)",
+"54470":"Royal shoulder cape (Black)",
+"54472":"Noble shoulder cape",
+"54474":"Dragon crested shoulder cape"};
