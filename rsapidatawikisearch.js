@@ -6296,4 +6296,8 @@ var rssearchdata =
 "54468":"Royal shoulder cape (Red)",
 "54470":"Royal shoulder cape (Black)",
 "54472":"Noble shoulder cape",
-"54474":"Dragon crested shoulder cape"};
+"54474":"Dragon crested shoulder cape",
+"54533":"Herald's Hat token",
+"54534":"Herald's Jacket and Gloves token",
+"54535":"Herald's Trousers and Boots token",
+"54536":"Herald's Wand and Orb token"};
