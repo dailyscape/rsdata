@@ -6300,4 +6300,7 @@ var rssearchdata =
 "54533":"Herald's Hat token",
 "54534":"Herald's Jacket and Gloves token",
 "54535":"Herald's Trousers and Boots token",
-"54536":"Herald's Wand and Orb token"};
+"54536":"Herald's Wand and Orb token",
+"54560":"Ruby Suit token",
+"54561":"Emerald Suit token",
+"54562":"Diamond Suit token"};
