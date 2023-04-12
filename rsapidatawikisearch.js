@@ -6348,4 +6348,5 @@ var rssearchdata =
 "54698":"Ghostly Bunny appearance token",
 "54700":"Newton Bunny appearance token",
 "54702":"Shamini Bunny appearance token",
-"54704":"Archie Bunny appearance token"};
+"54704":"Archie Bunny appearance token",
+"54725":"Greater Sonic wave ability codex"};
