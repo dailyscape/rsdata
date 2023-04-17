@@ -6279,9 +6279,9 @@ var rssearchdata =
 "54360":"Santa costume gloves (green)",
 "54362":"Santa costume legs (green)",
 "54364":"Santa costume boots (green)",
-"54377":"Chaotic hurricane cosmetic ability scroll",
-"54379":"Chaotic berserk cosmetic ability scroll",
-"54381":"Azure sunshine cosmetic ability scroll",
+"54377":"Chaotic Hurricane cosmetic ability scroll",
+"54379":"Chaotic Berserk cosmetic ability scroll",
+"54381":"Azure Sunshine cosmetic ability scroll",
 "54409":"Rose tinted glasses",
 "54416":"Rose petal aura override token",
 "54444":"Refined planks",
@@ -6349,4 +6349,6 @@ var rssearchdata =
 "54700":"Newton Bunny appearance token",
 "54702":"Shamini Bunny appearance token",
 "54704":"Archie Bunny appearance token",
-"54725":"Greater Sonic wave ability codex"};
+"54725":"Greater Sonic wave ability codex",
+"54731":"Azure Swiftness cosmetic ability scroll",
+"54733":"Ice Barricade cosmetic ability scroll"};
