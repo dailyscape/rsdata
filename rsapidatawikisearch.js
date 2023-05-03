@@ -6345,6 +6345,6 @@ var rssearchdata =
 "54700":"Newton Bunny appearance token",
 "54702":"Shamini Bunny appearance token",
 "54704":"Archie Bunny appearance token",
-"54725":"Greater Sonic wave ability codex",
+"54725":"Greater Sonic Wave ability codex",
 "54731":"Azure Swiftness cosmetic ability scroll",
 "54733":"Ice Barricade cosmetic ability scroll"};
