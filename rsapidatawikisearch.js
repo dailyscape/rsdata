@@ -6348,4 +6348,6 @@ var rssearchdata =
 "54725":"Greater Sonic Wave ability codex",
 "54731":"Azure Swiftness cosmetic ability scroll",
 "54733":"Ice Barricade cosmetic ability scroll",
-"54768":"Ranger Roll walk override token"};
+"54768":"Ranger Roll walk override token",
+"54798":"Fletching cleaner (Inactive)",
+"54801":"Crafting cleaner (Inactive)"};
