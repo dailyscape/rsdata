@@ -6349,5 +6349,7 @@ var rssearchdata =
 "54731":"Azure Swiftness cosmetic ability scroll",
 "54733":"Ice Barricade cosmetic ability scroll",
 "54768":"Ranger Roll walk override token",
+"54792":"Slayer Wildcard",
+"54797":"Artisanal gears",
 "54798":"Fletching cleaner (Inactive)",
 "54801":"Crafting cleaner (Inactive)"};
