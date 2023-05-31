@@ -6352,4 +6352,5 @@ var rssearchdata =
 "54792":"Slayer Wildcard",
 "54797":"Artisanal gears",
 "54798":"Fletching cleaner (Inactive)",
-"54801":"Crafting cleaner (Inactive)"};
+"54801":"Crafting cleaner (Inactive)",
+"54821":"Golden cape"};
