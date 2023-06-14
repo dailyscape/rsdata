@@ -6353,4 +6353,7 @@ var rssearchdata =
 "54797":"Artisanal gears",
 "54798":"Fletching cleaner (Inactive)",
 "54801":"Crafting cleaner (Inactive)",
-"54821":"Golden cape"};
+"54821":"Golden cape",
+"54824":"Blood Ice Barricade cosmetic ability scroll",
+"54826":"Azure Berserk cosmetic ability scroll",
+"54828":"Azure Reprisal cosmetic ability scroll"};
