@@ -6517,4 +6517,7 @@ var rssearchdata =
 "55667":"Impure essence",
 "55695":"Boulder Pet Token",
 "55696":"Running Scared Walk Override Token",
-"55697":"Ground miasma rune"};
+"55697":"Ground miasma rune",
+"55699":"Fungal Tendrils cosmetic ability scroll",
+"55701":"Fungal Hurricane cosmetic ability scroll",
+"55703":"Fungal Assault cosmetic ability scroll"};
