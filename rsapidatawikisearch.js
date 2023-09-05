@@ -6521,4 +6521,5 @@ var rssearchdata =
 "55699":"Fungal Tendrils cosmetic ability scroll",
 "55701":"Fungal Hurricane cosmetic ability scroll",
 "55703":"Fungal Assault cosmetic ability scroll",
-"55737":"Enforcer walk override token"};
+"55737":"Enforcer walk override token",
+"55911":"Hedge Teleport token"};
