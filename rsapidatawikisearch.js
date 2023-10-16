@@ -6522,4 +6522,14 @@ var rssearchdata =
 "55701":"Fungal Hurricane cosmetic ability scroll",
 "55703":"Fungal Assault cosmetic ability scroll",
 "55737":"Enforcer walk override token",
-"55911":"Hedge Teleport token"};
+"55911":"Hedge Teleport token",
+"55968":"Orange hallowe'en mask",
+"55973":"Ensouled pumpkin mask",
+"55976":"'o'-lantern' title scroll",
+"55978":"Soul Surge cosmetic ability scroll",
+"55980":"Soul Dive cosmetic ability scroll",
+"55982":"Overhead Emotes: Necromancy",
+"55984":"Overhead Emotes: Halloween",
+"55986":"Icthlarin chapel token",
+"55987":"Pumpkin trees token",
+"55988":"Pumpkin beret override token"};
