@@ -6557,4 +6557,6 @@ var rssearchdata =
 "56161":"Black partyhat",
 "56188":"Festive Warrior (Skeleton Warrior) scroll",
 "56207":"Fairy Light Fishing token",
-"56222":"Purple Santa hat"};
+"56222":"Purple Santa hat",
+"56317":"Winter Hat (Aurora)",
+"56318":"Winter Scarf (Aurora)"};
