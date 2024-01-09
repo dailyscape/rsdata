@@ -6559,4 +6559,5 @@ var rssearchdata =
 "56207":"Fairy Light Fishing token",
 "56222":"Purple Santa hat",
 "56317":"Winter Hat (Aurora)",
-"56318":"Winter Scarf (Aurora)"};
+"56318":"Winter Scarf (Aurora)",
+"56321":"Vorkath's scale"};
