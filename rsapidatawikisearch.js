@@ -6560,4 +6560,7 @@ var rssearchdata =
 "56222":"Purple Santa hat",
 "56317":"Winter Hat (Aurora)",
 "56318":"Winter Scarf (Aurora)",
-"56321":"Vorkath's scale"};
+"56321":"Vorkath's scale",
+"56375":"Cherry blossom fan token",
+"56376":"Cherry blossom wand token",
+"56377":"Cherry blossom orb token"};
