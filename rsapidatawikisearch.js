@@ -6574,4 +6574,5 @@ var rssearchdata =
 "56412":"Alteration necklace",
 "56414":"Conjurer's raising amulet",
 "56416":"Passing bracelet",
-"56418":"Ring of imbuing"};
+"56418":"Ring of imbuing",
+"56536":"Dolorous Witch hairstyle token"};
