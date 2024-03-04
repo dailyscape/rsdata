@@ -6575,4 +6575,7 @@ var rssearchdata =
 "56414":"Conjurer's raising amulet",
 "56416":"Passing bracelet",
 "56418":"Ring of imbuing",
-"56536":"Dolorous Witch hairstyle token"};
+"56536":"Dolorous Witch hairstyle token",
+"56541":"Fungal Swiftness cosmetic ability scroll",
+"56543":"Chaotic Assault cosmetic ability scroll",
+"56545":"Azure Hurricane cosmetic ability scroll"};
