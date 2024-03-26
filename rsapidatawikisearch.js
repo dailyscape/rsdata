@@ -6580,4 +6580,5 @@ var rssearchdata =
 "56543":"Chaotic Assault cosmetic ability scroll",
 "56545":"Azure Hurricane cosmetic ability scroll",
 "56600":"Omen Bunny appearance token",
-"56602":"Rainbow Dragonbreath cosmetic ability scroll"};
+"56602":"Rainbow Dragonbreath cosmetic ability scroll",
+"56628":"Power Flower Basket (Inactive)"};
