@@ -2635,7 +2635,7 @@ var rssearchdata =
 "12827":"Abyssal Titan scroll (Essence Shipment)",
 "12828":"Iron Titan scroll (Iron Within)",
 "12829":"Pyrelord scroll (Immense Heat)",
-"12830":"Ravenous Locut scroll (Famine)",
+"12830":"Ravenous Locust scroll (Famine)",
 "12831":"Talon Beast scroll (Deadly Claw)",
 "12832":"Swamp Titan scroll (Swamp Plague)",
 "12833":"Geyser Titan scroll (Boil)",
