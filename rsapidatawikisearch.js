@@ -6581,4 +6581,5 @@ var rssearchdata =
 "56545":"Azure Hurricane cosmetic ability scroll",
 "56600":"Omen Bunny appearance token",
 "56602":"Rainbow Dragonbreath cosmetic ability scroll",
-"56628":"Power Flower Basket (Inactive)"};
+"56628":"Power Flower Basket (Inactive)",
+"56778":"Shadow Gem Pernix Token"};
