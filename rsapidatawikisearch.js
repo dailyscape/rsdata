@@ -6598,4 +6598,7 @@ var rssearchdata =
 "56846":"Edimmu Wildcard",
 "56851":"Stalker Creature Wildcard",
 "56856":"Lava Strykewyrm Wildcard",
-"56861":"Abyssal Creature Wildcard"};
+"56861":"Abyssal Creature Wildcard",
+"56876":"Jail cell key",
+"56878":"Occultist's ring",
+"56880":"Occultist's ring shard"};
