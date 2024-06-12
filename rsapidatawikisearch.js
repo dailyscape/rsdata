@@ -6602,7 +6602,6 @@ var rssearchdata =
 "56876":"Jail cell key",
 "56878":"Occultist's ring",
 "56880":"Occultist's ring shard",
-"56909":"Shirt of pride",
 "56958":"Corrupted Combust cosmetic ability scroll",
 "57014":"Balarak's sash brush piece 1",
 "57016":"Balarak's sash brush piece 2",
