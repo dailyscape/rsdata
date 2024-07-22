@@ -6629,4 +6629,10 @@ var rssearchdata =
 "57036":"Rainbow trail aura override token",
 "57078":"Arcane apprentice umbrella token",
 "57087":"Casual Beachwear outfit token",
-"57092":"Summer Warrior (Skeleton Warrior) token"};
+"57092":"Summer Warrior (Skeleton Warrior) token",
+"57124":"Scripture of Amascut",
+"57127":"Manuscript of Amascut",
+"57128":"Shard of Genesis Essence",
+"57156":"Divine Rage prayer codex",
+"57158":"Ode to Deceit",
+"57162":"Roar of Awakening"};
