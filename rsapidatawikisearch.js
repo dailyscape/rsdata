@@ -204,7 +204,7 @@ var rssearchdata =
 "573":"Air orb",
 "575":"Earth orb",
 "577":"Wizard robe top",
-"579":"Wizard hat (blue)",
+"579":"Wizard hat",
 "581":"Black wizard robe top",
 "590":"Tinderbox",
 "592":"Ashes",
