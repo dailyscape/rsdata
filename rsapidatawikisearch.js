@@ -4497,7 +4497,7 @@ var rssearchdata =
 "42770":"Blightbound crossbow",
 "42774":"Off-hand Blightbound crossbow",
 "42782":"Purple mushroom",
-"42785":"Erethdor's grimoire (token)",
+"42785":"Erethdor's grimoire",
 "42893":"Cursed amascut sand",
 "42935":"Forsaken graahk pet token",
 "42936":"Tomb gorilla pet token",
