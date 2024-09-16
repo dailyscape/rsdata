@@ -6709,4 +6709,11 @@ var rssearchdata =
 "57442":"Demonic essence",
 "57444":"Primed glorious bar",
 "57462":"Masterwork 2h sword",
-"57465":"Broken Masterwork 2h sword"};
+"57465":"Broken Masterwork 2h sword",
+"57519":"Runic attuner",
+"57521":"Memory dowser",
+"57523":"Manuscript of Elidinis",
+"57524":"Scripture of Elidinis",
+"57528":"Latent Offering",
+"57544":"Eclipsed Soul prayer codex",
+"57546":"Moonstone dust"};
