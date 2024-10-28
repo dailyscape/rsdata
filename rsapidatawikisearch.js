@@ -6725,7 +6725,7 @@ var rssearchdata =
 "57656":"Mask of the Araxytes",
 "57659":"Mask of the Matriarchs",
 "57662":"Mask of the Grove Guardian",
-"57668":"Pumpkin Souls cosmetic ability scroll",
+"57668":"Pumpkin Residual Souls cosmetic ability scroll",
 "57670":"Amascut chapel token",
 "57673":"Primal Guardian (Phantom Guardian) cosmetic ability scroll",
 "57675":"Frozen Basic Attack (Necromancy) cosmetic ability scroll",
