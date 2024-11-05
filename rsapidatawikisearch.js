@@ -6737,4 +6737,6 @@ var rssearchdata =
 "57687":"Warped Touch of Death cosmetic ability scroll",
 "57689":"Warped Finger of Death cosmetic ability scroll",
 "57691":"Warped Death Skulls cosmetic ability scroll",
-"57693":"Warped Living Death cosmetic ability scroll"};
+"57693":"Warped Living Death cosmetic ability scroll",
+"57762":"Pestilent Torva Armour Token",
+"57871":"Spectral lens"};
