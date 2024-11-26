@@ -6739,4 +6739,7 @@ var rssearchdata =
 "57691":"Warped Death Skulls cosmetic ability scroll",
 "57693":"Warped Living Death cosmetic ability scroll",
 "57762":"Pestilent Torva Armour Token",
-"57871":"Spectral lens"};
+"57871":"Spectral lens",
+"57903":"Black Christmas scythe",
+"57919":"Shrouded Veil token",
+"57920":"Faded Veil token"};
