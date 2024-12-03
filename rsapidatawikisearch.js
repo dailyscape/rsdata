@@ -6742,4 +6742,15 @@ var rssearchdata =
 "57871":"Spectral lens",
 "57903":"Black Christmas scythe",
 "57919":"Shrouded Veil token",
-"57920":"Faded Veil token"};
+"57920":"Faded Veil token",
+"57941":"Pink Santa hat",
+"57953":"Festive Guardian (Phantom Guardian) cosmetic ability scroll",
+"57954":"Festive Warrior (Skeleton Warrior) (Set 2) scroll",
+"57974":"Pink Candy Cane Token",
+"57975":"Orange Candy Cane Token",
+"57976":"Cyan Candy Cane Token",
+"57977":"Blue Candy Cane Token",
+"57978":"Red Candy Cane Token",
+"57979":"Green Candy Cane Token",
+"57980":"Purple Candy Cane Token",
+"57981":"Black Candy Cane Token"};
