@@ -6799,5 +6799,9 @@ var rssearchdata =
 "58250":"Eternal magic logs",
 "58253":"Eternal magic wood box",
 "58255":"Eternal magic wood spirit",
+"58256":"Bird whistle",
+"58257":"Sharpening stone",
+"58258":"Imbued bird feed",
+"58259":"Lumberjack's courage",
 "58261":"Aurora Trail aura override token",
 "58262":"Winter Sports Outfit token"};
