@@ -6804,4 +6804,5 @@ var rssearchdata =
 "58258":"Imbued bird feed",
 "58259":"Lumberjack's courage",
 "58261":"Aurora Trail aura override token",
-"58262":"Winter Sports Outfit token"};
+"58262":"Winter Sports Outfit token",
+"58273":"Aurora Santa hat"};
