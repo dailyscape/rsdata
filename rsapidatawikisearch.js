@@ -6806,4 +6806,5 @@ var rssearchdata =
 "58261":"Aurora Trail aura override token",
 "58262":"Winter Sports Outfit token",
 "58273":"Aurora Santa hat",
-"58288":"Snowball Pet Token"};
+"58288":"Snowball Pet Token",
+"58319":"Scorched sand"};
