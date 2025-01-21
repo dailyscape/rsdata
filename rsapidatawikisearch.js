@@ -6807,4 +6807,16 @@ var rssearchdata =
 "58262":"Winter Sports Outfit token",
 "58273":"Aurora Santa hat",
 "58288":"Snowball Pet Token",
-"58319":"Scorched sand"};
+"58319":"Scorched sand",
+"58334":"Frozen Surge cosmetic ability scroll",
+"58336":"Frozen Escape cosmetic ability scroll",
+"58338":"Frozen Dive cosmetic ability scroll",
+"58340":"Frozen Overpower cosmetic ability scroll",
+"58342":"Frozen Deadshot cosmetic ability scroll",
+"58344":"Frozen Omnipower cosmetic ability scroll",
+"58346":"Warped Surge cosmetic ability scroll",
+"58348":"Warped Escape cosmetic ability scroll",
+"58350":"Warped Dive cosmetic ability scroll",
+"58352":"Warped Overpower cosmetic ability scroll",
+"58354":"Warped Deadshot cosmetic ability scroll",
+"58356":"Warped Omnipower cosmetic ability scroll"};
