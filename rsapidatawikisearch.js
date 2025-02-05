@@ -6807,7 +6807,6 @@ var rssearchdata =
 "58262":"Winter Sports Outfit token",
 "58273":"Aurora Santa hat",
 "58288":"Snowball Pet Token",
-"58319":"Scorched sand",
 "58334":"Frozen Surge cosmetic ability scroll",
 "58336":"Frozen Escape cosmetic ability scroll",
 "58338":"Frozen Dive cosmetic ability scroll",
