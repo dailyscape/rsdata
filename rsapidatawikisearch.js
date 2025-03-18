@@ -6839,4 +6839,5 @@ var rssearchdata =
 "58513":"Eternal magic wand (saturated)",
 "58516":"Eternal magic orb (inert)",
 "58518":"Eternal magic orb (meagre)",
-"58524":"Eternal magic orb (saturated)"};
+"58524":"Eternal magic orb (saturated)",
+"58566":"Hellforged Warrior Armour Token"};
