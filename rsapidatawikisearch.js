@@ -6852,4 +6852,9 @@ var rssearchdata =
 "58809":"Chocolate Basket Token",
 "58812":"Daisy Basket Token",
 "58815":"Blue Flower Basket Token",
-"58882":"Grapevine seed"};
+"58882":"Grapevine seed",
+"58909":"Springbloom Hat token",
+"58911":"Springbloom Staff token",
+"58913":"Springbloom Aura token",
+"58915":"Witch's Ride walk token",
+"58916":"Springbloom Hime hairstyle token"};
