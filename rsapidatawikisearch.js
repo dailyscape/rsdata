@@ -6935,4 +6935,7 @@ var rssearchdata =
 "59231":"Platinum amulet",
 "59233":"Amulet of the expert (new)",
 "59236":"Platinum anklet",
-"59238":"Delver's anklet (new)"};
+"59238":"Delver's anklet (new)",
+"59263":"Dragonstone Gala Attire token",
+"59264":"Onyx Gala Attire token",
+"59265":"Hydrix Gala Attire token"};
