@@ -6933,4 +6933,6 @@ var rssearchdata =
 "59238":"Delver's anklet (new)",
 "59263":"Dragonstone Gala Attire token",
 "59264":"Onyx Gala Attire token",
-"59265":"Hydrix Gala Attire token"};
+"59265":"Hydrix Gala Attire token",
+"59269":"Duskrunner's Outfit token",
+"59270":"Duskrunner's Hairstyle token"};
