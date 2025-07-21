@@ -6935,4 +6935,6 @@ var rssearchdata =
 "59264":"Onyx Gala Attire token",
 "59265":"Hydrix Gala Attire token",
 "59269":"Duskrunner's Outfit token",
-"59270":"Duskrunner's Hairstyle token"};
+"59270":"Duskrunner's Hairstyle token",
+"59315":"Casual Beachwear outfit token (59315)",
+"59317":"Summer Warrior (Skeleton Warrior) token (59317)"};
