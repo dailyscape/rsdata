@@ -6937,4 +6937,13 @@ var rssearchdata =
 "59269":"Duskrunner's Outfit token",
 "59270":"Duskrunner's Hairstyle token",
 "59315":"Casual Beachwear outfit token (59315)",
-"59317":"Summer Warrior (Skeleton Warrior) token (59317)"};
+"59317":"Summer Warrior (Skeleton Warrior) token (59317)",
+"59336":"Robe top of Tumeken's resplendence",
+"59340":"Boots of Tumeken's resplendence",
+"59342":"Gloves of Tumeken's resplendence",
+"59344":"Mask of Tumeken's resplendence",
+"59346":"Robe bottom of Tumeken's resplendence",
+"59350":"Tumeken's Light",
+"59354":"Devourer's Guard",
+"59358":"The Devourer's Nexus (unattuned)",
+"59361":"Necrotic anima stone"};
