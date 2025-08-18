@@ -6958,4 +6958,5 @@ var rssearchdata =
 "59382":"Primal armour set + 2",
 "59384":"Primal armour set + 3",
 "59386":"Primal armour set + 4",
-"59388":"Primal armour set + 5"};
+"59388":"Primal armour set + 5",
+"59412":"Tuska's Wrath ability codex"};
