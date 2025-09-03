@@ -1,1 +1,1 @@
-{"name":"Perfect mead","examine":"A glass containing the greatest mead ever created.","id":59433,"members":false,"name_pt":"Mel perfeito","examine_pt":null,"price":2,"last":2,"volume":0}
+{"examine":"A glass containing the greatest mead ever created.","id":59433,"members":false,"lowalch":1,"limit":100,"value":2,"highalch":1,"icon":"Perfect mead.png","name":"Perfect mead","name_pt":"Mel perfeito","examine_pt":null,"price":2,"last":2,"volume":0}
