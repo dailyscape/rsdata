@@ -6960,4 +6960,5 @@ var rssearchdata =
 "59386":"Primal armour set + 4",
 "59388":"Primal armour set + 5",
 "59412":"Tuska's Wrath ability codex",
-"59433":"Perfect mead"};
+"59433":"Perfect mead",
+"59650":"Heavenforged Warrior Armour Token"};
