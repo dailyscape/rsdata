@@ -6961,4 +6961,16 @@ var rssearchdata =
 "59388":"Primal armour set + 5",
 "59412":"Tuska's Wrath ability codex",
 "59433":"Perfect mead",
-"59650":"Heavenforged Warrior Armour Token"};
+"59650":"Heavenforged Warrior Armour Token",
+"59670":"Warped Kinship Teleport token",
+"59672":"Frozen Kinship Teleport token",
+"59674":"Frozen Loot Beam token",
+"59676":"Warped Loot Beam token",
+"59678":"Frozen Trail token",
+"59679":"Warped Trail token",
+"59680":"Chaotic maul warped dye kit",
+"59682":"Chaotic rapier warped dye kit",
+"59684":"Chaotic crossbow warped dye kit",
+"59696":"Chaotic maul frozen dye kit",
+"59698":"Chaotic rapier frozen dye kit",
+"59700":"Chaotic crossbow frozen dye kit"};
