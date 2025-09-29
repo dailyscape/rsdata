@@ -6973,4 +6973,6 @@ var rssearchdata =
 "59684":"Chaotic crossbow warped dye kit",
 "59696":"Chaotic maul frozen dye kit",
 "59698":"Chaotic rapier frozen dye kit",
-"59700":"Chaotic crossbow frozen dye kit"};
+"59700":"Chaotic crossbow frozen dye kit",
+"59740":"Shadowstep aura override token",
+"59741":"Smokestep aura override token"};
