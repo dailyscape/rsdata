@@ -6975,4 +6975,7 @@ var rssearchdata =
 "59698":"Chaotic rapier frozen dye kit",
 "59700":"Chaotic crossbow frozen dye kit",
 "59740":"Shadowstep aura override token",
-"59741":"Smokestep aura override token"};
+"59741":"Smokestep aura override token",
+"59756":"Meteorite cannonball",
+"59757":"Meteorite chunk",
+"59759":"Meteorite dust"};
