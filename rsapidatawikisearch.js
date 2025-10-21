@@ -6992,4 +6992,5 @@ var rssearchdata =
 "59811":"Batnado Teleport token",
 "59813":"Blood Soul Surge cosmetic ability scroll",
 "59815":"Blood Soul Dive cosmetic ability scroll",
-"59817":"Blood Soul Escape cosmetic ability scroll"};
+"59817":"Blood Soul Escape cosmetic ability scroll",
+"59820":"Yellow hallowe'en mask"};
