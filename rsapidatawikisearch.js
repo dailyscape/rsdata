@@ -6993,4 +6993,5 @@ var rssearchdata =
 "59813":"Blood Soul Surge cosmetic ability scroll",
 "59815":"Blood Soul Dive cosmetic ability scroll",
 "59817":"Blood Soul Escape cosmetic ability scroll",
-"59820":"Yellow hallowe'en mask"};
+"59820":"Yellow hallowe'en mask",
+"59823":"Soul dyed hallowe'en mask"};
