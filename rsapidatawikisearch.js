@@ -7049,4 +7049,9 @@ var rssearchdata =
 "60050":"Blessed Chain scroll",
 "60051":"Corrupted Chain scroll",
 "60052":"Blessed Concentrated Blast scroll",
-"60053":"Corrupted Concentrated Blast scroll"};
+"60053":"Corrupted Concentrated Blast scroll",
+"60088":"Stalker's charm",
+"60091":"Yulemourne Armour Override Token",
+"60092":"Yulemourne Greatsword Override Token",
+"60093":"Frosted Tips hairstyle token",
+"60101":"Dragon harpoon"};
