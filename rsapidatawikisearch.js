@@ -7012,6 +7012,7 @@ var rssearchdata =
 "59852":"Catalyst teleport token",
 "59917":"Legatus's Emberstaff",
 "59921":"Varanus's Mercy",
+"59925":"Nodon spike harness",
 "59926":"Jal-tok-yt",
 "59928":"Am-hej",
 "59930":"Am-zi",
