@@ -7055,4 +7055,5 @@ var rssearchdata =
 "60091":"Yulemourne Armour Override Token",
 "60092":"Yulemourne Greatsword Override Token",
 "60093":"Frosted Tips hairstyle token",
-"60101":"Dragon harpoon"};
+"60101":"Dragon harpoon",
+"60115":"Festive aurora Santa hat"};
