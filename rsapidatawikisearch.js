@@ -7076,7 +7076,7 @@ var rssearchdata =
 "60404":"Mourning lily",
 "60472":"Jackalope pouch",
 "60474":"Jackalope scroll (Dig for Soil)",
-"60475":"Wendlewick teleport",
+"60475":"Wendlewick teleport (item)",
 "60476":"Wendlewick ale (1)",
 "60478":"Wendlewick ale (2)",
 "60480":"Wendlewick ale (3)",
