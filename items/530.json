@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":1,"name":"Bat bones","examine":"Ew, it's a pile of bones.","id":530,"value":1,"members":false,"lowalch":1,"name_pt":"Ossos de morcego","examine_pt":null,"price":1709,"last":1709,"volume":423}
+{"examine":"Ew, it's a pile of bones.","id":530,"members":false,"lowalch":16,"limit":10000,"value":40,"highalch":24,"icon":"Bat bones.png","name":"Bat bones","name_pt":"Ossos de morcego","examine_pt":null,"price":1709,"last":1709,"volume":297}

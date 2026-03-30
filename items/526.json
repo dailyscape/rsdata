@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":1,"name":"Bones","examine":"Bones are for burying.","id":526,"value":1,"members":false,"lowalch":1,"name_pt":"Ossos","examine_pt":null,"price":231,"last":224,"volume":379362}
+{"examine":"Bones are for burying.","id":526,"members":false,"lowalch":10,"limit":10000,"value":26,"highalch":15,"icon":"Bones.png","name":"Bones","name_pt":"Ossos","examine_pt":null,"price":238,"last":231,"volume":1126777}
