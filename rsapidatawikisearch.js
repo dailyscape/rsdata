@@ -7173,4 +7173,7 @@ var rssearchdata =
 "60791":"Black chinchompa",
 "60799":"Vampyrism gloves",
 "60803":"Tainted seed",
-"60807":"Sirenic essence"};
+"60807":"Sirenic essence",
+"61117":"Saradomin's hum",
+"61120":"Saradomin's hum shard",
+"61427":"Warped stone"};
