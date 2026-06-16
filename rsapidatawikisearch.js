@@ -7176,4 +7176,10 @@ var rssearchdata =
 "60807":"Sirenic essence",
 "61117":"Saradomin's hum",
 "61120":"Saradomin's hum shard",
-"61427":"Warped stone"};
+"61427":"Warped stone",
+"61699":"Burnt umber",
+"61701":"Ivory",
+"61703":"Cashmere",
+"61705":"Triskelion",
+"61707":"Banded limestone",
+"61709":"Mossy peat"};
