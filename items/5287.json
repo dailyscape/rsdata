@@ -1,1 +1,1 @@
-{"limit":100,"highalch":44,"name":"Pineapple seed","examine":"Plant in a plantpot of soil to grow a sapling.","id":5287,"value":74,"members":true,"lowalch":29,"name_pt":"Semente de abacaxi","examine_pt":null,"price":167,"last":170,"volume":685}
+{"examine":"Plant in a plantpot of soil to grow a sapling.","id":5287,"members":true,"lowalch":29,"limit":100,"value":74,"highalch":44,"icon":"Pineapple seed 5.png","name":"Pineapple seed","name_pt":"Semente de abacaxi","examine_pt":null,"price":167,"last":167,"volume":1380}

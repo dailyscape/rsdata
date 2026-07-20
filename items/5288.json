@@ -1,1 +1,1 @@
-{"limit":100,"highalch":69,"name":"Papaya tree seed","examine":"Plant in a plantpot of soil to grow a sapling.","id":5288,"value":115,"members":true,"lowalch":46,"name_pt":"Semente de mamoeiro","examine_pt":null,"price":110,"last":110,"volume":1974}
+{"examine":"Plant in a plantpot of soil to grow a sapling.","id":5288,"members":true,"lowalch":46,"limit":100,"value":115,"highalch":69,"icon":"Papaya tree seed 5.png","name":"Papaya tree seed","name_pt":"Semente de mamoeiro","examine_pt":null,"price":105,"last":110,"volume":3728}

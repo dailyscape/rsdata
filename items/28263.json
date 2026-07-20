@@ -1,1 +1,1 @@
-{"limit":100,"highalch":24,"name":"Reed seed","examine":"A reed seed - plant in a hops patch.","id":28263,"value":40,"members":true,"lowalch":16,"name_pt":"Semente de junco","examine_pt":null,"price":76,"last":76,"volume":9184}
+{"examine":"A reed seed - plant in a hops patch.","id":28263,"members":true,"lowalch":16,"limit":100,"value":40,"highalch":24,"icon":"Reed seed 5.png","name":"Reed seed","name_pt":"Semente de junco","examine_pt":null,"price":75,"last":76,"volume":11783}

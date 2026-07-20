@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":360,"name":"Araxyte arrow","examine":"An arrow made using a spider's talon.","id":31737,"value":600,"members":true,"lowalch":240,"name_pt":"Flecha de aracnita","examine_pt":null,"price":189,"last":189,"volume":331292}
+{"examine":"An arrow made using a spider's talon.","id":31737,"members":true,"lowalch":240,"limit":10000,"value":600,"highalch":360,"icon":"Araxyte arrow 5.png","name":"Araxyte arrow","name_pt":"Flecha de aracnita","examine_pt":null,"price":189,"last":189,"volume":479022}

@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":4,"name":"Bronze arrow","examine":"Ammunition for shieldbows and shortbows. Used with the Ranged skill (1).","id":882,"value":7,"members":false,"lowalch":2,"name_pt":"Flecha de bronze","examine_pt":null,"price":155,"last":155,"volume":942648}
+{"examine":"Ammunition for shieldbows and shortbows. Used with the Ranged skill (1).","id":882,"members":false,"lowalch":2,"limit":10000,"value":7,"highalch":4,"icon":"Bronze arrow 5.png","name":"Bronze arrow","name_pt":"Flecha de bronze","examine_pt":null,"price":148,"last":155,"volume":1813165}

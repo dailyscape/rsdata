@@ -1,1 +1,1 @@
-{"limit":100,"highalch":48,"name":"Butterfly flower seed","examine":"A butterfly flower seed - plant in a flower patch.","id":28265,"value":80,"members":true,"lowalch":32,"name_pt":"Semente de flor borboleta","examine_pt":null,"price":153,"last":153,"volume":2643}
+{"examine":"A butterfly flower seed - plant in a flower patch.","id":28265,"members":true,"lowalch":32,"limit":100,"value":80,"highalch":48,"icon":"Butterfly flower seed 5.png","name":"Butterfly flower seed","name_pt":"Semente de flor borboleta","examine_pt":null,"price":153,"last":153,"volume":2379}

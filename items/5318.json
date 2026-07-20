@@ -1,1 +1,1 @@
-{"limit":500,"highalch":4,"name":"Potato seed","examine":"A potato seed - plant in an allotment. Used in Farming (1).","id":5318,"value":8,"members":false,"lowalch":3,"name_pt":"Semente de batata","examine_pt":null,"price":197,"last":197,"volume":78278}
+{"examine":"A potato seed - plant in an allotment. Used in Farming (1).","id":5318,"members":false,"lowalch":3,"limit":500,"value":8,"highalch":4,"icon":"Potato seed 5.png","name":"Potato seed","name_pt":"Semente de batata","examine_pt":null,"price":193,"last":197,"volume":159065}

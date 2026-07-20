@@ -1,1 +1,1 @@
-{"limit":100,"highalch":51,"name":"Jute seed","examine":"A jute plant seed - plant in a hops patch.","id":5306,"value":86,"members":true,"lowalch":34,"name_pt":"Semente de juta","examine_pt":null,"price":61,"last":61,"volume":5996}
+{"examine":"A jute plant seed - plant in a hops patch.","id":5306,"members":true,"lowalch":34,"limit":100,"value":86,"highalch":51,"icon":"Jute seed 5.png","name":"Jute seed","name_pt":"Semente de juta","examine_pt":null,"price":61,"last":61,"volume":16416}
