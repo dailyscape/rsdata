@@ -1,1 +1,1 @@
-{"id":63377,"name":"Bane crossbow (unstrung)","examine":"An unstrung bane crossbow.","members":true,"name_pt":"Balestra de maldicita (sem corda)","examine_pt":"Uma balestra de maldicita sem corda.","price":15000,"last":15000,"volume":0}
+{"name":"Bane crossbow (unstrung)","examine":"An unstrung bane crossbow.","id":63377,"members":true,"icon":"Bane crossbow (unstrung).png","name_pt":"Balestra de maldicita (sem corda)","examine_pt":null,"price":15000,"last":15000,"volume":0}

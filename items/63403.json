@@ -1,1 +1,1 @@
-{"id":63403,"name":"Eternal magic longbow (unstrung)","examine":"You need to find a string for this longbow.","members":true,"name_pt":"Arco longo de Magia Eterna (sem corda)","examine_pt":"Você precisa achar uma corda para este arco longo.","price":3500,"last":3500,"volume":1}
+{"name":"Eternal magic longbow (unstrung)","examine":"You need to find a string for this longbow.","id":63403,"members":true,"icon":"Eternal magic longbow (unstrung).png","name_pt":"Arco longo de Magia Eterna (sem corda)","examine_pt":null,"price":3500,"last":3500,"volume":301}
