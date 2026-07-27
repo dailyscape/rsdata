@@ -1,1 +1,1 @@
-{"limit":5000,"highalch":1536,"name":"Magic longbow","examine":"A nice sturdy magical bow.","id":859,"value":2560,"members":false,"lowalch":1024,"name_pt":"Arco longo mágico","examine_pt":null,"price":2531,"last":2531,"volume":87738}
+{"examine":"A nice sturdy bow.","id":859,"members":true,"lowalch":2304,"limit":5000,"value":5760,"highalch":3456,"icon":"Magic longbow.png","name":"Magic longbow","name_pt":"Arco longo mágico","examine_pt":null,"price":2598,"last":2531,"volume":94215}

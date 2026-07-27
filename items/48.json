@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":36,"name":"Longbow (unstrung)","examine":"I need to find a string for this.","id":48,"value":60,"members":false,"lowalch":24,"name_pt":"Arco longo (sem corda)","examine_pt":null,"price":312,"last":312,"volume":1314}
+{"examine":"You need to find a string for this longbow.","id":48,"members":false,"lowalch":768,"limit":10000,"value":1920,"highalch":1152,"icon":"Longbow (unstrung).png","name":"Longbow (unstrung)","name_pt":"Arco longo (sem corda)","examine_pt":null,"price":328,"last":312,"volume":6544}
