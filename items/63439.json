@@ -1,1 +1,1 @@
-{"name":"Eternal frame","examine":"A structural frame for a building made from refined eternal planks.","id":63439,"members":true,"icon":"Eternal frame.png","name_pt":"Estrutura eterna","examine_pt":null,"price":10162,"last":10162,"volume":35253}
+{"examine":"A structural frame for a building made from refined eternal planks.","id":63439,"members":true,"lowalch":2400,"limit":10000,"value":6000,"highalch":3600,"icon":"Eternal frame.png","name":"Eternal frame","name_pt":"Estrutura eterna","examine_pt":null,"price":10642,"last":10162,"volume":94595}

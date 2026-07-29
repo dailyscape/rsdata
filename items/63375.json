@@ -1,1 +1,1 @@
-{"name":"Necronium crossbow (unstrung)","examine":"An unstrung necronium crossbow.","id":63375,"members":true,"icon":"Necronium crossbow (unstrung).png","name_pt":"Balestra de necrônio (sem corda)","examine_pt":null,"price":10000,"last":10000,"volume":1}
+{"examine":"An unstrung necronium crossbow.","id":63375,"members":true,"lowalch":880,"limit":1000,"value":2201,"highalch":1320,"icon":"Necronium crossbow (unstrung).png","name":"Necronium crossbow (unstrung)","name_pt":"Balestra de necrônio (sem corda)","examine_pt":null,"price":10000,"last":10000,"volume":0}
