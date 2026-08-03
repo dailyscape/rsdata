@@ -1,1 +1,1 @@
-{"limit":10000,"highalch":13,"name":"Shortbow (unstrung)","examine":"I need to find a string for this.","id":50,"value":23,"members":false,"lowalch":9,"name_pt":"Arco curto (sem corda)","examine_pt":null,"price":1054,"last":1082,"volume":1384}
+{"examine":"You need to find a string for this shortbow.","id":50,"members":false,"lowalch":9,"limit":10000,"value":23,"highalch":13,"icon":"Shortbow (unstrung).png","name":"Shortbow (unstrung)","name_pt":"Arco curto (sem corda)","examine_pt":null,"price":1054,"last":1054,"volume":3199}
