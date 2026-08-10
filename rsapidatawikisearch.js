@@ -7308,4 +7308,17 @@ var rssearchdata =
 "63403":"Eternal magic longbow (unstrung)",
 "63405":"Acadia shortbow (unstrung)",
 "63437":"Refined Eternal planks",
-"63439":"Eternal frame"};
+"63439":"Eternal frame",
+"63601":"Equilibrium teleport token",
+"63602":"Equilibrium Relic Hunter (Tier 1) token",
+"63603":"Equilibrium Relic Hunter (Tier 2) token",
+"63604":"Equilibrium Relic Hunter (Tier 3) token",
+"63605":"Bria pet token",
+"63623":"Equilibrium aura token",
+"63632":"'The Balanced' title",
+"63634":"Guthix greatsword token",
+"63636":"Omni guard ornament kit",
+"63641":"Soulbound lantern ornament kit",
+"63652":"Furniture plans: Guthixian grandmaster portal nexus",
+"63654":"Furniture plans: Guthixian house portal",
+"63656":"Furniture plans: Guthixian torch"};
