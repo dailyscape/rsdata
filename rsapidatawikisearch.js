@@ -6991,7 +6991,7 @@ var rssearchdata =
 "60387":"Cream tea",
 "60389":"Fish and chips",
 "60394":"Oaken key",
-"60404":"Mourning lily",
+"60404":"Mourning lily (Hearts of Sanguine)",
 "60472":"Jackalope pouch",
 "60474":"Jackalope scroll (Dig for Soil)",
 "60475":"Wendlewick teleport (item)",
