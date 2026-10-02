@@ -7347,7 +7347,7 @@ var rssearchdata =
 "63966":"Super antisanguine flask (6)",
 "63978":"Extreme antisanguine flask (6)",
 "63990":"Bogwart",
-"63992":"Mourning lily (63992)",
+"63992":"Mourning lily",
 "64002":"Mourning lily seed",
 "64003":"Bogwart spore",
 "64009":"Hogfish",
