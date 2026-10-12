@@ -7361,4 +7361,10 @@ var rssearchdata =
 "64027":"Extreme antisanguine (4)",
 "64029":"Extreme antisanguine (3)",
 "64031":"Extreme antisanguine (2)",
-"64033":"Extreme antisanguine (1)"};
+"64033":"Extreme antisanguine (1)",
+"64135":"Pink hallowe'en mask",
+"64145":"Pink pumpkin",
+"64153":"Invoke Arisen Flesh incantation codex",
+"64187":"Furniture plans: Harvest Hollow portal nexus",
+"64191":"Malachi's tooth",
+"64195":"Malachi's claw"};
