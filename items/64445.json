@@ -1,1 +1,1 @@
-{"id":64445,"name":"Teak corner bookcase","examine":"Holds books.","members":true,"name_pt":"Estante de livros angular de teca","examine_pt":"Contém livros.","price":400,"last":400,"volume":0}
+{"examine":"Holds books.","id":64445,"members":true,"lowalch":40,"limit":100,"value":100,"highalch":60,"icon":"Teak corner bookcase.png","name":"Teak corner bookcase","name_pt":"Estante de livros angular de teca","examine_pt":null,"price":400,"last":400,"volume":0}

@@ -1,1 +1,1 @@
-{"id":64443,"name":"Oak corner bookcase","examine":"A good source of books!","members":true,"name_pt":"Estante de livros angular de carvalho","examine_pt":"Uma boa fonte de livros!","price":100,"last":100,"volume":0}
+{"examine":"A good source of books!","id":64443,"members":true,"lowalch":20,"limit":100,"value":50,"highalch":30,"icon":"Oak corner bookcase.png","name":"Oak corner bookcase","name_pt":"Estante de livros angular de carvalho","examine_pt":null,"price":100,"last":100,"volume":0}
